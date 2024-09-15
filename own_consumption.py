@@ -97,7 +97,7 @@ df = pd.merge(df, load_region_lowder_data(), on='Region', how='left')
 df = pd.merge(df, load_gross_prod(), on=['Country', 'Year'], how='left')
 
 df = calculate_own_consumption(df)
-# This look bad, but only at the end I realized that this column is not used
+# This look bad, but only at the end I realized that this column is not used - need to change it
 df = df.drop('Value of agricultural production sold at the market, share of total value of agricultural production (%)', axis=1)
 
 df.to_csv('total_value_of_agriculture_2.csv', index=False)
