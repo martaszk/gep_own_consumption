@@ -1,3 +1,13 @@
+"""
+Construct data: This script loads and transforms data from FAO Rulis (Value of crop used for own consumption, share of total value of crop production (%)) 
+with FAO data on Agricultural Production per Area (USD_PPP/ha). Own consumption is calculated for value of production from cropland area of small holder farms (<2h) based on Lowder 2021 paper.
+Own consumption is calculated for countries classified as low and lower-middle income countries by World Bank classification.
+
+# Calculate own consumption with equation
+    # GEP_subsistence_crops = (Agricultural Production per Area (USD_PPP/ha in a given country and year at the national level) 
+    # * (Cropland area national 1000 ha * % of ha for smallholderfarms <2ha from Lowder 2021)  
+    # * (Value of crop used for own consumption, share of total value of crop production (%) for questionanires)
+"""
 import pandas as pd
 
 def load_WB_class():
@@ -76,10 +86,9 @@ def calculate_own_consumption(df):
     # Calculate own consumption with equation
     # GEP_subsistence_crops = (Agricultural Production per Area (USD_PPP/ha in give country and year at the national level) 
     # * (Cropland area national 1000 ha * % of ha for smallholderfarms <2ha from Lowder 2021)  
-    # * (Value of crop used for own consumption, share of total value of crop production (%) for questionanires)* (A_reg)
-    df['Own Consumption (%)'] = (
+    # * (Value of crop used for own consumption, share of total value of crop production (%) for questionanires)
+    df['Own Consumption'] = (
         (df['Value_x'] * (df['< 1 ha'] + df['1–2 ha']) * df['Agricultural Production per Area (USD_PPP/ha)'] * df['Value of crop used for own consumption, share of total value of crop production (%)'] / 100) 
-        / df['Value_y'] 
         ) 
 
     return df
@@ -100,5 +109,4 @@ df = calculate_own_consumption(df)
 # This look bad, but only at the end I realized that this column is not used - need to change it
 df = df.drop('Value of agricultural production sold at the market, share of total value of agricultural production (%)', axis=1)
 
-df.to_csv('total_value_of_agriculture_2.csv', index=False)
-print(f"The average percentage of own consumption is: {df['Own Consumption (%)'].mean():.2f}%")
+df.to_csv('total_value_of_agriculture_3.csv', index=False)
