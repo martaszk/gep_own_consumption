@@ -1,0 +1,989 @@
+﻿Domain Code;Domain;Area Code (M49);Country;Element Code;Element;Item Code (CPC);Item;Year Code;Year;Unit;Value;Flag;Flag Description
+QV;Value of Agricultural Production;51;Armenia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;350466516;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;349461965;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;432368979;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;499352256;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;517032466;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;445443517;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;552449263;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;701844876;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;691205466;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;760879243;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;817979804;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;793078511;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;732883278;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;733375080;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;739621787;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;713252334;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;708240824;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;778061527;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;862599340;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;656980;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;763539;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;1039248;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;1459757;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;1689818;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;1226160;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;1478479;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;1884143;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;1720427;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;1857499;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;1966677;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;1659444;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;1525289;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;1519267;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;1531346;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;1484566;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;1448319;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;1544479;E;Estimated value
+QV;Value of Agricultural Production;51;Armenia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;1979955;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;495387230;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;598073369;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;699200022;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;825533739;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;997913070;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;992800461;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;1081645004;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;1304759953;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;1501468186;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;1713837507;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;1781488817;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;1834441821;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;1882700336;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;2258101091;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;2429799568;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;2172473568;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;2495067155;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;3071249335;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;3291187097;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;8324062;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;9297322;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;10143153;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;11985988;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;14547201;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;14380268;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;15529878;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;17595654;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;18341307;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;21943233;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;22945086;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;23534504;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;23993196;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;28072726;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;29111179;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;25723895;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;29398212;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;36096774;E;Estimated value
+QV;Value of Agricultural Production;50;Bangladesh;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;35873026;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;137961187;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;144015658;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;146273298;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;159930191;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;170332295;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;1694948793;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;1616662707;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;1991380582;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;1504868955;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;1790553380;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;2439229491;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;2014497500;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;2025017986;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;2189217137;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;1905591186;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;2219173498;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;2621289351;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;2980684786;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;2985020367;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;261618;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;273141;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;279989;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;334139;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;381911;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;3589576;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;3267343;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;4225754;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;2947508;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;3625339;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;4940138;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;3407405;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;3417143;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;3770243;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;3430738;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;3787561;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;4554123;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;5375149;E;Estimated value
+QV;Value of Agricultural Production;204;Benin;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;4785529;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;10809299;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;11419928;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;12516284;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;14495430;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;18199840;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;21413723;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;23994695;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;25464821;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;30233584;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;32502898;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;50213272;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;46827004;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;39303902;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;39330206;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;45175939;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;50696794;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;56376555;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;61200060;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;65360405;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;1362009;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;1415795;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;1562269;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;1846266;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;2514378;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;3050388;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;3419672;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;3670889;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;4375338;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;4703748;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;7266754;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;6776701;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;5687974;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;5691781;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;6537763;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;7336729;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;8158691;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;8856738;E;Estimated value
+QV;Value of Agricultural Production;68;Bolivia (Plurinational State of);57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;9458814;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;864930918;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;1104841698;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;1105368484;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;1057372289;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;1421525182;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;1357123097;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;1598239917;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;1582421489;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;1798854524;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;1926139996;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;2017841678;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;1929023772;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;2043701332;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;2005735808;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;2217178867;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;2501896555;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;2529553097;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;2460214514;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;3336441318;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;1637244;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;2094613;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;2113959;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;2206229;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;3187276;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;2885694;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;3230110;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;3357933;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;3523322;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;3899861;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;4086707;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;3262831;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;3448670;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;3454254;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;3991706;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;4270096;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;4394744;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;4436571;E;Estimated value
+QV;Value of Agricultural Production;854;Burkina Faso;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;5348921;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;1856005692;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;2200556423;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;2397170383;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;2399128277;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;2889794433;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;3125294673;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;4267747220;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;4389163352;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;4638354338;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;4622946532;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;4962140187;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;5832854753;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;6296291908;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;6839009809;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;7351869555;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;8271773161;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;8845268914;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;9462668816;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;10021478315;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;3513267;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;4171923;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;4584455;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;5005830;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;6453239;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;6618775;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;8625297;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;9313902;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;9084902;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;9360093;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;10049755;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;9865933;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;10624759;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;11778060;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;13235964;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;14117798;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;15367415;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;17064284;E;Estimated value
+QV;Value of Agricultural Production;384;Côte d'Ivoire;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;16066248;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;3610379;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;3405244;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;3492427;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;4185503;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;4902077;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;5775923;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;6410043;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;6532005;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;6365865;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;6905088;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;8117233;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;8453502;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;8233752;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;8228007;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;8635618;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;9215742;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;9200554;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;9795695;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;9702439;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;3610379;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;3405244;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;3492427;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;4185503;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;4902077;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;5775923;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;6410043;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;6532005;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;6365865;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;6905088;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;8117233;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;8453502;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;8233752;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;8228007;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;8635618;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;9215742;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;9200554;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;9795695;E;Estimated value
+QV;Value of Agricultural Production;218;Ecuador;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;9702439;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;37487230;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;46854028;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;52816657;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;88965272;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;122540241;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;148353213;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;155817873;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;198431657;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;275866523;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;297185557;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;340771475;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;352925778;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;387191255;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;421393331;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;436775645;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;493594254;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;555940770;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;567251646;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;637829669;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;4341010;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;5406400;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;6071857;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;9922625;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;12765007;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;12596218;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;10813484;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;11742056;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;15581488;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;15954876;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;17398914;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;17151595;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;17817013;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;17656561;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;15923639;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;16979653;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;15917145;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;12970561;E;Estimated value
+QV;Value of Agricultural Production;231;Ethiopia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;12323731;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;5158629;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;6532476;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;7065676;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;7806171;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;10795404;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;14297863;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;17618443;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;20367987;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;26252249;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;33012279;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;39478888;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;47337599;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;53239451;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;43747075;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;56990038;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;55853251;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;79190536;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;114175024;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;152205020;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;5735003;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;7207887;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;7709503;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;8346968;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;10214564;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;10153450;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;12320733;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;13394484;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;14385845;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;16661508;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;13629506;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;12743517;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;13616866;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;10055566;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;12428789;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;10705257;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;14152013;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;19666022;E;Estimated value
+QV;Value of Agricultural Production;288;Ghana;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;18399137;E;Estimated value
+QV;Value of Agricultural Production;356;India;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;6119917142;E;Estimated value
+QV;Value of Agricultural Production;356;India;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;6753623642;E;Estimated value
+QV;Value of Agricultural Production;356;India;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;7961269560;E;Estimated value
+QV;Value of Agricultural Production;356;India;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;10234820346;E;Estimated value
+QV;Value of Agricultural Production;356;India;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;10966332238;E;Estimated value
+QV;Value of Agricultural Production;356;India;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;11927702358;E;Estimated value
+QV;Value of Agricultural Production;356;India;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;15255639234;E;Estimated value
+QV;Value of Agricultural Production;356;India;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;17650502544;E;Estimated value
+QV;Value of Agricultural Production;356;India;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;19580642400;E;Estimated value
+QV;Value of Agricultural Production;356;India;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;19584090861;E;Estimated value
+QV;Value of Agricultural Production;356;India;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;21806545721;E;Estimated value
+QV;Value of Agricultural Production;356;India;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;22784760492;E;Estimated value
+QV;Value of Agricultural Production;356;India;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;24857117742;E;Estimated value
+QV;Value of Agricultural Production;356;India;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;27731953902;E;Estimated value
+QV;Value of Agricultural Production;356;India;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;28823987825;E;Estimated value
+QV;Value of Agricultural Production;356;India;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;31530688488;E;Estimated value
+QV;Value of Agricultural Production;356;India;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;32000244259;E;Estimated value
+QV;Value of Agricultural Production;356;India;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;38621896745;E;Estimated value
+QV;Value of Agricultural Production;356;India;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;41198972112;E;Estimated value
+QV;Value of Agricultural Production;356;India;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;135048319;E;Estimated value
+QV;Value of Agricultural Production;356;India;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;153143393;E;Estimated value
+QV;Value of Agricultural Production;356;India;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;175718312;E;Estimated value
+QV;Value of Agricultural Production;356;India;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;247525795;E;Estimated value
+QV;Value of Agricultural Production;356;India;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;252069459;E;Estimated value
+QV;Value of Agricultural Production;356;India;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;246413148;E;Estimated value
+QV;Value of Agricultural Production;356;India;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;333632986;E;Estimated value
+QV;Value of Agricultural Production;356;India;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;378194259;E;Estimated value
+QV;Value of Agricultural Production;356;India;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;366423207;E;Estimated value
+QV;Value of Agricultural Production;356;India;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;334211791;E;Estimated value
+QV;Value of Agricultural Production;356;India;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;357311473;E;Estimated value
+QV;Value of Agricultural Production;356;India;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;355168665;E;Estimated value
+QV;Value of Agricultural Production;356;India;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;369923388;E;Estimated value
+QV;Value of Agricultural Production;356;India;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;425848985;E;Estimated value
+QV;Value of Agricultural Production;356;India;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;421468233;E;Estimated value
+QV;Value of Agricultural Production;356;India;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;447749730;E;Estimated value
+QV;Value of Agricultural Production;356;India;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;431854673;E;Estimated value
+QV;Value of Agricultural Production;356;India;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;522496416;E;Estimated value
+QV;Value of Agricultural Production;356;India;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;524130006;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;2212252746;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;3129343844;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;3289677034;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;3524414434;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;2910985741;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;3321712612;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;4736039145;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;6467031546;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;6939082123;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;8522201273;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;7548175620;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;3660329922;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;3604298672;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;3313906672;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;3281448429;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;5948671625;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;7426839420;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;6253243712;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;5173275657;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;1522541;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;2125913;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;2230290;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;2809267;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;2290104;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;3271854;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;4047897;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;5527377;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;5950335;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;7308920;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;6473564;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;3135634;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;3049322;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;2798908;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;2774423;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;5032717;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;6230570;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;4312582;E;Estimated value
+QV;Value of Agricultural Production;368;Iraq;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;3567776;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;529274064;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;601166092;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;652038828;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;697342146;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;864816431;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;963593930;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;1063019001;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;1211746305;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;1337234917;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;1322807590;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;1371137647;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;1614977864;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;1517913523;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;1804619286;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;2023902071;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;2285567406;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;1531171530;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;1474226784;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;1518001645;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;6684956;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;7956763;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;9043434;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;10358987;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;12501810;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;12457259;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;13416341;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;13644137;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;15819723;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;15359538;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;15594903;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;16449412;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;14954169;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;17451109;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;19978980;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;22409435;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;14383845;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;13446343;E;Estimated value
+QV;Value of Agricultural Production;404;Kenya;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;12879047;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;49823919;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;54118777;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;65584651;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;81981889;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;100045650;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;99688129;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;94970477;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;138781228;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;142558010;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;160227010;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;179584699;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;188229239;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;173739582;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;210687931;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;199197518;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;195955873;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;225166689;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;261934036;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;295631828;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;1168207;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;1319590;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;1633373;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;2196946;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;2735386;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;2323511;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;2066181;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;3007575;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;3032860;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;3307874;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;3347085;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;2919998;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;2485045;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;3059360;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;2893617;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;2807819;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;2911157;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;3094654;E;Estimated value
+QV;Value of Agricultural Production;417;Kyrgyzstan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;3514564;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;218985437;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;253965061;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;410355502;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;519767384;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;689283629;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;1104141289;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;1084288741;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;1215928195;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;1774170911;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;2833373792;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;3789986787;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;4130827861;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;5343340474;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;6536271317;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;8058428956;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;9621863253;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;11956161287;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;13710278556;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;16230492408;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;2010932;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;2144618;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;3017020;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;3713757;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;4905141;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;7821531;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;7205255;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;7768723;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;7122133;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;7775325;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;8919785;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;8268174;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;7441927;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;8950455;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;11003772;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;12905887;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;15951598;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;17186184;E;Estimated value
+QV;Value of Agricultural Production;454;Malawi;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;17220301;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;1411980839;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;1789693085;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;1713632788;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;1833119204;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;2241172650;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;2617339482;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;2678028773;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;3293237995;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;3477991408;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;3325735241;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;3207950398;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;3405415943;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;3822390728;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;4108580478;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;4579448692;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;4527500227;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;4941511129;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;5086517018;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;6474409624;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;2672764;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;3392989;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;3277234;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;3824876;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;5004905;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;5543128;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;5412187;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;6988324;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;6812160;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;6733626;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;6497018;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;5760062;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;6450143;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;7075747;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;8244627;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;7727283;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;8585183;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;9172652;E;Estimated value
+QV;Value of Agricultural Production;466;Mali;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;10379654;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;349534812;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;346796944;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;361698492;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;451102121;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;777030810;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;1179836492;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;1137158199;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;1421392213;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;1535691433;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;1675992684;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;2094523713;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;2744455837;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;2894309470;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;3095963415;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;4135320962;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;4628558768;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;6903617986;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;6150746555;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;9232532390;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;294892;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;287739;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;306602;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;385425;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;666519;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;820587;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;837955;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;1123172;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;1131198;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;1099785;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;1152142;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;1392906;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;1352297;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;1268953;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;1672537;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;1737746;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;2453931;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;2158696;E;Estimated value
+QV;Value of Agricultural Production;496;Mongolia;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;2939662;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;222796198;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;249211670;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;262199089;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;294704990;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;317809926;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;427049118;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;538557043;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;626888835;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;673341662;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;736603549;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;783080829;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;815826208;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;922371984;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;949343088;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;982358802;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;1129283604;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;1216133822;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;1377576363;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;1424977312;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;3024098;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;3491949;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;3603834;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;4437326;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;4555651;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;5505097;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;7351074;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;8469182;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;7900683;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;7913287;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;8027083;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;7966653;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;8589488;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;9083590;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;9018247;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;10028317;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;10276158;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;11661126;E;Estimated value
+QV;Value of Agricultural Production;524;Nepal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;11381657;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;16017735;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;20617033;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;21562347;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;26358159;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;32067579;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;34658189;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;36358848;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;47049726;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;52138064;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;57016674;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;61973234;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;65329295;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;73200033;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;81308315;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;75772015;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;77554933;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;81976693;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;96291804;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;120661751;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;1005053;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;1232096;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;1227225;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;1428743;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;1655366;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;1703984;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;1702476;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;2098161;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;2214244;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;2306242;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;2387360;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;2396803;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;2557567;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;2705683;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;2401404;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;2341511;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;2387060;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;2737817;E;Estimated value
+QV;Value of Agricultural Production;558;Nicaragua;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;3363448;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;756020286;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;1031053635;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;1223979554;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;1381258458;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;1969471290;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;1754534082;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;2363002078;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;2137615664;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;2788432700;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;2653061567;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;3045149319;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;3290871992;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;2889932412;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;2518239027;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;2503737283;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;2360866287;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;2554268799;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;2289653273;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;2790565691;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;1431085;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;1954722;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;2340797;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;2882024;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;4398053;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;3715767;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;4775727;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;4536068;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;5461557;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;5371661;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;6167299;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;5566317;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;4876654;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;4336881;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;4507612;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;4029394;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;4437684;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;4128993;E;Estimated value
+QV;Value of Agricultural Production;562;Niger;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;4473783;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;6491746206;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;8346603164;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;9371101279;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;8236073299;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;11503170941;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;4804648260;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;8647436231;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;8588654637;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;9798411151;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;9656056428;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;12154321518;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;12204485459;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;13920440324;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;15188072361;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;16839347287;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;15731224339;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;16452017670;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;17289989028;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;18718595951;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;48851260;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;63581395;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;72840866;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;65465366;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;97035505;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;32267249;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;57535463;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;55820324;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;62212134;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;61381693;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;76657957;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;63419582;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;54914713;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;49668292;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;55015500;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;51254971;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;45851512;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;43100839;E;Estimated value
+QV;Value of Agricultural Production;566;Nigeria;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;43942516;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;1375256606;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;1473776561;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;1577740553;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;1752606306;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;1881777907;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;2745466185;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;3443483670;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;3838047416;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;4394916560;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;5296089221;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;5828387682;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;5850615769;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;6289099310;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;6966152843;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;7806771783;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;8762827460;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;9965126002;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;11322119121;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;13078866145;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;23606354;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;24763319;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;26177311;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;28854949;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;26726763;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;33598932;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;40419409;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;44450973;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;47057201;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;52112040;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;57649679;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;56929622;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;60028179;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;66057960;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;64082343;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;58404734;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;61574516;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;69500826;E;Estimated value
+QV;Value of Agricultural Production;586;Pakistan;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;63840707;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;16360796;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;17571725;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;19658239;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;21813673;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;27463107;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;28973626;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;30327871;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;35461574;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;36863268;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;38738737;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;42397901;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;44823620;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;48771340;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;47912440;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;50220045;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;55014874;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;59501978;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;62741893;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;67000351;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;4793389;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;5331551;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;6004349;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;6973681;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;9391023;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;9620995;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;10735054;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;12875921;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;13976137;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;14337596;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;14933865;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;14075828;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;14450504;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;14694866;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;15280230;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;16485015;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;17025173;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;16168282;E;Estimated value
+QV;Value of Agricultural Production;604;Peru;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;17469930;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;310673633;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;390740927;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;291192830;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;310230958;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;681563866;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;621360832;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;636448630;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;420667710;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;553503963;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;520453728;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;694063255;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;917255944;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;897772461;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;1348294866;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;1758986330;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;1858016997;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;2327930030;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;2425615340;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;2512814648;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;588080;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;740786;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;556891;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;647303;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;1522009;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;1315923;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;1286289;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;892666;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;1084119;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;1053764;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;1405677;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;1551485;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;1514958;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;2322017;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;3166797;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;3171159;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;4044452;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;4374177;E;Estimated value
+QV;Value of Agricultural Production;686;Senegal;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;4028498;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;379438641;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;474533780;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;455150032;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;488843697;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;662783088;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;769962800;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;744604729;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;868634346;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;882713264;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;810934220;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;887169931;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;911995228;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;1026015905;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;1177700372;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;1203564708;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;1210114548;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;1195519858;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;1399712945;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;1537988521;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;718742;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;899764;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;870734;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;1020478;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;1481810;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;1632403;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;1504877;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;1843261;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;1728924;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;1641901;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;1796773;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;1542587;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;1731364;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;2028221;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;2166842;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;2065356;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;2077048;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;2524140;E;Estimated value
+QV;Value of Agricultural Production;768;Togo;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;2465675;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;2621195599;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;2316836833;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;3108438661;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;2855698213;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;4258149828;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;4306163353;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;5847295766;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;6191035981;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;10925056140;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;13135803789;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;15200613874;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;17432404001;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;18037370869;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;18442997136;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;20809866677;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;20336691999;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;22576984931;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;22971743228;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;22441918990;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;2406235;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;2052234;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;2482977;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;2293668;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;3559401;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;3261474;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;4149160;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;3938027;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;6901476;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;8207598;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;9190189;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;8753884;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;8285095;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;8274645;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;9192524;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;8887612;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;9841128;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;9997433;E;Estimated value
+QV;Value of Agricultural Production;834;United Republic of Tanzania;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;9754881;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2004;2004;1000 SLC;1.99471E+11;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2005;2005;1000 SLC;2.39898E+11;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2006;2006;1000 SLC;2.42453E+11;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2007;2007;1000 SLC;3.0812E+11;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2008;2008;1000 SLC;4.4097E+11;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2009;2009;1000 SLC;4.74401E+11;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2010;2010;1000 SLC;5.41791E+11;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2011;2011;1000 SLC;7.55086E+11;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2012;2012;1000 SLC;7.66554E+11;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2013;2013;1000 SLC;7.93951E+11;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2014;2014;1000 SLC;8.54107E+11;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2015;2015;1000 SLC;8.76768E+11;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2016;2016;1000 SLC;9.02908E+11;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2017;2017;1000 SLC;9.06205E+11;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2018;2018;1000 SLC;9.51768E+11;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2019;2019;1000 SLC;9.64273E+11;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2020;2020;1000 SLC;1.10307E+12;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2021;2021;1000 SLC;1.20351E+12;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;56;Gross Production Value (current thousand SLC);F2051;Agriculture;2022;2022;1000 SLC;1.16191E+12;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;57;Gross Production Value (current thousand US$);F2051;Agriculture;2004;2004;1000 USD;12668036;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;57;Gross Production Value (current thousand US$);F2051;Agriculture;2005;2005;1000 USD;15126999;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;57;Gross Production Value (current thousand US$);F2051;Agriculture;2006;2006;1000 USD;15158784;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;57;Gross Production Value (current thousand US$);F2051;Agriculture;2007;2007;1000 USD;19131814;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;57;Gross Production Value (current thousand US$);F2051;Agriculture;2008;2008;1000 USD;27049634;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;57;Gross Production Value (current thousand US$);F2051;Agriculture;2009;2009;1000 USD;27799525;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;57;Gross Production Value (current thousand US$);F2051;Agriculture;2010;2010;1000 USD;29108357;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;57;Gross Production Value (current thousand US$);F2051;Agriculture;2011;2011;1000 USD;36815931;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;57;Gross Production Value (current thousand US$);F2051;Agriculture;2012;2012;1000 USD;36804036;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;57;Gross Production Value (current thousand US$);F2051;Agriculture;2013;2013;1000 USD;37927444;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;57;Gross Production Value (current thousand US$);F2051;Agriculture;2014;2014;1000 USD;40387106;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;57;Gross Production Value (current thousand US$);F2051;Agriculture;2015;2015;1000 USD;40408563;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;57;Gross Production Value (current thousand US$);F2051;Agriculture;2016;2016;1000 USD;41162911;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;57;Gross Production Value (current thousand US$);F2051;Agriculture;2017;2017;1000 USD;40509668;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;57;Gross Production Value (current thousand US$);F2051;Agriculture;2018;2018;1000 USD;42109788;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;57;Gross Production Value (current thousand US$);F2051;Agriculture;2019;2019;1000 USD;41833513;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;57;Gross Production Value (current thousand US$);F2051;Agriculture;2020;2020;1000 USD;47529137;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;57;Gross Production Value (current thousand US$);F2051;Agriculture;2021;2021;1000 USD;51965662;E;Estimated value
+QV;Value of Agricultural Production;704;Viet Nam;57;Gross Production Value (current thousand US$);F2051;Agriculture;2022;2022;1000 USD;49929162;E;Estimated value

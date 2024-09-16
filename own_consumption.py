@@ -1,7 +1,7 @@
 import pandas as pd
 
 def load_WB_class():
-    df = pd.read_csv('input_data/WBHIST.csv', delimiter=';') 
+    df = pd.read_csv('input/WBHIST.csv', delimiter=';') 
     
     # Reshape WB_class from wide to long format
     df = df.melt(id_vars=["Country"], var_name="Year", value_name="Income Classification")
@@ -13,25 +13,25 @@ def load_WB_class():
     return df
 
 def loadFAOData():
-    df = pd.read_csv('input_data/FAO_data2.csv', delimiter=';', encoding='utf-8')  # Load FAOdata2 data
+    df = pd.read_csv('input/FAO_data2.csv', delimiter=';', encoding='utf-8')  # Load FAOdata2 data
     df = df.drop(df.columns[df.columns.str.contains('unnamed', case = False)],axis = 1) # remove unnamed columns
     return df
 
 def load_area_value():
-    df = pd.read_csv('input_data/FAO_area_value.csv', delimiter=';', encoding='utf-8')
+    df = pd.read_csv('input/FAO_area_value.csv', delimiter=';', encoding='utf-8')
     df = df.rename(columns={'Area': 'Country'}) 
     return df
 
 def load_region_income():
-    return pd.read_csv('input_data/WBincomegroup.csv', delimiter=';', encoding='utf-8')
+    return pd.read_csv('input/WBincomegroup.csv', delimiter=';', encoding='utf-8')
 
 def load_region_lowder_data():
-    df = pd.read_csv('input_data/lowder_2021.csv', delimiter=';', encoding='utf-8')
+    df = pd.read_csv('input/lowder_2021.csv', delimiter=';', encoding='utf-8')
     df = df[df['Number or share of farms / agricultural area'] == 'share of agricultural area (%)']
     return df
 
 def load_gross_prod():
-    df = pd.read_csv ('input_data/gross_prod.csv', delimiter=';', encoding='utf-8')
+    df = pd.read_csv ('input/gross_prod.csv', delimiter=';', encoding='utf-8')
     df = df[['Country', 'Year', 'Value', 'Unit']]
     df = df[df['Unit'] == '1000 USD']
     return df
