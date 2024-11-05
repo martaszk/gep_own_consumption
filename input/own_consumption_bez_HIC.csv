@@ -1,0 +1,70 @@
+﻿Country;Year;Agricultural Production per Area (USD_PPP/ha);Average cultivated land area (ha),;Value of crop used for own consumption, share of total value of crop production (%);Value of production per hectare/year, PPP (constant 2011 international USD);Item;Unit_x;Value_x;Code;Region;Income group;own_con
+Armenia;2010;796.6;0.30000001;7.6999998;14119.02;Cropland;1000 ha;503.6;ARM;Europe & Central Asia;Upper middle income;2780092.505
+Armenia;2013;1040.27;0.40000001;8.3999996;14968.77;Cropland;1000 ha;505.9;ARM;Europe & Central Asia;Upper middle income;3978620.614
+Bangladesh;2010;3405.29;0.69999999;45.700001;3881.7;Cropland;1000 ha;8641;BGD;South Asia;Lower middle income;6105063291
+Benin;2019;960.95;1.9;38.099998;1460.0601;Cropland;1000 ha;4081.2094;BEN;Sub-Saharan Africa;Lower middle income;413899013.5
+Bolivia (Plurinational State of);2008;126.95;0.5;32.5;90397.977;Cropland;1000 ha;4411.3333;BOL;Latin America & Caribbean;Lower middle income;1638054.88
+Burkina Faso;2014;457.64;3.5;11.7;378.31;Cropland;1000 ha;7320.7448;BFA;Sub-Saharan Africa;Low income;108578759.5
+Burkina Faso;2019;497.32;3;51.099998;18067.74;Cropland;1000 ha;8139.8972;BFA;Sub-Saharan Africa;Low income;573001154.9
+Cameroon;2014;926.97;;37.799999;;Cropland;1000 ha;7750;CMR;Sub-Saharan Africa;Lower middle income;752209716.5
+CĂ´te d'Ivoire;2008;375.3;6.6999998;44.099998;1588.09;Cropland;1000 ha;7722.973;CIV;Sub-Saharan Africa;Lower middle income;354063713.3
+CĂ´te d'Ivoire;2019;490.48;2.7;16.9;775.78003;Cropland;1000 ha;12724.8864;CIV;Sub-Saharan Africa;Lower middle income;292174083.7
+Ecuador;2006;996.33;3;32.5;1968.37;Cropland;1000 ha;2446;ECU;Latin America & Caribbean;Upper middle income;7128292.802
+Ecuador;2014;1661.92;2.8;33.5;7491.6602;Cropland;1000 ha;2387;ECU;Latin America & Caribbean;Upper middle income;11960514.17
+Ethiopia;2014;456.12;1.2;32.799999;1880.79;Cropland;1000 ha;16955.244;ETH;Sub-Saharan Africa;Low income;702646292.7
+Ethiopia;2016;475.93;1.2;33.599998;1872.21;Cropland;1000 ha;17364.594;ETH;Sub-Saharan Africa;Low income;769177789.7
+Ethiopia;2019;502.95;0.89999998;33.700001;1835.4;Cropland;1000 ha;18190;ETH;Sub-Saharan Africa;Low income;854018334.4
+Georgia;2013;521.8;;36.8;3971.915;Cropland;1000 ha;545.7;GEO;Europe & Central Asia;Upper middle income;9430796.131
+Ghana;2013;875.38;2.2;40;2264.7;Cropland;1000 ha;6773.0435;GHA;Sub-Saharan Africa;Lower middle income;656931739.5
+Ghana;2017;1027.01;1.7;58.299999;4246.1699;Cropland;1000 ha;7141.3043;GHA;Sub-Saharan Africa;Lower middle income;1184405807
+Guatemala;2011;1569.49;0.89999998;66;2645.0801;Cropland;1000 ha;2459.8;GTM;Latin America & Caribbean;Upper middle income;22932151.12
+Guatemala;2014;1923.54;0.89999998;67.699997;1765.49;Cropland;1000 ha;2473.9;GTM;Latin America & Caribbean;Upper middle income;28994426.39
+India;2005;1457.31;1;35.400002;5826.6401;Cropland;1000 ha;169674;IND;South Asia;Lower middle income;39739864569
+India;2012;2001.23;0.60000002;9.6000004;1588122.9;Cropland;1000 ha;169346;IND;South Asia;Lower middle income;14770631098
+Iraq;2007;464.31;3.2;7.5999999;5527.9199;Cropland;1000 ha;5140;IRQ;Middle East & North Africa;Upper middle income;19226073.94
+Iraq;2012;563.67;2.7;9.6000004;4320.1001;Cropland;1000 ha;4568.5;IRQ;Middle East & North Africa;Upper middle income;26204487.29
+Kenya;2005;419.56;0.80000001;54.799999;1513.8199;Cropland;1000 ha;5702;KEN;Sub-Saharan Africa;Lower middle income;363146288.1
+Kyrgyzstan;2013;275.56;0.89999998;23.799999;8990.2695;Cropland;1000 ha;1354;KGZ;Europe & Central Asia;Lower middle income;7991978.165
+Malawi;2004;636.21;1;61.299999;1353.73;Cropland;1000 ha;3130;MWI;Sub-Saharan Africa;Low income;338131059.4
+Malawi;2010;894.5;0.60000002;52;677.27002;Cropland;1000 ha;3635;MWI;Sub-Saharan Africa;Low income;468347140.3
+Malawi;2013;1130.43;0.60000002;46.799999;1795.91;Cropland;1000 ha;3695;MWI;Sub-Saharan Africa;Low income;541481633.2
+Malawi;2017;1376.4;0.60000002;66.599998;890.77002;Cropland;1000 ha;3967;MWI;Sub-Saharan Africa;Low income;1007304675
+Malawi;2020;1580.78;0.69999999;55.700001;702.03998;Cropland;1000 ha;4134;MWI;Sub-Saharan Africa;Low income;1008270073
+Mali;2014;128.59;5.3000002;15.8;829.90997;Cropland;1000 ha;7155.8601;MLI;Sub-Saharan Africa;Low income;40272249.95
+Mali;2017;161.8;6.8000002;11;986.31;Cropland;1000 ha;7749.4459;MLI;Sub-Saharan Africa;Low income;38205124.76
+Mali;2019;178.3;4.1999998;47.5;9652.6396;Cropland;1000 ha;8175.0378;MLI;Sub-Saharan Africa;Low income;191784935.7
+Mexico;2014;564.81;;59;;Cropland;1000 ha;24838;MEX;Latin America & Caribbean;Upper middle income;74492666.64
+Mongolia;2014;15.57;1.7;38.400002;1347.86;Cropland;1000 ha;1317.7;MNG;East Asia & Pacific;Upper middle income;5065792.287
+Mongolia;2018;23.22;2.5999999;42.299999;3131.3999;Cropland;1000 ha;1332.4;MNG;East Asia & Pacific;Upper middle income;8414884.695
+Mongolia;2019;24.17;;37.5;;Cropland;1000 ha;1117.2;MNG;East Asia & Pacific;Upper middle income;6511031.825
+Nepal;2011;1927.57;1.9;72.800003;1603.88;Cropland;1000 ha;2331.3;NPL;South Asia;Lower middle income;1485236359
+Nicaragua;2014;505.21;1.9;73.5;1640.15;Cropland;1000 ha;1799;NIC;Latin America & Caribbean;Lower middle income;6012193.506
+Niger;2011;85.5;4.3000002;25.5;2679.01;Cropland;1000 ha;15700;NER;Sub-Saharan Africa;Low income;94816892.25
+Niger;2014;99.71;4.6999998;46.599998;1275.04;Cropland;1000 ha;16900;NER;Sub-Saharan Africa;Low income;217515939.8
+Niger;2019;129.43;6;67.099998;1263.83;Cropland;1000 ha;17813;NER;Sub-Saharan Africa;Low income;428523156.6
+Nigeria;2013;702.07;1;76.400002;7557.1299;Cropland;1000 ha;42253.5857;NGA;Sub-Saharan Africa;Lower middle income;6277939475
+Nigeria;2016;874.25;1.1;22.700001;4583.5698;Cropland;1000 ha;42457.4702;NGA;Sub-Saharan Africa;Lower middle income;2333970700
+Nigeria;2019;889.3;1.5;29.1;1301.0601;Cropland;1000 ha;43487.7431;NGA;Sub-Saharan Africa;Lower middle income;3117366901
+Pakistan;2014;1879.13;3.7;8.8999996;2956.24;Cropland;1000 ha;31252;PAK;South Asia;Lower middle income;2372905711
+Peru;2015;603.39;0.9;29.1;17350.55;Cropland;1000 ha;5895.804;PER;Latin America & Caribbean;Upper middle income;9317011.771
+Peru;2016;636.35;1;31.3;21167.73;Cropland;1000 ha;5643;PER;Latin America & Caribbean;Upper middle income;10115630.23
+Peru;2017;633.66;1.4;30;23514.06;Cropland;1000 ha;5718.108;PER;Latin America & Caribbean;Upper middle income;9783008.051
+Peru;2018;688.3;1.2;30.3;17313.47;Cropland;1000 ha;5898.589;PER;Latin America & Caribbean;Upper middle income;11071616.75
+Peru;2019;723.56;1;29.4;17999.23;Cropland;1000 ha;5678.29;PER;Latin America & Caribbean;Upper middle income;10871311.97
+Peru;2020;716.04;1.2;29.5;15749.75;Cropland;1000 ha;6196.9895;PER;Latin America & Caribbean;Upper middle income;11781011.22
+Peru;2021;727.63;1;30.1;22443.28;Cropland;1000 ha;6715.689;PER;Latin America & Caribbean;Upper middle income;13237628.16
+Senegal;2011;206.79;;54;;Cropland;1000 ha;3365;SEN;Sub-Saharan Africa;Lower middle income;104084996.2
+Senegal;2019;436.71;3.3;43.799999;49513.75;Cropland;1000 ha;3795;SEN;Sub-Saharan Africa;Lower middle income;201075328.4
+Sierra Leone;2011;409.31;;54.400002;;Cropland;1000 ha;1817.63;SLE;Sub-Saharan Africa;Low income;112107978.6
+Sierra Leone;2018;344.56;;43.599998;;Cropland;1000 ha;1749;SLE;Sub-Saharan Africa;Low income;72781484.02
+Togo;2019;387.41;1.7;37.5;52159.711;Cropland;1000 ha;2820;TGO;Sub-Saharan Africa;Low income;113483042.8
+Uganda;2010;569.17;1;54.200001;1792.75;Cropland;1000 ha;8950;UGA;Sub-Saharan Africa;Low income;764793344.7
+Uganda;2011;571.8;1;57;1577.29;Cropland;1000 ha;9050;UGA;Sub-Saharan Africa;Low income;817047593.1
+Uganda;2012;572.26;1;63.200001;1258.86;Cropland;1000 ha;9100;UGA;Sub-Saharan Africa;Low income;911657348.6
+Uganda;2014;607.09;0.89999998;57.400002;1116.8;Cropland;1000 ha;9100;UGA;Sub-Saharan Africa;Low income;878387502.6
+Uganda;2016;565.41;0.80000001;54.400002;1314.97;Cropland;1000 ha;9100;UGA;Sub-Saharan Africa;Low income;775324597.4
+United Republic of Tanzania;2009;277.56;1.1;58.200001;732.13;Cropland;1000 ha;13186.7;TZA;Sub-Saharan Africa;Lower middle income;590059444.4
+United Republic of Tanzania;2011;348.97;1.6;59;784.71002;Cropland;1000 ha;13611.3;TZA;Sub-Saharan Africa;Lower middle income;776281936
+United Republic of Tanzania;2013;389.66;2.3;65.900002;497.67001;Cropland;1000 ha;14035.9;TZA;Sub-Saharan Africa;Lower middle income;998369462
+United Republic of Tanzania;2015;431.15;2.2;51.299999;555.66998;Cropland;1000 ha;14460.5;TZA;Sub-Saharan Africa;Lower middle income;885949211.5
+Viet Nam;2010;3574.05;0.40000001;58.299999;15664.37;Cropland;1000 ha;10118.1;VNM;East Asia & Pacific;Lower middle income;13556235707
