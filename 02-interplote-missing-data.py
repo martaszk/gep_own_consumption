@@ -1,7 +1,13 @@
 """
+Purpose: 
 This script uses the coefficients from the interpolation regression to interpolate missing information in the own consumption data. 
 This outputs a completed panel for own consumption data.
 """
+
+# Dependencies
+import numpy as np
+import pandas as pd
+import statsmodels.api as sm
 
 # TODO: Using the results, fill in the missing values for 
     # missing own consumption for country/year = point estimate (0.0193) * FAO value for a country/year
@@ -16,10 +22,8 @@ This outputs a completed panel for own consumption data.
 #The coefficient then determines how we can interpolate missing information in the own consumption data given information we have 
 #from the commerical data.
 
-import pandas as pd
-import statsmodels.api as sm
-from linearmodels.panel import PanelOLS
-import numpy as np
+# TODO: Building the connection between 01 and 02
+# TODO: Marta has some thoughts from manual deletion. So we need to automate that.
 
 # Input data from FAO on own consumption
 df1 = pd.read_csv('input/own_consumption_bez_HIC.csv', delimiter=';', encoding='utf-8')
@@ -64,18 +68,16 @@ X = merged_df[['Value', 'GDP_capita']]
 
 
 
-    # Run a simple OLS model
-    #model = sm.OLS(Y, X).fit()
-        # TODO: We can play with the regression. 
-        # TODO: Add country FE
-        # TODO: Add time trend
-        # TODO: Add polynomial
-        # TODO: Add gdp per capita by nation by year
-        # TODO: Compare across the different regressions.
-    #return model
+# Run a simple OLS model
+#model = sm.OLS(Y, X).fit()
+    # TODO: We can play with the regression. 
+    # TODO: Add country FE
+    # TODO: Add time trend
+    # TODO: Add polynomial
+    # TODO: Add gdp per capita by nation by year
+    # TODO: Compare across the different regressions.
+#return model
 
-import numpy as np
-import pandas as pd
 
 # Sample main dataset with 'Country', 'Year', and 'own_con'
 # Ensure 'merged_df' is loaded as your main data
@@ -173,3 +175,9 @@ filtered_df = df_interpolated[
 
 # Select the specified columns and save to CSV
 print(filtered_df[['Country', 'Year', 'own_con', 'own_con2']])
+
+# TODO: Filter only necessary varibles
+filtered_df = filtered_df[['Country', 'Year', 'own_con', 'own_con2']]
+
+# Output the clean own consumption datset
+filtered_df.to_csv('./intermediates/data-own-consumption-interpolation.csv', index=False)

@@ -1,4 +1,5 @@
 """
+Purpose:
 This script analyzes the own consumption data panel. 
 It produces summary statistics. 
 It also compares the own consumption values to the commerical agricultural values. 
