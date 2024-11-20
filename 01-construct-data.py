@@ -109,4 +109,5 @@ df = calculate_own_consumption(df)
 # This look bad, but only at the end I realized that this column is not used - need to change it
 df = df.drop('Value of agricultural production sold at the market, share of total value of agricultural production (%)', axis=1)
 
-df.to_csv('total_value_of_agriculture_3.csv', index=False)
+# Output the dirty own consumption datset
+df.to_csv('./intermediates/data-own-consumption.csv', index=False)
