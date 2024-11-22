@@ -26,6 +26,8 @@ def load_WB_class():
 def loadFAOData():
     df = pd.read_csv('input/FAO_data2.csv', delimiter=';', encoding='utf-8')  # Load FAOdata2 data
     df = df.drop(df.columns[df.columns.str.contains('unnamed', case = False)],axis = 1) # remove unnamed columns
+    # do not read the indicator 1 Value of agricultural production sold at the market, share of total value of agricultural production (%)
+    df = df[df["Indicator"] != 'Value of agricultural production sold at the market, share of total value of agricultural production (%)']
     return df
 
 def load_area_value():
@@ -107,8 +109,6 @@ df = pd.merge(df, load_region_lowder_data(), on='Region', how='left')
 df = pd.merge(df, load_gross_prod(), on=['Country', 'Year'], how='left')
 
 df = calculate_own_consumption(df)
-# This look bad, but only at the end I realized that this column is not used - need to change it
-df = df.drop('Value of agricultural production sold at the market, share of total value of agricultural production (%)', axis=1)
 
-# Output the dirty own consumption datset
+# Output the non-clean own consumption datset
 df.to_csv('./intermediates/data-own-consumption.csv', index=False)
