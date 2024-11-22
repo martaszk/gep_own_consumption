@@ -74,7 +74,8 @@ X = df_merge[['Value', 'GDP_capita']]
     # Try year FE
     # Try with a time trend
     # Polynomial Regression 
-    # Lasso Regression
+    # Lasso Regression 
+        # https://machinelearningmastery.com/lasso-regression-with-python/
     # Random Forest
 
 # TODO: Can use formatting from interpolation. Would make functions for general format and if condition for type of regression so you can quickly run each. 
