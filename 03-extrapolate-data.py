@@ -64,10 +64,10 @@ df_merge = pd.merge(df_merge, df_com_agr, on=['Year', 'Country'], how='left')
 
 # Define dependent and independent variables
 # Dependent variable: 'own_con'
-y = merged_df['own_con2']  
+y = df_merge['own_con2']  
 
 # Independent variable(s): 
-X = merged_df[['Value', 'GDP_capita']]
+X = df_merge[['Value', 'GDP_capita']]
 
 # Models to Run and Compare: 
     # Simple OLS
