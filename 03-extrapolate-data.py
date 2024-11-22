@@ -58,6 +58,17 @@ df_merge = pd.merge(df_merge, df_gdp, on=['Year', 'Country'], how='left')
 df_merge = pd.merge(df_merge, df_com_agr, on=['Year', 'Country'], how='left')
 
 # TODO: Use regression or ML to extrapolate (big task)
+<<<<<<< HEAD
+# Run a simple OLS model
+#model = sm.OLS(Y, X).fit()
+    # TODO: We can play with the regression. 
+    # TODO: Add country FE
+    # TODO: Add time trend
+    # TODO: Add polynomial
+    # TODO: Add gdp per capita by nation by year
+    # TODO: Compare across the different regressions.
+#return model
+=======
     # Variables to extrapolate at country level: GDP_pc, commerical agriculture, some food insecurity measure, size of agricultural sector, rural, population density, hectacres of 
     # NOTE: https://www.sciencedirect.com/science/article/pii/S0959378020307536
     # NOTE: Countries to extrapolate over are 2004 - 2021
@@ -80,6 +91,7 @@ X = df_merge[['Value', 'GDP_capita']]
 # TODO: Can use formatting from interpolation. Would make functions for general format and if condition for type of regression so you can quickly run each. 
 # TODO: Need some output table that show the comparision of variables selected, coefficient values, and model fit. 
 
+>>>>>>> 044750db7ac2ac7b0cb0708163d37276aa673d41
 
 # TODO: Export results as a data set
 df_ext.to_csv('./intermediates/data-own-consumption-extrapolation.csv', index=False)

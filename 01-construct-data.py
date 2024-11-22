@@ -112,3 +112,20 @@ df = calculate_own_consumption(df)
 
 # Output the non-clean own consumption datset
 df.to_csv('./intermediates/data-own-consumption.csv', index=False)
+
+# Select the desired columns
+columns_to_keep = [
+    'Country',
+    'Year',
+    'Code',
+    'Region',
+    'Income group',
+    'Own Consumption'  # Assuming this is an existing column or one to rename
+]
+
+# Reduce the dataset to the specified columns
+simplified_df = df[columns_to_keep]
+
+# Save the reduced dataset to a new CSV file
+simplified_df_file_path = './intermediates/simplified_own_con.csv'
+simplified_df.to_csv(simplified_df_file_path, index=False)

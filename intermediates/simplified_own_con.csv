@@ -1,0 +1,77 @@
+Country,Year,Code,Region,Income group,Own Consumption
+Albania,2005,ALB,Europe & Central Asia,Upper middle income,3402146.4105162425
+Armenia,2010,ARM,Europe & Central Asia,Upper middle income,278009.2504589803
+Armenia,2013,ARM,Europe & Central Asia,Upper middle income,397862.0613621866
+Bangladesh,2010,BGD,South Asia,Lower middle income,610506329.0825423
+Benin,2019,BEN,Sub-Saharan Africa,Lower middle income,41389901.352952994
+Bolivia (Plurinational State of),2008,BOL,Latin America & Caribbean,Lower middle income,163805.48801223747
+Bulgaria,2007,BGR,Europe & Central Asia,High income,12419808.995919958
+Burkina Faso,2014,BFA,Sub-Saharan Africa,Low income,10857875.945966523
+Burkina Faso,2019,BFA,Sub-Saharan Africa,Low income,57300115.493990414
+Cambodia,2009,KHM,East Asia & Pacific,Lower middle income,
+Cameroon,2014,CMR,Sub-Saharan Africa,Lower middle income,75220971.64552715
+Côte d'Ivoire,2008,CIV,Sub-Saharan Africa,Lower middle income,35406371.32918913
+Côte d'Ivoire,2019,CIV,Sub-Saharan Africa,Lower middle income,29217408.37025487
+Ecuador,2006,ECU,Latin America & Caribbean,Upper middle income,712829.2801499999
+Ecuador,2014,ECU,Latin America & Caribbean,Upper middle income,1196051.4165599998
+Ethiopia,2014,ETH,Sub-Saharan Africa,Low income,70264629.27377039
+Ethiopia,2016,ETH,Sub-Saharan Africa,Low income,76917778.97486793
+Ethiopia,2019,ETH,Sub-Saharan Africa,Low income,85401833.43562895
+Georgia,2013,GEO,Europe & Central Asia,Upper middle income,943079.6131199999
+Ghana,2013,GHA,Sub-Saharan Africa,Lower middle income,65693173.9548524
+Ghana,2017,GHA,Sub-Saharan Africa,Lower middle income,118440580.70225233
+Guatemala,2011,GTM,Latin America & Caribbean,Upper middle income,2293215.112188
+Guatemala,2014,GTM,Latin America & Caribbean,Upper middle income,2899442.6392523684
+India,2005,IND,South Asia,Lower middle income,3973986456.9318995
+India,2012,IND,South Asia,Lower middle income,1477063109.8001657
+Iraq,2007,IRQ,Middle East & North Africa,Upper middle income,1922607.3937425339
+Iraq,2012,IRQ,Middle East & North Africa,Upper middle income,2620448.728737359
+Kenya,2005,KEN,Sub-Saharan Africa,Lower middle income,36314628.80647628
+Kyrgyzstan,2013,KGZ,Europe & Central Asia,Lower middle income,799197.8165002584
+Malawi,2004,MWI,Sub-Saharan Africa,Low income,33813105.93612957
+Malawi,2010,MWI,Sub-Saharan Africa,Low income,46834714.03
+Malawi,2013,MWI,Sub-Saharan Africa,Low income,54148163.31884794
+Malawi,2017,MWI,Sub-Saharan Africa,Low income,100730467.51322094
+Malawi,2020,MWI,Sub-Saharan Africa,Low income,100827007.31480762
+Mali,2014,MLI,Sub-Saharan Africa,Low income,4027224.995163539
+Mali,2017,MLI,Sub-Saharan Africa,Low income,3820512.47615114
+Mali,2019,MLI,Sub-Saharan Africa,Low income,19178493.57187905
+Mexico,2014,MEX,Latin America & Caribbean,Upper middle income,7449266.664179998
+Mongolia,2014,MNG,East Asia & Pacific,Upper middle income,506579.22870113346
+Mongolia,2018,MNG,East Asia & Pacific,Upper middle income,841488.4695458551
+Mongolia,2019,MNG,East Asia & Pacific,Upper middle income,651103.1824500001
+Mozambique,2009,MOZ,Sub-Saharan Africa,Low income,
+Nepal,2011,NPL,South Asia,Lower middle income,148523635.86325845
+Nicaragua,2014,NIC,Latin America & Caribbean,Lower middle income,601219.3505849999
+Niger,2011,NER,Sub-Saharan Africa,Low income,9481689.225
+Niger,2014,NER,Sub-Saharan Africa,Low income,21751593.978255153
+Niger,2019,NER,Sub-Saharan Africa,Low income,42852315.66008572
+Nigeria,2013,NGA,Sub-Saharan Africa,Lower middle income,627793947.5105138
+Nigeria,2016,NGA,Sub-Saharan Africa,Lower middle income,233397070.0484134
+Nigeria,2019,NGA,Sub-Saharan Africa,Lower middle income,311736690.06192696
+Pakistan,2014,PAK,South Asia,Lower middle income,237290571.14811075
+Panama,2008,PAN,Latin America & Caribbean,High income,61366.36720499999
+Peru,2015,PER,Latin America & Caribbean,Upper middle income,931701.177079164
+Peru,2016,PER,Latin America & Caribbean,Upper middle income,1011563.0231850002
+Peru,2017,PER,Latin America & Caribbean,Upper middle income,978300.8051256
+Peru,2018,PER,Latin America & Caribbean,Upper middle income,1107161.6751324898
+Peru,2019,PER,Latin America & Caribbean,Upper middle income,1087131.1973810396
+Peru,2020,PER,Latin America & Caribbean,Upper middle income,1178101.1219994896
+Peru,2021,PER,Latin America & Caribbean,Upper middle income,1323762.815617263
+Senegal,2011,SEN,Sub-Saharan Africa,Lower middle income,10408499.6193
+Senegal,2019,SEN,Sub-Saharan Africa,Lower middle income,20107532.836993895
+Serbia,2007,SRB,Europe & Central Asia,Upper middle income,
+Sierra Leone,2011,SLE,Sub-Saharan Africa,Low income,11210797.86217031
+Sierra Leone,2018,SLE,Sub-Saharan Africa,Low income,7278148.402107966
+South Africa,2015,ZAF,Sub-Saharan Africa,Upper middle income,65935740.32828
+Togo,2019,TGO,Sub-Saharan Africa,Low income,11348304.2775
+Uganda,2010,UGA,Sub-Saharan Africa,Low income,76479334.4691578
+Uganda,2011,UGA,Sub-Saharan Africa,Low income,81704759.31
+Uganda,2012,UGA,Sub-Saharan Africa,Low income,91165734.86489578
+Uganda,2014,UGA,Sub-Saharan Africa,Low income,87838750.25678355
+Uganda,2016,UGA,Sub-Saharan Africa,Low income,77532459.74325797
+United Republic of Tanzania,2009,TZA,Sub-Saharan Africa,Lower middle income,59005944.440720625
+United Republic of Tanzania,2011,TZA,Sub-Saharan Africa,Lower middle income,77628193.604823
+United Republic of Tanzania,2013,TZA,Sub-Saharan Africa,Lower middle income,99836946.20426697
+United Republic of Tanzania,2015,TZA,Sub-Saharan Africa,Lower middle income,88594921.14821094
+Viet Nam,2010,VNM,East Asia & Pacific,Lower middle income,1355623570.6864555
