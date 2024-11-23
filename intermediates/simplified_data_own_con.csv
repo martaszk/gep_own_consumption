@@ -1,4 +1,4 @@
-Country,Year,Code,Region,Income group,Own Consumption
+Country,Year,Code,Region,Income group,own_con
 Albania,2005,ALB,Europe & Central Asia,Upper middle income,3402146.4105162425
 Armenia,2010,ARM,Europe & Central Asia,Upper middle income,278009.2504589803
 Armenia,2013,ARM,Europe & Central Asia,Upper middle income,397862.0613621866
@@ -10,8 +10,8 @@ Burkina Faso,2014,BFA,Sub-Saharan Africa,Low income,10857875.945966523
 Burkina Faso,2019,BFA,Sub-Saharan Africa,Low income,57300115.493990414
 Cambodia,2009,KHM,East Asia & Pacific,Lower middle income,
 Cameroon,2014,CMR,Sub-Saharan Africa,Lower middle income,75220971.64552715
-Côte d'Ivoire,2008,CIV,Sub-Saharan Africa,Lower middle income,35406371.32918913
-Côte d'Ivoire,2019,CIV,Sub-Saharan Africa,Lower middle income,29217408.37025487
+CĂ´te d'Ivoire,2008,CIV,Sub-Saharan Africa,Lower middle income,35406371.32918913
+CĂ´te d'Ivoire,2019,CIV,Sub-Saharan Africa,Lower middle income,29217408.37025487
 Ecuador,2006,ECU,Latin America & Caribbean,Upper middle income,712829.2801499999
 Ecuador,2014,ECU,Latin America & Caribbean,Upper middle income,1196051.4165599998
 Ethiopia,2014,ETH,Sub-Saharan Africa,Low income,70264629.27377039

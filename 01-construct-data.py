@@ -90,7 +90,7 @@ def calculate_own_consumption(df):
     # GEP_subsistence_crops = (Agricultural Production per Area (USD_PPP/ha in give country and year at the national level) 
     # * (Cropland area national 1000 ha * % of ha for smallholderfarms <2ha from Lowder 2021)  
     # * (Value of crop used for own consumption, share of total value of crop production (%) for questionanires)
-    df['Own Consumption'] = (
+    df['own_con'] = (
         (df['Value_x'] * (df['< 1 ha'] + df['1–2 ha']) * df['Agricultural Production per Area (USD_PPP/ha)'] * df['Value of crop used for own consumption, share of total value of crop production (%)'] / 100) 
         ) 
 
@@ -120,12 +120,12 @@ columns_to_keep = [
     'Code',
     'Region',
     'Income group',
-    'Own Consumption'  # Assuming this is an existing column or one to rename
+    'own_con'  # Assuming this is an existing column or one to rename
 ]
 
 # Reduce the dataset to the specified columns
 simplified_df = df[columns_to_keep]
 
 # Save the reduced dataset to a new CSV file
-simplified_df_file_path = './intermediates/simplified_own_con.csv'
+simplified_df_file_path = './intermediates/simplified_data_own_con.csv'
 simplified_df.to_csv(simplified_df_file_path, index=False)

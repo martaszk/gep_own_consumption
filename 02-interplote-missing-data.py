@@ -8,6 +8,10 @@ This outputs a completed panel for own consumption data.
 import numpy as np
 import pandas as pd
 import statsmodels.api as sm
+from sklearn.linear_model import LinearRegression
+from sklearn.preprocessing import PolynomialFeatures
+import statsmodels.api as sm
+from sklearn.metrics import r2_score
 
 # TODO: Using the results, fill in the missing values for 
     # missing own consumption for country/year = point estimate (0.0193) * FAO value for a country/year
@@ -23,10 +27,10 @@ import statsmodels.api as sm
 #from the commerical data.
 
 # TODO: Building the connection between 01 and 02
-# TODO: Marta has some thoughts from manual deletion. So we need to automate that.
+# TODO: Marta manually changed the names of countries between WB and FAO. Especially CĂ´te d'Ivoire. We need to automate that. 
 
 # Input data from FAO on own consumption
-df1 = pd.read_csv('input/own_consumption_bez_HIC.csv', delimiter=';', encoding='utf-8')
+df1 = pd.read_csv('./intermediates/simplified_data_own_con.csv', delimiter=',', encoding='utf-8')
 df2 = pd.read_csv('input/gross_prod_FAO_USD.csv', delimiter=',', encoding='utf-8')
 df3 = pd.read_csv('input/WITS-Country-Timeseries.csv', delimiter=';', encoding='utf-8')
 
@@ -47,8 +51,6 @@ df3_melted['Year'] = df3_melted['Year'].astype(int)
 # Display the melted df3 to check transformation
 print("Melted df3:", df3_melted.head(), sep="\n")
 
-
-
 # Then merge the resulting DataFrame with df3_melted
 merged_df = pd.merge(merged_df, df3_melted, on=['Year', 'Country'], how='inner')
 
@@ -65,18 +67,6 @@ y = merged_df['own_con']
 
 # Independent variable(s): Use 'Agricultural Production per Area (USD_PPP/ha)' as an example
 X = merged_df[['Value', 'GDP_capita']]
-
-
-
-# Run a simple OLS model
-#model = sm.OLS(Y, X).fit()
-    # TODO: We can play with the regression. 
-    # TODO: Add country FE
-    # TODO: Add time trend
-    # TODO: Add polynomial
-    # TODO: Add gdp per capita by nation by year
-    # TODO: Compare across the different regressions.
-#return model
 
 
 # Sample main dataset with 'Country', 'Year', and 'own_con'
@@ -101,11 +91,6 @@ print(df.head())
 # Drop rows with NaNs in any of the predictor columns
 df = df.dropna(subset=['Year', 'GDP_capita', 'Value_gross_prof'])
 
-
-from sklearn.linear_model import LinearRegression
-from sklearn.preprocessing import PolynomialFeatures
-import statsmodels.api as sm
-from sklearn.metrics import r2_score
 
 # Define the polynomial interpolation function
 def interpolate_multivariate_polynomial(group, degree=2):
@@ -173,7 +158,7 @@ filtered_df = df_interpolated[
     (df_interpolated['own_con2'] >= 0)
 ]
 
-# Select the specified columns and save to CSV
+# Select the specified columns and save to CSV. own_con2 = own con interpolated
 print(filtered_df[['Country', 'Year', 'own_con', 'own_con2']])
 
 # TODO: Filter only necessary varibles
