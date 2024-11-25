@@ -1,0 +1,14 @@
+"""
+Purpose: 
+This script collects the covariates we will use for the interpolation and the extrapolation. 
+This creates a country-year data set that we will merge in for the models later.
+
+"""
+
+# Dependencies
+import numpy as np
+import pandas as pd
+
+
+# Create data set for covariates
+df_covar.to_csv('./intermediates/data-covariates.csv', index=False)
