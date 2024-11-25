@@ -26,11 +26,10 @@ print(df1)
 
 
 # Adjustment for nature's contribution (agricultural resource rent = land)
-df['gep-agriculture-subsistence'] = df['gep-agriculture-subsistence'] * 0.33
-
-
-    # TODO: Replace the 0.33 with CWON numbers 2024 Marta: I only apply the CWON2024 coeficient for non-irrigated crops.
-    # NOTE: Need to do this for commerical as well. Marta: for commercial agg we actually need to distinguish between crop, rainfed and pasture (Cwon2024)
+rental_rate = 0.33
+df['gep-agriculture-subsistence'] = df['gep-agriculture-subsistence'] * rental_rate
+    # TODO: Replace the 0.33 with CWON numbers 2024
+    # NOTE: Need to do this for commerical as well. 
     # NOTE: Need to get the data from Marta
 
 # Discounting using a base year (PPP adjustments)

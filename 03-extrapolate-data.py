@@ -70,13 +70,18 @@ y = df_merge['own_con2']
 X = df_merge[['Value', 'GDP_capita']]
 
 # Models to Run and Compare: 
-    # Simple OLS
-    # Try year FE
-    # Try with a time trend
-    # Polynomial Regression 
-    # Lasso Regression 
-        # https://machinelearningmastery.com/lasso-regression-with-python/
-    # Random Forest
+    # Three classes of models: 
+    # (1) Time Series 
+    #     Moving Average, Autoregressive model, ARMA
+    # (2) OLS with covariates
+        # Simple OLS
+        # Try year FE
+        # Try with a time trend
+        # Polynomial Regression 
+    # (3) Machine learning predictions
+        # Lasso Regression 
+            # https://machinelearningmastery.com/lasso-regression-with-python/
+        # Random Forest
 
 # TODO: Can use formatting from interpolation. Would make functions for general format and if condition for type of regression so you can quickly run each. 
 # TODO: Need some output table that show the comparision of variables selected, coefficient values, and model fit. 
