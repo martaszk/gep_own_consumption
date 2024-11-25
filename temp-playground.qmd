@@ -1,18 +1,78 @@
 This is Ryan's playground to see how code works. 
 
 
+# Currently working on: 
+## 02-construct-data-covariates
+
 ```{python}
 # Dependencies
 import numpy as np
 import pandas as pd
-import statsmodels.api as sm
 ```
 
 
+# All potential countries
+```{python}
+# Command: Limit sample years 
+def limit_years(data):
+    year_columns = [col for col in data.columns if col.isdigit() and 2004 <= int(col) <= 2021]
+    return(year_columns)
+
+# Bring in list of eligible countries
+df_cntry = pd.read_csv('./input/WBHIST.csv', delimiter=';', encoding='utf-8')
+# Limit to eligible countries for extrapolation 
+    # NOTE: Based on WB income group category (L or LM) as of baseline for own consumption (2004)
+# Keep only year 2004 - 2021
+year_columns = limit_years(df_cntry)
+df_cntry = df_cntry[['Country'] + year_columns]
+df_cntry = df_cntry.rename(columns={"Country": "name"})
+df_cntry.head()
+print(df_cntry.shape)
+```
+
+
+# ISO-3 codes
 ```{python}
 df_iso3 = pd.read_csv('./input/ISO-3-codes.csv', delimiter=',', encoding='utf-8')
 vars_keep = ["name","alpha-2","alpha-3", "region", "sub-region"]
 df_iso3 = df_iso3[vars_keep]
-# df_iso3.head()
+df_iso3.head()
+print(df_cntry.shape)
 ```
+
+
+# Merge countries and ISO-3
+```{python}
+df_cntry = pd.merge(df_cntry, df_iso3, on = ["name"], how = 'left')
+df_cntry.shape
+```
+
+# Check for Errors
+NOTE: Need to ask LingLing or Justin about fuzzy matching..
+```{python}
+print(df_cntry)
+df_cntry["alpha-3"].isna().sum() # 32 countries not matching.
+problems = df_cntry[df_cntry["alpha-3"].isna()]
+display(problems)
+```
+
+# Long format, only LMIC
+```{python}
+# Melt df_cntry as a long format of country-year pairs.
+df_cntry = df_cntry.melt(id_vars=["name", "alpha-2","alpha-3", "region", "sub-region"], var_name='Year', value_name='wb_income')
+
+# Keep if lower or lower-middle income country
+condition = (df_cntry["wb_income"] == "L") | (df_cntry["wb_income"] == "LM")
+df_cntry = df_cntry[condition]
+```
+
+```{python}
+print(df_cntry)
+df_cntry["alpha-3"].isna().sum() #
+```
+
+
+SECOND HALF: 
+NOTE: Cleaning Covariates 
+
 
