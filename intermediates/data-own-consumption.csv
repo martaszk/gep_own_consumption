@@ -1,4 +1,4 @@
-Country,Year,Code,Region,Income group,own_con
+Country,Year,alpha-3,Region,Income group,own_con
 Albania,2005,ALB,Europe & Central Asia,Upper middle income,3402146.4105162425
 Armenia,2010,ARM,Europe & Central Asia,Upper middle income,278009.2504589803
 Armenia,2013,ARM,Europe & Central Asia,Upper middle income,397862.0613621866

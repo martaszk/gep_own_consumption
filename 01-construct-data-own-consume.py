@@ -17,8 +17,6 @@ Own consumption is calculated for countries classified as low and lower-middle i
 # Dependencies 
 import pandas as pd
 
-# TODO: For merging, we will want to use ISO-3 alpha codes to make our life easier...
-
 # Command: Load World Bank income classification data and clean
 def load_WB_class():
     df = pd.read_csv('input/WBHIST.csv', delimiter=';') 
@@ -30,6 +28,7 @@ def load_WB_class():
     df['Year'] = pd.to_numeric(df['Year'], errors='coerce');
     df = df.dropna(subset=['Year'])
     df['Year'] = df['Year'].astype(int)
+    # Return data set
     return df
 
 # Command: Load FAO own consumption data
@@ -42,7 +41,11 @@ def loadFAOData():
 
 # Command: Load in World Bank regional income brackets
 def load_region_income():
+    # Bring in data
     df = pd.read_csv('input/WBincomegroup.csv', delimiter=';', encoding='utf-8')
+    # Rename ISO-3 code 
+    df.rename(columns={"Code":"alpha-3"}, inplace=True)
+    # Return data set
     return df
 
 # Command: Load in Info on farmers relative to agricultural land
@@ -149,7 +152,7 @@ df = calculate_own_consumption(df)
 columns_to_keep = [
     'Country',
     'Year',
-    'Code',
+    'alpha-3',
     'Region',
     'Income group',
     'own_con'  # Assuming this is an existing column or one to rename

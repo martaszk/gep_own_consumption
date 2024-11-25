@@ -37,6 +37,8 @@ df_iso3 = pd.read_csv('./input/ISO-3-codes.csv', delimiter=',', encoding='utf-8'
 vars_keep = ["name","alpha-2","alpha-3", "region", "sub-region"]
 df_iso3 = df_iso3[vars_keep]
 
+# TODO: Merge with countries
+
 # Melt df_cntry as a long format of country-year pairs.
 df_cntry = df_cntry.melt(id_vars=['Country'], var_name='Year', value_name='wb_income')
 
