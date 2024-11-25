@@ -1,0 +1,18 @@
+This is Ryan's playground to see how code works. 
+
+
+```{python}
+# Dependencies
+import numpy as np
+import pandas as pd
+import statsmodels.api as sm
+```
+
+
+```{python}
+df_iso3 = pd.read_csv('./input/ISO-3-codes.csv', delimiter=',', encoding='utf-8')
+vars_keep = ["name","alpha-2","alpha-3", "region", "sub-region"]
+df_iso3 = df_iso3[vars_keep]
+# df_iso3.head()
+```
+

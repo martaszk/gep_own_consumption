@@ -82,6 +82,8 @@ X = df_merge[['Value', 'GDP_capita']]
             # https://machinelearningmastery.com/lasso-regression-with-python/
         # Random Forest
 
+    # To show comparision, will want a table with columns for models showing goodness of fit. Export to 'results' folder.
+
 # TODO: Can use formatting from interpolation. Would make functions for general format and if condition for type of regression so you can quickly run each. 
 # TODO: Need some output table that show the comparision of variables selected, coefficient values, and model fit. 
 

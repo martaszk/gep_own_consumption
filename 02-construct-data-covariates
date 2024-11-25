@@ -5,24 +5,80 @@ This creates a country-year data set that we will merge in for the models later.
 
 """
 
+######################################################################
+# Section: Dependencies and Commands
+######################################################################
+
 # Dependencies
 import numpy as np
 import pandas as pd
 
-# TODO: For merging, we will want to use ISO-3 alpha codes to make our life easier...
 
-# TODO: Start with all possible countries (ISO-3) and make long format with years (2004 and 2021)
+# Command: Limit sample years 
+def limit_years(data):
+    year_columns = [col for col in data.columns if col.isdigit() and 2004 <= int(col) <= 2021]
+    return(year_columns)
+
+
+######################################################################
+# Section: Establish Base Data Set
+######################################################################
+
+# Bring in list of eligible countries
+df_cntry = pd.read_csv('./input/WBHIST.csv', delimiter=';', encoding='utf-8')
+# Limit to eligible countries for extrapolation 
+    # NOTE: Based on WB income group category (L or LM) as of baseline for own consumption (2004)
+# Keep only year 2004 - 2021
+year_columns = limit_years(df_cntry)
+df_cntry = df_cntry[['Country'] + year_columns]
+
+# Bring in ISO-3 Codes
+df_iso3 = pd.read_csv('./input/ISO-3-codes.csv', delimiter=',', encoding='utf-8')
+vars_keep = ["name","alpha-2","alpha-3", "region", "sub-region"]
+df_iso3 = df_iso3[vars_keep]
+
+# Melt df_cntry as a long format of country-year pairs.
+df_cntry = df_cntry.melt(id_vars=['Country'], var_name='Year', value_name='wb_income')
+
+# Keep if lower or lower-middle income country
+condition = (df_cntry["wb_income"] == "L") | (df_cntry["wb_income"] == "LM")
+df_cntry = df_cntry[condition]
+
+
+######################################################################
+# Section: Loading Data and Merging
+######################################################################
 
 # TODO: Bring in covariate data and clean so ISO-3 for merge and in long format
-df2 = pd.read_csv('input/gross_prod_FAO_USD.csv', delimiter=',', encoding='utf-8')
-df3 = pd.read_csv('input/WITS-Country-Timeseries.csv', delimiter=';', encoding='utf-8')
-
- # Variables: GDP_pc, commerical agriculture, some food insecurity measure, size of agricultural sector, rural, population density, hectacres of 
+# Variables: GDP_pc, commerical agriculture, some food insecurity measure, size of agricultural sector, rural, population density, hectacres of 
     # NOTE: https://www.sciencedirect.com/science/article/pii/S0959378020307536
 
-# TODO: Merge together the base ISO-3 long format with the possible covariates 
-df_covar = merge()
+# Bring in Commerical Agriculture
+df_com_agr = pd.read_csv('input/gross_prod_FAO_USD.csv', delimiter=',', encoding='utf-8')
+# Bring in GDP measure
+df_gdp = pd.read_csv('input/WITS-Country-Timeseries.csv', delimiter=';', encoding='utf-8')
 
+# Clean GDP data to be in long format 
+# Select 'country' and columns that are between 2004 and 2021
+year_columns = limit_years(df_gdp)
+df_gdp = df_gdp[['Country'] + year_columns]
+
+# =Melt the filtered df_gdp to transform years from columns to rows
+df_gdp = df_gdp.melt(id_vars=['Country'], var_name='Year', value_name='GDP_capita')
+# Convert the 'year' column to integer, if it’s not already
+df_gdp['Year'] = df_gdp['Year'].astype(int)
+
+
+
+
+
+# TODO: Merge together the base ISO-3 long format with the possible covariates 
+df_covar = pd.merge(df_cntry, df_gdp, on=['Year', 'alpha-3'], how='left') # GDP
+df_covar = pd.merge(df_covar, df_com_agr, on=['Year', 'alpha-3'], how='left') # Commerical Agriculture
+
+######################################################################
+# Section: Exporting Covariate Data
+######################################################################
 
 # Create data set for covariates
 df_covar.to_csv('./intermediates/data-covariates.csv', index=False)

@@ -1,7 +1,6 @@
 # GEP: own consumption
 
 # File Edits: 
-01 - Ryan Review
 02 - Ryan Starts to build covariate data
 03 - Marta clean up. Marta add Interpolation run for countries (4) moving in and out of income brackets. 
    - Ryan review 
