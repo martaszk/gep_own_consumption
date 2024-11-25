@@ -10,7 +10,6 @@ import numpy as np
 import pandas as pd
 import statsmodels.api as sm
 
-# TODO: For merging, we will want to use ISO-3 alpha codes to make our life easier...
 
 # Command: Limit sample years 
 def limit_years(data):

@@ -9,6 +9,11 @@ Own consumption is calculated for countries classified as low and lower-middle i
     # * (Cropland area national 1000 ha * % of ha for smallholderfarms <2ha from Lowder 2021)  
     # * (Value of crop used for own consumption, share of total value of crop production (%) for questionanires)
 """
+
+# TODO: For merging, we will want to use ISO-3 alpha codes to make our life easier...
+
+
+
 import pandas as pd
 
 def load_WB_class():
