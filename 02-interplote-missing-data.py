@@ -162,7 +162,7 @@ filtered_df = df_interpolated[
 print(filtered_df[['Country', 'Year', 'own_con', 'own_con2']])
 
 # TODO: Filter only necessary varibles
-filtered_df = filtered_df[['Country', 'Year', 'own_con', 'own_con2']]
+filtered_df = filtered_df[['Country', 'Year', 'Code', 'own_con', 'own_con2']]
 
 # Output the clean own consumption datset
 filtered_df.to_csv('./intermediates/data-own-consumption-interpolation.csv', index=False)
