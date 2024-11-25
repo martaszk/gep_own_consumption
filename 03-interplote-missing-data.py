@@ -33,7 +33,13 @@ from sklearn.metrics import r2_score
 df1 = pd.read_csv('./intermediates/data-own-consumption.csv', delimiter=',', encoding='utf-8')
 df2 = pd.read_csv('input/gross_prod_FAO_USD.csv', delimiter=',', encoding='utf-8')
 df3 = pd.read_csv('input/WITS-Country-Timeseries.csv', delimiter=';', encoding='utf-8')
-
+wb_income_group = pd.read_csv('input/WBincomegroup.csv', delimiter=';',encoding='utf-8')
+# Ensure the required columns exist in both datasets
+if 'Country' not in wb_income_group.columns or 'Code' not in wb_income_group.columns:
+    raise ValueError("The WBincomegroup file must contain 'Country' and 'Code' columns.")
+# Merge df3 with the WBincomegroup file on 'Country'
+df3 = pd.merge(df3, wb_income_group[['Country', 'Code']], on='Country', how='left')
+print(df3)
 # Merge df1 and df2 on 'year' and 'country'
 merged_df = pd.merge(df1, df2, on=['Year', 'Country'], how='outer')
 
@@ -159,10 +165,11 @@ filtered_df = df_interpolated[
 ]
 
 # Select the specified columns and save to CSV. own_con2 = own con interpolated
-print(filtered_df[['Country', 'Year', 'own_con', 'own_con2']])
+print(filtered_df[['Country', 'Year', 'alpha-3', 'own_con', 'own_con2']])
 
 # TODO: Filter only necessary varibles
-filtered_df = filtered_df[['Country', 'Year', 'Code', 'own_con', 'own_con2']]
+filtered_df = filtered_df[['Country', 'Year','alpha-3','own_con', 'own_con2']]
 
-# Output the clean own consumption datset
+# Output clean own consumption datset
 filtered_df.to_csv('./intermediates/data-own-consumption-interpolation.csv', index=False)
+
