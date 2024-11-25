@@ -183,4 +183,3 @@ merged_df.to_csv(output_path, index=False, encoding='utf-8')
 
 print(f"GEP values adjusted to 2020 USD saved to: {output_path}")
 
-
