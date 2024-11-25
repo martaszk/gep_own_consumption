@@ -10,12 +10,16 @@ Own consumption is calculated for countries classified as low and lower-middle i
     # * (Value of crop used for own consumption, share of total value of crop production (%) for questionanires)
 """
 
-# TODO: For merging, we will want to use ISO-3 alpha codes to make our life easier...
+######################################################################
+# Section: Dependencies and Commands
+######################################################################
 
-
-
+# Dependencies 
 import pandas as pd
 
+# TODO: For merging, we will want to use ISO-3 alpha codes to make our life easier...
+
+# Command: Load World Bank income classification data and clean
 def load_WB_class():
     df = pd.read_csv('input/WBHIST.csv', delimiter=';') 
     
@@ -28,6 +32,7 @@ def load_WB_class():
     df['Year'] = df['Year'].astype(int)
     return df
 
+# Command: Load FAO own consumption data
 def loadFAOData():
     df = pd.read_csv('input/FAO_data2.csv', delimiter=';', encoding='utf-8')  # Load FAOdata2 data
     df = df.drop(df.columns[df.columns.str.contains('unnamed', case = False)],axis = 1) # remove unnamed columns
@@ -35,36 +40,45 @@ def loadFAOData():
     df = df[df["Indicator"] != 'Value of agricultural production sold at the market, share of total value of agricultural production (%)']
     return df
 
-def load_area_value():
-    df = pd.read_csv('input/FAO_area_value.csv', delimiter=';', encoding='utf-8')
-    df = df.rename(columns={'Area': 'Country'}) 
+# Command: Load in World Bank regional income brackets
+def load_region_income():
+    df = pd.read_csv('input/WBincomegroup.csv', delimiter=';', encoding='utf-8')
     return df
 
-def load_region_income():
-    return pd.read_csv('input/WBincomegroup.csv', delimiter=';', encoding='utf-8')
-
+# Command: Load in Info on farmers relative to agricultural land
 def load_region_lowder_data():
     df = pd.read_csv('input/lowder_2021.csv', delimiter=';', encoding='utf-8')
     df = df[df['Number or share of farms / agricultural area'] == 'share of agricultural area (%)']
     return df
 
+# Command: Load in commerical agricultural values
 def load_gross_prod():
     df = pd.read_csv ('input/gross_prod.csv', delimiter=';', encoding='utf-8')
     df = df[['Country', 'Year', 'Value', 'Unit']]
     df = df[df['Unit'] == '1000 USD']
     return df
 
+# Command: Load FAO value of agriculture land (land rentals)
+def load_area_value():
+    df = pd.read_csv('input/FAO_area_value.csv', delimiter=';', encoding='utf-8')
+    df = df.rename(columns={'Area': 'Country'}) 
+    return df
+
+# Command: Estimate value of agricultural land
 def production_area_data():
-    area_data_df = load_area_value()
-    df = area_data_df[area_data_df['Element'] == 'Value of agricultural production (Int. $) per Area']
+    df = load_area_value()
+    df = df[df['Element'] == 'Value of agricultural production (Int. $) per Area']
     df = df[['Country', 'Year', 'Value']]
     df = df.rename(columns={'Value': 'Agricultural Production per Area (USD_PPP/ha)'})
     return df
 
+# Command: Subset for cropland
 def cropland():
-    area_value_df = load_area_value()
-    return area_value_df[area_value_df['Item'] == 'Cropland'][['Item', 'Country', 'Year', 'Unit', 'Value']]
+    df = load_area_value()
+    df = df[df['Item'] == 'Cropland'][['Item', 'Country', 'Year', 'Unit', 'Value']]
+    return df
 
+# Command: Fill in missing national data
 def add_missing_national_data(df):
     national_data = df[df['Disaggregation'] == 'National']
     fao_countries = set(df['Country'].unique())
@@ -84,41 +98,54 @@ def add_missing_national_data(df):
     # Add 'National' as the disaggregation level for the aggregated missing data and combine
     aggregated_missing_national['Disaggregation'] = 'National'
     combined_national_data = pd.concat([national_data, aggregated_missing_national], ignore_index=True)
+    # Completed national data
     return combined_national_data
 
+# Command: Estimate Own consumption
 def calculate_own_consumption(df):
     # Convert the '< 1 ha' and '1–2 ha' columns to numeric, forcing errors to NaN if necessary
     df['< 1 ha'] = pd.to_numeric(df['< 1 ha'], errors='coerce')
     df['1–2 ha'] = pd.to_numeric(df['1–2 ha'], errors='coerce')
     
-    # Calculate own consumption with equation
+    # NOTE: Formula to Calculate own consumption
     # GEP_subsistence_crops = (Agricultural Production per Area (USD_PPP/ha in give country and year at the national level) 
     # * (Cropland area national 1000 ha * % of ha for smallholderfarms <2ha from Lowder 2021)  
     # * (Value of crop used for own consumption, share of total value of crop production (%) for questionanires)
     df['own_con'] = (
         (df['Value_x'] * (df['< 1 ha'] + df['1–2 ha']) * df['Agricultural Production per Area (USD_PPP/ha)'] * df['Value of crop used for own consumption, share of total value of crop production (%)'] / 100) 
         ) 
-
+    # Return data set with own consumption
     return df
 
+######################################################################
+# Section: Load and Merge Data
+######################################################################
+
+# Combine FAO and WB data
 df = pd.merge(loadFAOData(), load_WB_class(), how="left", on=["Country", "Year"])
+# Merge in value of agricultural land
 df = pd.merge(df, production_area_data(), on=['Country', 'Year'], how='left')
+# Fill in missing data
 df = add_missing_national_data(df)
 
 # Pivot the data so that each indicator becomes a column
 df = df.pivot_table(index=['Country', 'Year','Agricultural Production per Area (USD_PPP/ha)'], columns='Indicator', values='Value', aggfunc='first').reset_index()
 
+# Merge in necessary covariates
 df = pd.merge(df, cropland(), on=['Country', 'Year'], how='left')
 df = pd.merge(df, load_region_income(), on=['Country'], how='left')
 df = pd.merge(df, load_region_lowder_data(), on='Region', how='left')
 df = pd.merge(df, load_gross_prod(), on=['Country', 'Year'], how='left')
 
+######################################################################
+# Section: Estimate Own Consumption
+######################################################################
+
+# Estimate own consumption
 df = calculate_own_consumption(df)
 
-# Output the non-clean own consumption datset
-df.to_csv('./intermediates/data-own-consumption.csv', index=False)
 
-# Select the desired columns
+# Select the desired columns to keep
 columns_to_keep = [
     'Country',
     'Year',
@@ -127,10 +154,8 @@ columns_to_keep = [
     'Income group',
     'own_con'  # Assuming this is an existing column or one to rename
 ]
-
 # Reduce the dataset to the specified columns
-simplified_df = df[columns_to_keep]
+df = df[columns_to_keep]
 
-# Save the reduced dataset to a new CSV file
-simplified_df_file_path = './intermediates/simplified_data_own_con.csv'
-simplified_df.to_csv(simplified_df_file_path, index=False)
+# Output the initial own consumption datset
+df.to_csv('./intermediates/data-own-consumption.csv', index=False)

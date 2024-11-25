@@ -9,6 +9,20 @@ This creates a country-year data set that we will merge in for the models later.
 import numpy as np
 import pandas as pd
 
+# TODO: For merging, we will want to use ISO-3 alpha codes to make our life easier...
+
+# TODO: Start with all possible countries (ISO-3) and make long format with years (2004 and 2021)
+
+# TODO: Bring in covariate data and clean so ISO-3 for merge and in long format
+df2 = pd.read_csv('input/gross_prod_FAO_USD.csv', delimiter=',', encoding='utf-8')
+df3 = pd.read_csv('input/WITS-Country-Timeseries.csv', delimiter=';', encoding='utf-8')
+
+ # Variables: GDP_pc, commerical agriculture, some food insecurity measure, size of agricultural sector, rural, population density, hectacres of 
+    # NOTE: https://www.sciencedirect.com/science/article/pii/S0959378020307536
+
+# TODO: Merge together the base ISO-3 long format with the possible covariates 
+df_covar = merge()
+
 
 # Create data set for covariates
 df_covar.to_csv('./intermediates/data-covariates.csv', index=False)
