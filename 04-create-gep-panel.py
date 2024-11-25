@@ -25,7 +25,8 @@ df.rename(columns={'own_con2': 'gep-agriculture-subsistence'}, inplace=True)
 
 
 # Adjustment for nature's contribution (agricultural resource rent = land)
-df['gep-agriculture-subsistence'] = df['gep-agriculture-subsistence'] * 0.33
+rental_rate = 0.33
+df['gep-agriculture-subsistence'] = df['gep-agriculture-subsistence'] * rental_rate
     # TODO: Replace the 0.33 with CWON numbers 2024
     # NOTE: Need to do this for commerical as well. 
     # NOTE: Need to get the data from Marta
