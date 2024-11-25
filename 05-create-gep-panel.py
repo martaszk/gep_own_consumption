@@ -12,11 +12,11 @@ import pandas as pd
 # TODO: Bring in the extrapolated data when done 
     # NOTE: Currently the interpolated
 df = pd.read_csv('./intermediates/data-own-consumption-interpolation.csv', delimiter=',', encoding='utf-8')
-print(df)
 df = df[['Country', 'Year', 'own_con2']]
 df.rename(columns={'own_con2': 'gep-agriculture-subsistence'}, inplace=True)
-
+print(df)
 df1 = pd.read_csv('./input/CWON2024_crop_coef.csv', delimiter=';', encoding='utf-8')
+df1.rename(columns={"ISO3":"alpha-3"}, inplace=True)
 print(df1)
 # TODO: Upscale by the number of farms (or number of people) in each country...
     # Maybe static over time, but changing over time.
@@ -28,7 +28,9 @@ print(df1)
 # Adjustment for nature's contribution (agricultural resource rent = land)
 rental_rate = 0.33
 df['gep-agriculture-subsistence'] = df['gep-agriculture-subsistence'] * rental_rate
-    # TODO: Replace the 0.33 with CWON numbers 2024
+
+#  Replace the 0.33 with CWON numbers 2024
+
     # NOTE: Need to do this for commerical as well. 
     # NOTE: Need to get the data from Marta
 

@@ -30,7 +30,7 @@ from sklearn.metrics import r2_score
 # TODO: Marta manually changed the names of countries between WB and FAO. Especially CĂ´te d'Ivoire. We need to automate that. 
 
 # Input data from FAO on own consumption
-df1 = pd.read_csv('./intermediates/simplified_data_own_con.csv', delimiter=',', encoding='utf-8')
+df1 = pd.read_csv('./intermediates/data-own-consumption.csv', delimiter=',', encoding='utf-8')
 df2 = pd.read_csv('input/gross_prod_FAO_USD.csv', delimiter=',', encoding='utf-8')
 df3 = pd.read_csv('input/WITS-Country-Timeseries.csv', delimiter=';', encoding='utf-8')
 
