@@ -147,7 +147,6 @@ df = pd.merge(df, load_gross_prod(), on=['Country', 'Year'], how='left')
 # Estimate own consumption
 df = calculate_own_consumption(df)
 
-
 # Select the desired columns to keep
 columns_to_keep = [
     'Country',
@@ -159,6 +158,13 @@ columns_to_keep = [
 ]
 # Reduce the dataset to the specified columns
 df = df[columns_to_keep]
+
+# Rename variables 
+df = df.rename(columns =
+               {'Country': 'country', 
+                'Year': 'year', 
+                'Region': 'region', 
+                'Income group': 'income-group'})
 
 # Output the initial own consumption datset
 df.to_csv('./intermediates/data-own-consumption.csv', index=False)
