@@ -8,3 +8,6 @@
 05 - Marta adds CWON (nature's contribution) corrections. Also Marta adds CWON to the commerical agriculture github repo.
    - Marta brings in discounting for PPP correction. 
 06 - Ryan starts summary stats. Marta helps as she wants. 
+
+#Comments:
+# We change the columns heads to small letters at the end, as the whole has been written with capital letters

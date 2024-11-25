@@ -160,11 +160,7 @@ columns_to_keep = [
 df = df[columns_to_keep]
 
 # Rename variables 
-df = df.rename(columns =
-               {'Country': 'country', 
-                'Year': 'year', 
-                'Region': 'region', 
-                'Income group': 'income-group'})
+#df = df.rename(columns = {'Country': 'country', 'Year': 'year', 'Region': 'region','Income group': 'income-group'})
 
 # Output the initial own consumption datset
 df.to_csv('./intermediates/data-own-consumption.csv', index=False)
