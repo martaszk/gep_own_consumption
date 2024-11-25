@@ -33,13 +33,6 @@ from sklearn.metrics import r2_score
 df1 = pd.read_csv('./intermediates/data-own-consumption.csv', delimiter=',', encoding='utf-8')
 df2 = pd.read_csv('input/gross_prod_FAO_USD.csv', delimiter=',', encoding='utf-8')
 df3 = pd.read_csv('input/WITS-Country-Timeseries.csv', delimiter=';', encoding='utf-8')
-wb_income_group = pd.read_csv('input/WBincomegroup.csv', delimiter=';',encoding='utf-8')
-# Ensure the required columns exist in both datasets
-if 'Country' not in wb_income_group.columns or 'Code' not in wb_income_group.columns:
-    raise ValueError("The WBincomegroup file must contain 'Country' and 'Code' columns.")
-# Merge df3 with the WBincomegroup file on 'Country'
-df3 = pd.merge(df3, wb_income_group[['Country', 'Code']], on='Country', how='left')
-print(df3)
 # Merge df1 and df2 on 'year' and 'country'
 merged_df = pd.merge(df1, df2, on=['Year', 'Country'], how='outer')
 
@@ -173,3 +166,40 @@ filtered_df = filtered_df[['Country', 'Year','alpha-3','own_con', 'own_con2']]
 # Output clean own consumption datset
 filtered_df.to_csv('./intermediates/data-own-consumption-interpolation.csv', index=False)
 
+
+# Load your dataset
+data = pd.read_csv('./intermediates/data-own-consumption-interpolation.csv', encoding='utf-8')
+
+# Create a mapping dictionary for missing alpha-3 codes
+country_to_iso3 = {
+    "Armenia": "ARM",
+    "Burkina Faso": "BFA",
+    "Côte d'Ivoire": "CIV",
+    "Ecuador": "ECU",
+    "Ghana": "GHA",
+    "India": "IND",
+    "Iraq": "IRQ",
+    "Malawi": "MWI",
+    "Mali": "MLI",
+    "Mongolia": "MNG",
+    "Niger": "NER",
+    "Nigeria": "NGA",
+    "Peru": "PER",
+    "Senegal": "SEN",
+    "Sierra Leone": "SLE",
+    "United Republic of Tanzania": "TZA",
+    }
+
+# Fill missing alpha-3 codes based on the Country column
+data['alpha-3'] = data['alpha-3'].fillna(data['Country'].map(country_to_iso3))
+
+# Check for any remaining missing alpha-3 codes
+missing_alpha3 = data[data['alpha-3'].isnull()]
+if not missing_alpha3.empty:
+    print("Warning: Missing alpha-3 codes for the following countries:")
+    print(missing_alpha3['Country'].unique())
+
+# Save the updated dataset
+data.to_csv('./intermediates/data-own-consumption-interpolation-ISO.csv', index=False)
+
+print("Missing alpha-3 codes filled and saved to './intermediates/data-own-consumption-interpolation-filled.csv'")
