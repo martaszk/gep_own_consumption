@@ -2,12 +2,12 @@
 Purpose: 
 Construct data: This script loads and transforms data from FAO Rulis (Value of crop used for own consumption, share of total value of crop production (%)) 
 with FAO data on Agricultural Production per Area (USD_PPP/ha). Own consumption is calculated for value of production from cropland area of small holder farms (<2h) based on Lowder 2021 paper.
-Own consumption is calculated for countries classified as low and lower-middle income countries by World Bank classification.
+Own consumption is calculated for all countries from FAO Rulis database. 
 
 # Calculate own consumption with equation
     # GEP_subsistence_crops = (Agricultural Production per Area (USD_PPP/ha in a given country and year at the national level) 
     # * (Cropland area national 1000 ha * % of ha for smallholderfarms <2ha from Lowder 2021)  
-    # * (Value of crop used for own consumption, share of total value of crop production (%) for questionanires)
+    # * (Value of crop used for own consumption, share of total value of crop production (%) from questionanires)
 """
 
 ######################################################################
