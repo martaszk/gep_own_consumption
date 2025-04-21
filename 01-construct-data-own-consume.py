@@ -1,7 +1,8 @@
 """
 Purpose: 
 Construct data: This script loads and transforms data from FAO Rulis (Value of crop used for own consumption, share of total value of crop production (%)) 
-with FAO data on Agricultural Production per Area (USD_PPP/ha). Own consumption is calculated for value of production from cropland area of small holder farms (<2h) based on Lowder 2021 paper.
+with FAO data on Agricultural Production per Area (USD_PPP/ha). 
+Own consumption is calculated for value of production from cropland area of small holder farms (<2h) based on Lowder 2021 paper.
 Own consumption is calculated for all countries from FAO Rulis database. 
 
 # Calculate own consumption with equation
