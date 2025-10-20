@@ -118,7 +118,7 @@ for country, group in inflation_long.groupby('Country Code'):
         continue
 
     # Find the index of the base year (2020)
-    base_year_idx = group[group['Year'] == 2020].index
+    base_year_idx = group[group['Year'] == 2019].index
     if len(base_year_idx) > 0:
         base_year_idx = base_year_idx[0]
         group.loc[base_year_idx, 'CPI'] = 100  # Set CPI for the base year
@@ -131,7 +131,7 @@ for country, group in inflation_long.groupby('Country Code'):
         for i in range(base_year_idx - 1, -1, -1):
             group.loc[i, 'CPI'] = group.loc[i + 1, 'CPI'] / (1 + group.loc[i + 1, 'Inflation_Rate'] / 100)
     else:
-        print(f"Base year 2020 not found for {country}. Skipping CPI calculation.")
+        print(f"Base year 2019 not found for {country}. Skipping CPI calculation.")
 
     # Append processed group to the result list
     cpi_data.append(group)
@@ -166,7 +166,7 @@ cpi_data = cpi_data[['Country Code', 'Year', 'CPI']]
 cpi_data.rename(columns={'Country Code': 'alpha-3'}, inplace=True)
 
 # Get the CPI for the base year (2020)
-cpi_2020 = cpi_data[cpi_data['Year'] == 2020][['alpha-3', 'CPI']].rename(columns={'CPI': 'CPI_2020'})
+cpi_2020 = cpi_data[cpi_data['Year'] == 2019][['alpha-3', 'CPI']].rename(columns={'CPI': 'CPI_2019'})
 
 # Merge GEP data with CPI data on 'alpha-3' and 'Year'
 merged_df = pd.merge(gep_data, cpi_data, on=['alpha-3', 'Year'], how='left')
@@ -175,11 +175,11 @@ merged_df = pd.merge(gep_data, cpi_data, on=['alpha-3', 'Year'], how='left')
 merged_df = pd.merge(merged_df, cpi_2020, on='alpha-3', how='left')
 
 # Adjust GEP values to 2020 USD
-merged_df['gep_value_2020'] = merged_df['gep_value'] * (merged_df['CPI_2020'] / merged_df['CPI'])
+merged_df['gep_value_2019'] = merged_df['gep_value'] * (merged_df['CPI_2019'] / merged_df['CPI'])
 
 # Save the adjusted results
 output_path = './output/agr_subsistence_adjusted_2020.csv'
 merged_df.to_csv(output_path, index=False, encoding='utf-8')
 
-print(f"GEP values adjusted to 2020 USD saved to: {output_path}")
+print(f"GEP values adjusted to 2019 USD saved to: {output_path}")
 
