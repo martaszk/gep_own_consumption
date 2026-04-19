@@ -21,7 +21,10 @@ import numpy as np
 ############################################################################
 
 # Load own consumption data
-df = pd.read_csv('./intermediates/data-own-consumption-interpolation-ISO.csv', delimiter=',', encoding='utf-8')
+try:
+    df = pd.read_csv('./intermediates/data-own-consumption-extrapolation.csv', delimiter=',', encoding='utf-8')
+except FileNotFoundError:
+    df = pd.read_csv('./intermediates/data-own-consumption-interpolation-ISO.csv', delimiter=',', encoding='utf-8')
 
 # Load crop coefficients
 df1 = pd.read_csv('./input/CWON2024_crop_coef.csv', delimiter=';', encoding='utf-8')

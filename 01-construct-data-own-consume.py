@@ -17,6 +17,23 @@ Own consumption is calculated for all countries from FAO Rulis database.
 
 # Dependencies 
 import pandas as pd
+import re
+import unicodedata
+
+
+def normalize_country_name(name):
+    """Normalize country names for robust joins across sources."""
+    if pd.isna(name):
+        return ""
+    normalized = unicodedata.normalize('NFKD', str(name)).encode('ascii', 'ignore').decode('ascii')
+    normalized = normalized.lower().strip().replace('&', ' and ')
+    normalized = re.sub(r'[^a-z0-9]+', ' ', normalized)
+    return re.sub(r'\s+', ' ', normalized).strip()
+
+
+COUNTRY_ALIASES = {
+    "United Republic of Tanzania": "Tanzania, United Republic of",
+}
 
 # Command: Load World Bank income classification data and clean
 def load_WB_class():
@@ -47,6 +64,25 @@ def load_region_income():
     # Rename ISO-3 code 
     df.rename(columns={"Code":"alpha-3"}, inplace=True)
     # Return data set
+    return df
+
+
+def add_iso_codes(df):
+    """Attach ISO3 codes using normalized country names and aliases."""
+    iso = pd.read_csv('input/ISO-3-codes.csv', delimiter=',', encoding='utf-8')
+    iso = iso[['name', 'alpha-3']].copy()
+    iso['country_key'] = iso['name'].apply(normalize_country_name)
+
+    df = df.copy()
+    df['country_iso_name'] = df['Country'].replace(COUNTRY_ALIASES)
+    df['country_key'] = df['country_iso_name'].apply(normalize_country_name)
+    df = pd.merge(df, iso[['country_key', 'alpha-3']], on='country_key', how='left', suffixes=('', '_iso'))
+
+    # Prefer ISO code from normalized ISO name join; fallback to preexisting alpha-3 if present.
+    if 'alpha-3_iso' in df.columns:
+        df['alpha-3'] = df['alpha-3_iso'].combine_first(df.get('alpha-3'))
+        df = df.drop(columns=['alpha-3_iso'])
+    df = df.drop(columns=['country_iso_name', 'country_key'])
     return df
 
 # Command: Load in Info on farmers relative to agricultural land
@@ -140,6 +176,7 @@ df = pd.merge(df, cropland(), on=['Country', 'Year'], how='left')
 df = pd.merge(df, load_region_income(), on=['Country'], how='left')
 df = pd.merge(df, load_region_lowder_data(), on='Region', how='left')
 df = pd.merge(df, load_gross_prod(), on=['Country', 'Year'], how='left')
+df = add_iso_codes(df)
 
 ######################################################################
 # Section: Estimate Own Consumption

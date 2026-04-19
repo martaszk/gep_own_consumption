@@ -1,0 +1,1611 @@
+Country,Year,alpha-3,own_con,own_con2,own_con_source,prediction_feature,wb_income,Value,cropland_ha_1000,agricultural_land_ha_1000,ag_value_per_area_int_usd
+Afghanistan,2004,AFG,,89150657.40607215,extrapolated_correlation,cropland_ha_1000,L,,7928.0,37928.0,118.61
+Albania,2004,ALB,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1477628.0,699.0,1122.0,1342.83
+Algeria,2004,DZA,,94887734.05890183,extrapolated_correlation,cropland_ha_1000,LM,9281770.0,8296.0,41145.0,196.72
+Angola,2004,AGO,,20118658.98561076,extrapolated_correlation,cropland_ha_1000,LM,,3500.0,44310.0,69.28
+Armenia,2004,ARM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,656980.0,505.0,1505.0,788.69
+Azerbaijan,2004,AZE,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1258843.0,2063.5,4754.9,631.73
+Bangladesh,2004,BGD,,101544613.7620493,extrapolated_correlation,cropland_ha_1000,L,8324062.0,8723.0,9323.0,2424.87
+Belarus,2004,BLR,,53901933.732028976,extrapolated_correlation,cropland_ha_1000,LM,3832444.0,5667.0,8957.0,1040.73
+Benin,2004,BEN,,10908858.12136513,extrapolated_correlation,cropland_ha_1000,L,261618.0,2909.245,3459.245,732.32
+Bhutan,2004,BTN,,0.0,extrapolated_correlation,cropland_ha_1000,L,151024.0,177.0,584.0,197.89
+Bolivia (Plurinational State of),2004,BOL,,24421466.47523302,extrapolated_correlation,cropland_ha_1000,LM,1362009.0,3776.0,36617.0,106.59
+Bosnia and Herzegovina,2004,BIH,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1193472.0,1125.4,2169.4,602.0
+Brazil,2004,BRA,,880399539.0303037,extrapolated_correlation,cropland_ha_1000,LM,60792832.0,58682.0,228738.3,701.7
+Bulgaria,2004,BGR,,20492816.158621393,extrapolated_correlation,cropland_ha_1000,LM,2978723.0,3524.0,5330.0,929.35
+Burkina Faso,2004,BFA,,55031264.79923272,extrapolated_correlation,cropland_ha_1000,L,1637244.0,5739.44,11739.44,300.03
+Burundi,2004,BDI,,0.0,extrapolated_correlation,cropland_ha_1000,L,1406593.0,1365.0,1848.0,1002.02
+Cabo Verde,2004,CPV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,216766.0,51.0,76.0,746.07
+Cambodia,2004,KHM,,25575117.758682467,extrapolated_correlation,cropland_ha_1000,L,1626497.0,3850.0,5230.0,552.45
+Cameroon,2004,CMR,,77957121.98017079,extrapolated_correlation,cropland_ha_1000,L,3273638.0,7210.0,9210.0,528.6
+Central African Republic,2004,CAF,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1944.328,4934.328,232.21
+Chad,2004,TCD,,25263320.114506938,extrapolated_correlation,cropland_ha_1000,L,,3830.0,48830.0,56.13
+China,2004,CHN,,2043020894.6072936,extrapolated_correlation,cropland_ha_1000,LM,465266912.0,133257.3778,526091.3778,1235.07
+Colombia,2004,COL,,23361354.48503623,extrapolated_correlation,cropland_ha_1000,LM,10027377.0,3708.0,42391.0,428.7
+Comoros,2004,COM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,118.0,133.0,555.34
+"Congo, Dem. Rep.",2004,,,,missing,,L,,,,
+"Congo, Rep.",2004,,,,missing,,L,,,,
+Côte d'Ivoire,2004,CIV,,74096240.8815207,extrapolated_correlation,cropland_ha_1000,L,3513267.0,6962.347,20162.347,355.96
+Cuba,2004,CUB,,30002644.30597493,extrapolated_correlation,cropland_ha_1000,LM,,4134.0,6528.0,856.82
+Djibouti,2004,DJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1.7,1701.7,35.84
+Dominican Republic,2004,DOM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1559675.0,1220.0,2417.0,1236.98
+Ecuador,2004,ECU,,4887344.067636333,extrapolated_correlation,cropland_ha_1000,LM,3610379.0,2523.0,7527.0,965.52
+"Egypt, Arab Rep.",2004,,,,missing,,LM,,,,
+El Salvador,2004,SLV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,985707.0,891.5,1280.7,1120.52
+Eritrea,2004,ERI,,0.0,extrapolated_correlation,cropland_ha_1000,L,392448.0,600.0,7500.0,40.61
+Eswatini,2004,SWZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,192.0,1224.0,319.1
+Ethiopia,2004,ETH,,169797118.0720719,extrapolated_correlation,cropland_ha_1000,L,4341010.0,13101.0,33101.0,275.28
+Fiji,2004,FJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,265730.0,175.6,348.6,846.53
+"Gambia, The",2004,,,,missing,,L,,,,
+Georgia,2004,GEO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1198976.0,552.0,2492.0,612.66
+Ghana,2004,GHA,,58227447.88508831,extrapolated_correlation,cropland_ha_1000,L,5735003.0,5944.4565,11869.5739,629.15
+Guatemala,2004,GTM,,2486502.2074847817,extrapolated_correlation,cropland_ha_1000,LM,,2369.0,4723.0,1071.96
+Guinea,2004,GIN,,18870548.60585834,extrapolated_correlation,cropland_ha_1000,L,1813934.0,3419.941,14119.941,174.62
+Guinea-Bissau,2004,GNB,,0.0,extrapolated_correlation,cropland_ha_1000,L,549283.0,530.0,696.9,441.1
+Guyana,2004,GUY,,0.0,extrapolated_correlation,cropland_ha_1000,LM,84574.0,446.1333,1040.1333,476.8
+Haiti,2004,HTI,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1180.0,1670.0,845.75
+Honduras,2004,HND,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1697305.0,1440.0,3140.0,795.76
+India,2004,IND,,2614134749.586106,extrapolated_correlation,cropland_ha_1000,L,135048319.0,169891.0,180375.0,1379.7
+Indonesia,2004,IDN,,521193063.05788934,extrapolated_correlation,cropland_ha_1000,LM,36707194.0,35641.0,46641.0,1371.25
+"Iran, Islamic Rep.",2004,,,,missing,,LM,,,,
+Iraq,2004,IRQ,,38670618.81405455,extrapolated_correlation,cropland_ha_1000,LM,1522541.0,4690.0,8690.0,466.15
+Jamaica,2004,JAM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,984035.0,243.0,472.0,1661.02
+Jordan,2004,JOR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,826948.0,295.0,1037.0,1332.21
+Kazakhstan,2004,KAZ,,411401317.6025824,extrapolated_correlation,cropland_ha_1000,LM,4353791.0,28598.5,212670.5,46.8
+Kenya,2004,KEN,,54291680.78724839,extrapolated_correlation,cropland_ha_1000,L,6684956.0,5692.0,26992.0,377.68
+Kiribati,2004,KIR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,34.0,34.0,868.61
+"Korea, Dem. Rep.",2004,,,,missing,,L,,,,
+Kyrgyzstan,2004,KGZ,,0.0,extrapolated_correlation,cropland_ha_1000,L,1168207.0,1406.0,10770.0,249.74
+Lao PDR,2004,,,,missing,,L,,,,
+Lesotho,2004,LSO,,0.0,extrapolated_correlation,cropland_ha_1000,L,,314.0,2314.0,76.61
+Liberia,2004,LBR,,0.0,extrapolated_correlation,cropland_ha_1000,L,,615.0,1488.104,325.18
+Madagascar,2004,MDG,,20898153.096049577,extrapolated_correlation,cropland_ha_1000,L,1308049.0,3550.0,40843.0,83.96
+Malawi,2004,MWI,33813105.93612957,33813105.93612957,observed,,L,2010932.0,3130.0,4980.0,636.21
+Maldives,2004,MDV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,935.0,10.0,11.0,1502.83
+Mali,2004,MLI,,44314156.173631564,extrapolated_correlation,cropland_ha_1000,L,2672764.0,5052.0,39691.0,81.92
+Marshall Islands,2004,MHL,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,8.5,8.5,391.7
+Mauritania,2004,MRT,,0.0,extrapolated_correlation,cropland_ha_1000,L,,460.0,39710.0,16.54
+"Micronesia, Fed. Sts.",2004,,,,missing,,LM,,,,
+Moldova,2004,,,,missing,,L,,,,
+Mongolia,2004,MNG,,0.0,extrapolated_correlation,cropland_ha_1000,L,294892.0,1176.9,114152.7,10.42
+Morocco,2004,MAR,,106502196.30444016,extrapolated_correlation,cropland_ha_1000,LM,9008723.0,9041.0,30041.0,347.82
+Mozambique,2004,MOZ,,41164999.967458755,extrapolated_correlation,cropland_ha_1000,L,2312294.0,4850.0,38336.344,71.05
+Myanmar,2004,MMR,,133472692.52562313,extrapolated_correlation,cropland_ha_1000,L,,10771.0,11082.0,1788.0
+Namibia,2004,NAM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,351036.0,820.0,38820.0,12.71
+Nepal,2004,NPL,,3437485.022220142,extrapolated_correlation,cropland_ha_1000,L,3024098.0,2430.0,4218.0,1431.3
+Nicaragua,2004,NIC,,0.0,extrapolated_correlation,cropland_ha_1000,L,1005053.0,2209.0,5225.0,323.17
+Niger,2004,NER,,186306803.33116597,extrapolated_correlation,cropland_ha_1000,L,1431085.0,14160.0,38472.0,62.36
+Nigeria,2004,NGA,,618905706.9772959,extrapolated_correlation,cropland_ha_1000,L,48851260.0,41908.6961,65960.6961,640.4
+North Macedonia,2004,MKD,,0.0,extrapolated_correlation,cropland_ha_1000,LM,759110.0,509.0,1262.0,858.44
+Pakistan,2004,PAK,,449541964.4263536,extrapolated_correlation,cropland_ha_1000,L,23606354.0,31045.0,36045.0,1328.26
+Papua New Guinea,2004,PNG,,0.0,extrapolated_correlation,cropland_ha_1000,L,,933.0,1123.0,2566.95
+Paraguay,2004,PRY,,19452729.37212178,extrapolated_correlation,cropland_ha_1000,LM,2337392.0,3457.2845,15442.4245,331.12
+Peru,2004,PER,,46046090.752792254,extrapolated_correlation,cropland_ha_1000,LM,4793389.0,5163.0935,23296.5935,391.26
+Philippines,2004,PHL,,120985196.87639333,extrapolated_correlation,cropland_ha_1000,LM,12809126.0,9970.0,11470.0,2148.44
+Romania,2004,ROU,,111225930.61369939,extrapolated_correlation,cropland_ha_1000,LM,14448132.0,9344.0,14130.0,1170.45
+Rwanda,2004,RWA,,0.0,extrapolated_correlation,cropland_ha_1000,L,1301617.0,1428.0,1883.0,1250.25
+Samoa,2004,WSM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,40.0,43.0,1597.82
+São Tomé and Príncipe,2004,STP,,,missing,,L,,,,
+Senegal,2004,SEN,,12900543.522947341,extrapolated_correlation,cropland_ha_1000,L,588080.0,3037.0,8687.0,189.26
+Sierra Leone,2004,SLE,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1572.73,3772.73,257.23
+Solomon Islands,2004,SLB,,0.0,extrapolated_correlation,cropland_ha_1000,L,,76.0,84.0,1599.5
+Somalia,2004,SOM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1157.0,44157.0,54.89
+Sri Lanka,2004,LKA,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1868200.0,1870.0,2310.0,2364.61
+Sudan,2004,SDN,,,missing,,L,,,,
+Suriname,2004,SUR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,92770.0,59.0,77.5,1726.62
+Syrian Arab Republic,2004,SYR,,53262748.56146915,extrapolated_correlation,cropland_ha_1000,LM,,5626.0,13905.0,675.3
+Tajikistan,2004,TJK,,0.0,extrapolated_correlation,cropland_ha_1000,L,989580.0,877.0,4650.0,387.94
+United Republic of Tanzania,2004,TZA,,133255993.16292115,extrapolated_correlation,cropland_ha_1000,L,2406235.0,10757.1,34757.1,253.29
+Thailand,2004,THA,,300222072.6306943,extrapolated_correlation,cropland_ha_1000,LM,17454476.0,21467.0,22267.0,1640.65
+Timor-Leste,2004,TLS,,0.0,extrapolated_correlation,cropland_ha_1000,L,,183.4,333.4,487.18
+Togo,2004,TGO,,4216979.132658951,extrapolated_correlation,cropland_ha_1000,L,718742.0,2480.0,3480.0,278.45
+Tonga,2004,TON,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,26.0,30.0,1121.95
+Tunisia,2004,TUN,,42646038.77729249,extrapolated_correlation,cropland_ha_1000,LM,3018931.0,4945.0,9830.0,461.23
+Turkmenistan,2004,TKM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,6362161.0,1843.6344,35050.0,111.39
+Uganda,2004,UGA,,92611611.2564205,extrapolated_correlation,cropland_ha_1000,L,,8150.0,13262.0,709.87
+Ukraine,2004,UKR,,486037878.6770989,extrapolated_correlation,cropland_ha_1000,LM,13874547.0,33386.0,41354.0,793.88
+Uzbekistan,2004,UZB,,39652781.393207446,extrapolated_correlation,cropland_ha_1000,L,,4753.0,26684.0,454.93
+Vanuatu,2004,VUT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,77167.0,139.0,181.0,475.75
+Viet Nam,2004,VNM,,108257617.04114838,extrapolated_correlation,cropland_ha_1000,L,12668036.0,9153.6,9795.6,3204.93
+West Bank and Gaza,2004,,,,missing,,LM,,,,
+"Yemen, Rep.",2004,,,,missing,,L,,,,
+Zambia,2004,ZMB,,10717960.013718665,extrapolated_correlation,cropland_ha_1000,L,,2897.0,22897.0,
+Afghanistan,2005,AFG,,88979168.70177561,extrapolated_correlation,cropland_ha_1000,L,,7917.0,37917.0,132.57
+Albania,2005,ALB,3402146.4105162425,3402146.4105162425,observed,,LM,1440069.0,659.0,1077.0,1375.59
+Algeria,2005,DZA,,95932256.16688985,extrapolated_correlation,cropland_ha_1000,LM,9266991.0,8363.0,41211.0,201.63
+Angola,2005,AGO,,20118658.98561076,extrapolated_correlation,cropland_ha_1000,LM,,3500.0,44183.0,75.39
+Armenia,2005,ARM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,763539.0,505.0,1605.0,857.08
+Azerbaijan,2005,AZE,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1575889.0,2064.7,4758.6,712.64
+Bangladesh,2005,BGD,,101357535.17554398,extrapolated_correlation,cropland_ha_1000,L,9297322.0,8711.0,9311.0,2722.35
+Belarus,2005,BLR,,53792804.556567535,extrapolated_correlation,cropland_ha_1000,LM,4569894.0,5660.0,8949.0,1030.68
+Benin,2005,BEN,,11131902.566126093,extrapolated_correlation,cropland_ha_1000,L,273141.0,2923.552,3473.552,671.61
+Bhutan,2005,BTN,,0.0,extrapolated_correlation,cropland_ha_1000,L,221333.0,186.0,593.0,286.48
+Bolivia (Plurinational State of),2005,BOL,,27991549.50104279,extrapolated_correlation,cropland_ha_1000,LM,1415795.0,4005.0,36962.0,112.15
+Bosnia and Herzegovina,2005,BIH,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1130761.0,1120.0,2157.0,604.83
+Brazil,2005,BRA,,895256696.7752676,extrapolated_correlation,cropland_ha_1000,LM,69596934.0,59635.0,228842.0,704.92
+Bulgaria,2005,BGR,,17951665.358590864,extrapolated_correlation,cropland_ha_1000,LM,2307337.0,3361.0,5265.0,763.9
+Burkina Faso,2005,BFA,,57242385.587844566,extrapolated_correlation,cropland_ha_1000,L,2094613.0,5881.2705,11881.2705,340.24
+Burundi,2005,BDI,,0.0,extrapolated_correlation,cropland_ha_1000,L,1765800.0,1336.0,1819.0,839.86
+Cabo Verde,2005,CPV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,219718.0,51.0,76.0,736.82
+Cambodia,2005,KHM,,25668657.05193512,extrapolated_correlation,cropland_ha_1000,L,2217282.0,3856.0,5356.0,699.43
+Cameroon,2005,CMR,,78003891.62679711,extrapolated_correlation,cropland_ha_1000,LM,3950836.0,7213.0,9213.0,621.37
+Central African Republic,2005,CAF,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1942.704,4932.704,236.74
+Chad,2005,TCD,,26822308.33538457,extrapolated_correlation,cropland_ha_1000,L,,3930.0,48930.0,64.34
+China,2005,CHN,,2052232089.2070086,extrapolated_correlation,cropland_ha_1000,LM,503437183.0,133848.2222,526682.2222,1278.27
+Colombia,2005,COL,,21880315.67520248,extrapolated_correlation,cropland_ha_1000,LM,12125675.0,3613.0,42557.0,433.54
+Comoros,2005,COM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,118.0,133.0,599.17
+"Congo, Dem. Rep.",2005,,,,missing,,L,,,,
+"Congo, Rep.",2005,,,,missing,,LM,,,,
+Côte d'Ivoire,2005,CIV,,77873825.2395293,extrapolated_correlation,cropland_ha_1000,L,4171923.0,7204.657,20404.657,366.36
+Cuba,2005,CUB,,29425818.66425021,extrapolated_correlation,cropland_ha_1000,LM,,4097.0,6637.0,681.33
+Djibouti,2005,DJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1.7,1701.7,40.1
+Dominican Republic,2005,DOM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2450851.0,1220.0,2417.0,1304.31
+Ecuador,2005,ECU,,4684675.598922245,extrapolated_correlation,cropland_ha_1000,LM,3405244.0,2510.0,7500.0,956.44
+"Egypt, Arab Rep.",2005,,,,missing,,LM,,,,
+El Salvador,2005,SLV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1232451.0,834.6,1218.6,1222.45
+Eritrea,2005,ERI,,0.0,extrapolated_correlation,cropland_ha_1000,L,460798.0,622.0,7522.0,50.78
+Eswatini,2005,SWZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,192.0,1224.0,339.47
+Ethiopia,2005,ETH,,177436160.35437226,extrapolated_correlation,cropland_ha_1000,L,5406400.0,13591.0,33591.0,298.41
+Fiji,2005,FJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,296768.0,169.8,342.8,880.33
+"Gambia, The",2005,,,,missing,,L,,,,
+Georgia,2005,GEO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1223270.0,580.0,2520.0,729.77
+Ghana,2005,GHA,,59662733.50861575,extrapolated_correlation,cropland_ha_1000,L,7207887.0,6036.5217,12119.5796,633.25
+Guatemala,2005,GTM,,490997.2847614214,extrapolated_correlation,cropland_ha_1000,LM,,2241.0,4562.0,1140.2
+Guinea,2005,GIN,,19018278.32966871,extrapolated_correlation,cropland_ha_1000,L,1409703.0,3429.417,14129.417,181.83
+Guinea-Bissau,2005,GNB,,0.0,extrapolated_correlation,cropland_ha_1000,L,607436.0,530.0,705.345,463.02
+Guyana,2005,GUY,,0.0,extrapolated_correlation,cropland_ha_1000,LM,84140.0,448.0,1042.0,414.17
+Haiti,2005,HTI,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1280.0,1770.0,840.51
+Honduras,2005,HND,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1889356.0,1450.0,3150.0,834.7
+India,2005,IND,3973986456.9319,3973986456.9319,observed,,L,153143393.0,169674.0,180126.0,1457.31
+Indonesia,2005,IDN,,524311039.49964464,extrapolated_correlation,cropland_ha_1000,LM,40150996.0,35841.0,46841.0,1406.37
+"Iran, Islamic Rep.",2005,,,,missing,,LM,,,,
+Iraq,2005,IRQ,,41009101.14537099,extrapolated_correlation,cropland_ha_1000,LM,2125913.0,4840.0,8840.0,494.61
+Jamaica,2005,JAM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1114445.0,238.0,467.0,1615.56
+Jordan,2005,JOR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,849887.0,271.0,1013.0,1423.64
+Kazakhstan,2005,KAZ,,412640713.2381801,extrapolated_correlation,cropland_ha_1000,LM,5021235.0,28678.0,212286.0,50.18
+Kenya,2005,KEN,36314628.80647628,36314628.80647628,observed,,L,7956763.0,5702.0,27002.0,419.56
+Kiribati,2005,KIR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,34.0,34.0,876.6
+"Korea, Dem. Rep.",2005,,,,missing,,L,,,,
+Kyrgyzstan,2005,KGZ,,0.0,extrapolated_correlation,cropland_ha_1000,L,1319590.0,1356.0,10745.0,239.67
+Lao PDR,2005,,,,missing,,L,,,,
+Lesotho,2005,LSO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,327.0,2327.0,82.02
+Liberia,2005,LBR,,0.0,extrapolated_correlation,cropland_ha_1000,L,,615.0,1517.9629,330.14
+Madagascar,2005,MDG,,21677647.206488393,extrapolated_correlation,cropland_ha_1000,L,1787893.0,3600.0,40893.0,94.18
+Malawi,2005,MWI,,17468379.010118797,extrapolated_correlation,cropland_ha_1000,L,2144618.0,3330.0,5180.0,527.26
+Maldives,2005,MDV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,335.0,8.0,9.0,1453.47
+Mali,2005,MLI,,55242663.60198374,extrapolated_correlation,cropland_ha_1000,L,3392989.0,5753.0,40392.0,88.09
+Marshall Islands,2005,MHL,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,8.5,8.5,451.22
+Mauritania,2005,MRT,,0.0,extrapolated_correlation,cropland_ha_1000,L,,460.0,39710.0,17.03
+"Micronesia, Fed. Sts.",2005,,,,missing,,LM,,,,
+Moldova,2005,,,,missing,,LM,,,,
+Mongolia,2005,MNG,,0.0,extrapolated_correlation,cropland_ha_1000,L,287739.0,1175.4,113927.8,9.76
+Morocco,2005,MAR,,105691522.4295838,extrapolated_correlation,cropland_ha_1000,LM,8081653.0,8989.0,29989.0,328.7
+Mozambique,2005,MOZ,,47400952.85096927,extrapolated_correlation,cropland_ha_1000,L,2624778.0,5250.0,38557.93,65.93
+Myanmar,2005,MMR,,136341230.85203797,extrapolated_correlation,cropland_ha_1000,L,,10955.0,11263.0,1964.18
+Namibia,2005,NAM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,405541.0,820.0,38820.0,12.58
+Nepal,2005,NPL,,3172457.0246709436,extrapolated_correlation,cropland_ha_1000,L,3491949.0,2413.0,4202.0,1477.88
+Nicaragua,2005,NIC,,381868.10929998755,extrapolated_correlation,cropland_ha_1000,LM,1232096.0,2234.0,5250.0,359.72
+Niger,2005,NER,,186665370.62196785,extrapolated_correlation,cropland_ha_1000,L,1954722.0,14183.0,42965.0,66.89
+Nigeria,2005,NGA,,621921700.6455941,extrapolated_correlation,cropland_ha_1000,L,63581395.0,42102.1545,66176.1545,673.05
+North Macedonia,2005,MKD,,0.0,extrapolated_correlation,cropland_ha_1000,LM,741918.0,487.0,1228.0,884.92
+Pakistan,2005,PAK,,448294773.84965146,extrapolated_correlation,cropland_ha_1000,L,24763319.0,30965.0,35965.0,1363.3
+Papua New Guinea,2005,PNG,,0.0,extrapolated_correlation,cropland_ha_1000,L,,943.0,1133.0,2631.45
+Paraguay,2005,PRY,,20539659.077694103,extrapolated_correlation,cropland_ha_1000,LM,2019907.0,3527.0047,15512.1447,330.77
+Peru,2005,PER,,46228949.15818365,extrapolated_correlation,cropland_ha_1000,LM,5331551.0,5174.8228,23391.2728,413.11
+Philippines,2005,PHL,,119192360.42238407,extrapolated_correlation,cropland_ha_1000,LM,13943582.0,9855.0,11355.0,2210.13
+Rwanda,2005,RWA,,0.0,extrapolated_correlation,cropland_ha_1000,L,1672770.0,1431.0,1881.0,1338.02
+Samoa,2005,WSM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,38.0,42.0,1666.67
+São Tomé and Príncipe,2005,STP,,,missing,,L,,,,
+Senegal,2005,SEN,,15067537.149967246,extrapolated_correlation,cropland_ha_1000,L,740786.0,3176.0,8776.0,214.6
+Sierra Leone,2005,SLE,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1612.02,3812.02,256.75
+Solomon Islands,2005,SLB,,0.0,extrapolated_correlation,cropland_ha_1000,L,,83.0,91.0,1656.53
+Somalia,2005,SOM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1126.0,44126.0,56.42
+Sri Lanka,2005,LKA,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2223828.0,2070.0,2510.0,2312.82
+Sudan,2005,SDN,,,missing,,L,,,,
+Suriname,2005,SUR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,118798.0,55.0,72.8,1906.98
+Syrian Arab Republic,2005,SYR,,52264996.10010746,extrapolated_correlation,cropland_ha_1000,LM,,5562.0,13828.0,722.92
+Tajikistan,2005,TJK,,0.0,extrapolated_correlation,cropland_ha_1000,L,1143506.0,874.0,4672.0,382.28
+United Republic of Tanzania,2005,TZA,,141941116.5414304,extrapolated_correlation,cropland_ha_1000,L,2052234.0,11314.2,35314.2,255.57
+Thailand,2005,THA,,301671931.6761105,extrapolated_correlation,cropland_ha_1000,LM,19990364.0,21560.0,22360.0,1618.25
+Timor-Leste,2005,TLS,,0.0,extrapolated_correlation,cropland_ha_1000,L,,183.0,333.0,518.77
+Togo,2005,TGO,,4840574.4210100025,extrapolated_correlation,cropland_ha_1000,L,899764.0,2520.0,3520.0,266.42
+Tonga,2005,TON,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,26.0,30.0,1122.58
+Tunisia,2005,TUN,,41882134.54906246,extrapolated_correlation,cropland_ha_1000,LM,3217310.0,4896.0,9824.0,507.71
+Turkmenistan,2005,TKM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,7063708.0,2035.4974,34880.0,121.1
+Uganda,2005,UGA,,92611611.2564205,extrapolated_correlation,cropland_ha_1000,L,,8150.0,13262.0,707.72
+Ukraine,2005,UKR,,485523412.5642092,extrapolated_correlation,cropland_ha_1000,LM,16884477.0,33353.0,41304.0,793.9
+Uzbekistan,2005,UZB,,39075955.751482725,extrapolated_correlation,cropland_ha_1000,L,,4716.0,26503.0,487.1
+Vanuatu,2005,VUT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,79493.0,141.0,183.0,479.62
+Viet Nam,2005,VNM,,112287601.59211706,extrapolated_correlation,cropland_ha_1000,L,15126999.0,9412.1,10054.1,3203.32
+West Bank and Gaza,2005,,,,missing,,LM,,,,
+"Yemen, Rep.",2005,,,,missing,,L,,,,
+Zambia,2005,ZMB,,8613325.915533863,extrapolated_correlation,cropland_ha_1000,L,419451.0,2762.0,22762.0,77.42
+Afghanistan,2006,AFG,,88870039.52631418,extrapolated_correlation,cropland_ha_1000,L,,7910.0,37910.0,122.69
+Albania,2006,ALB,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1518276.0,705.0,1120.0,1372.71
+Algeria,2006,DZA,,96166104.40002148,extrapolated_correlation,cropland_ha_1000,LM,10315853.0,8378.0,41181.0,212.88
+Angola,2006,AGO,,20118658.98561076,extrapolated_correlation,cropland_ha_1000,LM,,3500.0,44137.0,77.22
+Armenia,2006,ARM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1039248.0,503.9,1756.4,813.3
+Azerbaijan,2006,AZE,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2294932.0,2062.4,4756.0,713.84
+Bangladesh,2006,BGD,,100874248.82707192,extrapolated_correlation,cropland_ha_1000,L,10143153.0,8680.0,9280.0,2816.9
+Belarus,2006,BLR,,53808394.438776314,extrapolated_correlation,cropland_ha_1000,LM,5403712.0,5661.0,8958.0,1081.13
+Benin,2006,BEN,,9039335.036770888,extrapolated_correlation,cropland_ha_1000,L,279989.0,2789.326,3339.326,638.63
+Bhutan,2006,BTN,,0.0,extrapolated_correlation,cropland_ha_1000,LM,242851.0,170.0,577.0,334.65
+Bolivia (Plurinational State of),2006,BOL,,30123899.29181835,extrapolated_correlation,cropland_ha_1000,LM,1562269.0,4141.7778,37141.7778,118.49
+Bosnia and Herzegovina,2006,BIH,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1203883.0,1123.0,2159.0,630.6
+Burkina Faso,2006,BFA,,59391146.84762131,extrapolated_correlation,cropland_ha_1000,L,2113959.0,6019.101,12019.101,345.63
+Burundi,2006,BDI,,0.0,extrapolated_correlation,cropland_ha_1000,L,1882707.0,1339.0,1822.0,969.26
+Cabo Verde,2006,CPV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,233597.0,51.0,76.0,722.94
+Cambodia,2006,KHM,,25653067.169726342,extrapolated_correlation,cropland_ha_1000,L,2964901.0,3855.0,5355.0,759.88
+Cameroon,2006,CMR,,78003891.62679711,extrapolated_correlation,cropland_ha_1000,LM,4615368.0,7213.0,9213.0,659.5
+Central African Republic,2006,CAF,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1939.616,4929.616,242.56
+Chad,2006,TCD,,26822308.33538457,extrapolated_correlation,cropland_ha_1000,L,,3930.0,48930.0,64.29
+China,2006,CHN,,2061427695.4835033,extrapolated_correlation,cropland_ha_1000,LM,563956053.0,134438.0667,527272.0667,1309.11
+Colombia,2006,COL,,18081061.380923703,extrapolated_correlation,cropland_ha_1000,LM,13572707.0,3369.3,42174.0,455.42
+Comoros,2006,COM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,118.0,133.0,729.15
+"Congo, Dem. Rep.",2006,,,,missing,,L,,,,
+"Congo, Rep.",2006,,,,missing,,LM,,,,
+Côte d'Ivoire,2006,CIV,,82190959.83090141,extrapolated_correlation,cropland_ha_1000,L,4584455.0,7481.576,20681.576,373.83
+Cuba,2006,CUB,,28864582.90473426,extrapolated_correlation,cropland_ha_1000,LM,,4061.0,6630.0,589.19
+Djibouti,2006,DJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,2.0,1702.0,32.15
+Dominican Republic,2006,DOM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2446125.0,1220.0,2417.0,1447.43
+Ecuador,2006,ECU,712829.2801499999,712829.2801499999,observed,,LM,3492427.0,2446.0,7444.0,996.33
+"Egypt, Arab Rep.",2006,,,,missing,,LM,,,,
+El Salvador,2006,SLV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1434566.0,838.0,1216.9,1294.54
+Eritrea,2006,ERI,,0.0,extrapolated_correlation,cropland_ha_1000,L,514629.0,672.0,7572.0,50.17
+Eswatini,2006,SWZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,191.0,1223.0,331.86
+Ethiopia,2006,ETH,,187226606.3814838,extrapolated_correlation,cropland_ha_1000,L,6071857.0,14219.0,34219.0,304.7
+Fiji,2006,FJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,279293.0,164.0,337.0,944.32
+"Gambia, The",2006,,,,missing,,L,,,,
+Georgia,2006,GEO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,773985.0,578.0,2518.0,463.47
+Ghana,2006,GHA,,61098020.6911314,extrapolated_correlation,cropland_ha_1000,L,7709503.0,6128.587,12043.7923,655.68
+Guatemala,2006,GTM,,2283833.7387706935,extrapolated_correlation,cropland_ha_1000,LM,,2356.0,4315.4512,1256.75
+Guinea,2006,GIN,,20132713.264421977,extrapolated_correlation,cropland_ha_1000,L,1285001.0,3500.9015,14200.9015,186.93
+Guinea-Bissau,2006,GNB,,0.0,extrapolated_correlation,cropland_ha_1000,L,611259.0,530.0,713.79,474.1
+Guyana,2006,GUY,,0.0,extrapolated_correlation,cropland_ha_1000,LM,90906.0,448.0,1042.0,430.57
+Haiti,2006,HTI,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1280.0,1770.0,840.91
+Honduras,2006,HND,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2176438.0,1460.0,3160.0,839.57
+India,2006,IND,,2607446690.118541,extrapolated_correlation,cropland_ha_1000,L,175718312.0,169462.0,179906.0,1540.52
+Indonesia,2006,IDN,,541459909.9292985,extrapolated_correlation,cropland_ha_1000,LM,48083525.0,36941.0,47941.0,1429.61
+"Iran, Islamic Rep.",2006,,,,missing,,LM,,,,
+Iraq,2006,IRQ,,43347583.47668743,extrapolated_correlation,cropland_ha_1000,LM,2230290.0,4990.0,8990.0,487.9
+Jamaica,2006,JAM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1118792.0,238.0,467.0,1706.81
+Jordan,2006,JOR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,981050.0,276.0,1018.0,1407.18
+Kenya,2006,KEN,,55258253.484192505,extrapolated_correlation,cropland_ha_1000,L,9043434.0,5754.0,27054.0,427.63
+Kiribati,2006,KIR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,34.0,34.0,1025.95
+"Korea, Dem. Rep.",2006,,,,missing,,L,,,,
+Kyrgyzstan,2006,KGZ,,0.0,extrapolated_correlation,cropland_ha_1000,L,1633373.0,1355.6,10731.1,244.57
+Lao PDR,2006,,,,missing,,L,,,,
+Lesotho,2006,LSO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,307.0,2307.0,73.41
+Liberia,2006,LBR,,0.0,extrapolated_correlation,cropland_ha_1000,L,,615.0,1547.8004,315.69
+Madagascar,2006,MDG,,21677647.206488393,extrapolated_correlation,cropland_ha_1000,L,3127144.0,3600.0,40893.0,96.49
+Malawi,2006,MWI,,19105316.642040305,extrapolated_correlation,cropland_ha_1000,L,3017020.0,3435.0,5285.0,684.95
+Maldives,2006,MDV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1106.0,6.0,7.0,2078.88
+Mali,2006,MLI,,56396314.88543318,extrapolated_correlation,cropland_ha_1000,L,3277234.0,5827.0,40466.0,86.26
+Marshall Islands,2006,MHL,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,8.5,8.5,556.83
+Mauritania,2006,MRT,,0.0,extrapolated_correlation,cropland_ha_1000,L,,460.0,39710.0,16.92
+"Micronesia, Fed. Sts.",2006,,,,missing,,LM,,,,
+Moldova,2006,,,,missing,,LM,,,,
+Mongolia,2006,MNG,,0.0,extrapolated_correlation,cropland_ha_1000,L,306602.0,1177.3,114727.3,9.57
+Morocco,2006,MAR,,105021157.49460642,extrapolated_correlation,cropland_ha_1000,LM,10221893.0,8946.0,29946.0,390.35
+Mozambique,2006,MOZ,,45841964.63009164,extrapolated_correlation,cropland_ha_1000,L,2856744.0,5150.0,38779.516,72.71
+Myanmar,2006,MMR,,141563841.39197803,extrapolated_correlation,cropland_ha_1000,L,,11290.0,11597.0,2133.12
+Namibia,2006,NAM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,424423.0,820.0,38820.0,12.95
+Nepal,2006,NPL,,2891839.1449129656,extrapolated_correlation,cropland_ha_1000,L,3603834.0,2395.0,4185.0,1464.83
+Nicaragua,2006,NIC,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1227225.0,2158.0,5208.0,360.65
+Niger,2006,NER,,187039527.79497844,extrapolated_correlation,cropland_ha_1000,L,2340797.0,14207.0,42989.0,72.38
+Nigeria,2006,NGA,,617802189.6370534,extrapolated_correlation,cropland_ha_1000,L,72840866.0,41837.9119,66020.9119,716.05
+North Macedonia,2006,MKD,,0.0,extrapolated_correlation,cropland_ha_1000,LM,794349.0,477.0,1224.0,909.23
+Pakistan,2006,PAK,,450945053.82514346,extrapolated_correlation,cropland_ha_1000,L,26177311.0,31135.0,36135.0,1373.29
+Papua New Guinea,2006,PNG,,0.0,extrapolated_correlation,cropland_ha_1000,L,,961.0,1151.0,2642.98
+Paraguay,2006,PRY,,21694889.616211303,extrapolated_correlation,cropland_ha_1000,LM,2433388.0,3601.106,15586.246,350.54
+Peru,2006,PER,,46411809.12256327,extrapolated_correlation,cropland_ha_1000,LM,6004349.0,5186.5522,23485.9522,445.85
+Philippines,2006,PHL,,122700083.91935872,extrapolated_correlation,cropland_ha_1000,LM,16195819.0,10080.0,11580.0,2248.65
+Rwanda,2006,RWA,,0.0,extrapolated_correlation,cropland_ha_1000,L,1941719.0,1434.0,1884.0,1388.03
+Samoa,2006,WSM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,36.2,40.2,1723.37
+São Tomé and Príncipe,2006,STP,,,missing,,L,,,,
+Senegal,2006,SEN,,10608830.83825723,extrapolated_correlation,cropland_ha_1000,L,556891.0,2890.0,8490.0,190.43
+Sierra Leone,2006,SLE,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1829.88,4029.88,294.78
+Solomon Islands,2006,SLB,,0.0,extrapolated_correlation,cropland_ha_1000,L,,87.0,95.0,1620.59
+Somalia,2006,SOM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1076.0,44076.0,53.64
+Sri Lanka,2006,LKA,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2301484.0,2000.0,2440.0,2383.34
+Sudan,2006,SDN,,,missing,,L,,,,
+Suriname,2006,SUR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,134097.0,55.0,72.8,2042.9
+Syrian Arab Republic,2006,SYR,,52654743.15532687,extrapolated_correlation,cropland_ha_1000,LM,,5587.0,13877.0,750.11
+Tajikistan,2006,TJK,,0.0,extrapolated_correlation,cropland_ha_1000,L,1372766.0,877.0,4735.0,391.27
+United Republic of Tanzania,2006,TZA,,150626239.9199397,extrapolated_correlation,cropland_ha_1000,L,2482977.0,11871.3,35871.3,268.92
+Thailand,2006,THA,,303121790.7215267,extrapolated_correlation,cropland_ha_1000,LM,22745533.0,21653.0,22453.0,1662.82
+Timor-Leste,2006,TLS,,0.0,extrapolated_correlation,cropland_ha_1000,L,,182.6,332.6,535.05
+Togo,2006,TGO,,5620068.531448819,extrapolated_correlation,cropland_ha_1000,L,870734.0,2570.0,3570.0,275.05
+Tonga,2006,TON,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,27.0,31.0,1186.4
+Tunisia,2006,TUN,,42646038.77729249,extrapolated_correlation,cropland_ha_1000,LM,3595511.0,4945.0,9806.0,530.39
+Turkmenistan,2006,TKM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,6854387.0,2064.3843,34700.0,119.07
+Uganda,2006,UGA,,94950093.58773693,extrapolated_correlation,cropland_ha_1000,L,,8300.0,13462.75,688.8
+Ukraine,2006,UKR,,485398693.50653905,extrapolated_correlation,cropland_ha_1000,LM,19438847.0,33345.0,41284.0,796.26
+Uzbekistan,2006,UZB,,38499130.109758005,extrapolated_correlation,cropland_ha_1000,L,,4679.0,26322.0,527.99
+Vanuatu,2006,VUT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,79277.0,143.0,185.0,477.64
+Viet Nam,2006,VNM,,112660199.7769068,extrapolated_correlation,cropland_ha_1000,L,15158784.0,9436.0,10078.0,3337.61
+West Bank and Gaza,2006,,,,missing,,LM,,,,
+"Yemen, Rep.",2006,,,,missing,,L,,,,
+Zambia,2006,ZMB,,13072032.227243885,extrapolated_correlation,cropland_ha_1000,L,659094.0,3048.0,23048.0,77.23
+Afghanistan,2007,AFG,,88932399.05514929,extrapolated_correlation,cropland_ha_1000,L,,7914.0,37914.0,134.03
+Albania,2007,ALB,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1716233.0,698.0,1119.0,1392.56
+Algeria,2007,DZA,,96353182.9865268,extrapolated_correlation,cropland_ha_1000,LM,10785864.0,8390.0,41252.0,195.88
+Angola,2007,AGO,,21677647.206488393,extrapolated_correlation,cropland_ha_1000,LM,,3600.0,44245.0,87.38
+Armenia,2007,ARM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1459757.0,506.1,1751.9,887.1
+Azerbaijan,2007,AZE,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3095958.0,2078.7,4756.5,725.83
+Bangladesh,2007,BGD,,100655990.47614907,extrapolated_correlation,cropland_ha_1000,L,11985988.0,8666.0,9266.0,2969.54
+Benin,2007,BEN,,9659469.371271588,extrapolated_correlation,cropland_ha_1000,L,334139.0,2829.104,3379.104,658.32
+Bhutan,2007,BTN,,0.0,extrapolated_correlation,cropland_ha_1000,LM,244751.0,156.0,563.0,337.15
+Bolivia (Plurinational State of),2007,BOL,,32318608.611429013,extrapolated_correlation,cropland_ha_1000,LM,1846266.0,4282.5556,37282.5556,125.39
+Bosnia and Herzegovina,2007,BIH,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1489629.0,1117.0,2149.0,622.25
+Burkina Faso,2007,BFA,,61430778.93193662,extrapolated_correlation,cropland_ha_1000,L,2206229.0,6149.9315,12149.9315,305.32
+Burundi,2007,BDI,,0.0,extrapolated_correlation,cropland_ha_1000,L,1659744.0,1342.0,1825.0,859.0
+Cabo Verde,2007,CPV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,270538.0,51.0,76.0,772.24
+Cambodia,2007,KHM,,25653067.169726342,extrapolated_correlation,cropland_ha_1000,L,3667548.0,3855.0,5355.0,796.43
+Cameroon,2007,CMR,,78003891.62679711,extrapolated_correlation,cropland_ha_1000,LM,5948252.0,7213.0,9213.0,695.61
+Central African Republic,2007,CAF,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1944.185,4934.185,255.7
+Chad,2007,TCD,,26837898.217593342,extrapolated_correlation,cropland_ha_1000,L,3458581.0,3931.0,48931.0,66.82
+China,2007,CHN,,2070623300.2010098,extrapolated_correlation,cropland_ha_1000,LM,653903521.0,135027.9111,527861.9111,1340.25
+Colombia,2007,COL,,21209950.740225106,extrapolated_correlation,cropland_ha_1000,LM,17118661.0,3570.0,42436.0,466.61
+Comoros,2007,COM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,118.0,133.0,750.89
+"Congo, Dem. Rep.",2007,,,,missing,,L,,,,
+"Congo, Rep.",2007,,,,missing,,LM,,,,
+Côte d'Ivoire,2007,CIV,,87268506.5168888,extrapolated_correlation,cropland_ha_1000,L,5005830.0,7807.271,21007.271,354.83
+Djibouti,2007,DJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,2.2,1702.2,41.87
+Dominican Republic,2007,DOM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2727232.0,1220.0,2417.0,1482.99
+Ecuador,2007,ECU,,3203636.789088495,extrapolated_correlation,cropland_ha_1000,LM,4185503.0,2415.0,7412.0,1048.47
+"Egypt, Arab Rep.",2007,,,,missing,,LM,,,,
+El Salvador,2007,SLV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1479963.0,867.5,1241.3,1295.55
+Eritrea,2007,ERI,,0.0,extrapolated_correlation,cropland_ha_1000,L,617283.0,672.0,7572.0,56.18
+Eswatini,2007,SWZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,191.0,1223.0,325.03
+Ethiopia,2007,ETH,,200602725.3166138,extrapolated_correlation,cropland_ha_1000,L,9922625.0,15077.0,35077.0,319.86
+"Gambia, The",2007,,,,missing,,L,,,,
+Georgia,2007,GEO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1023262.0,577.0,2517.0,529.69
+Ghana,2007,GHA,,62533306.314658836,extrapolated_correlation,cropland_ha_1000,L,8346968.0,6220.6522,12472.252,615.79
+Guatemala,2007,GTM,,4637905.952295914,extrapolated_correlation,cropland_ha_1000,LM,,2507.0,4448.0,1338.3
+Guinea,2007,GIN,,22147106.888429493,extrapolated_correlation,cropland_ha_1000,L,1773625.0,3630.1131,14330.1131,193.17
+Guinea-Bissau,2007,GNB,,0.0,extrapolated_correlation,cropland_ha_1000,L,830284.0,530.0,722.235,470.7
+Guyana,2007,GUY,,0.0,extrapolated_correlation,cropland_ha_1000,LM,81375.0,448.0,1042.0,435.43
+Haiti,2007,HTI,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1280.0,1770.0,922.03
+Honduras,2007,HND,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2578191.0,1460.0,3160.0,891.05
+India,2007,IND,,2603393320.744259,extrapolated_correlation,cropland_ha_1000,LM,247525795.0,169202.0,179620.0,1675.67
+Indonesia,2007,IDN,,557049792.1380749,extrapolated_correlation,cropland_ha_1000,LM,55124839.0,37941.0,48941.0,1405.9
+"Iran, Islamic Rep.",2007,,,,missing,,LM,,,,
+Iraq,2007,IRQ,1922607.3937425336,1922607.3937425336,observed,,LM,2809267.0,5140.0,9140.0,464.31
+Jordan,2007,JOR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1220284.0,221.3,963.3,1489.88
+Kenya,2007,KEN,,57351210.760602936,extrapolated_correlation,cropland_ha_1000,L,10358987.0,5888.251,27188.251,449.41
+Kiribati,2007,KIR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,34.0,34.0,1067.28
+"Korea, Dem. Rep.",2007,,,,missing,,L,,,,
+Kyrgyzstan,2007,KGZ,,0.0,extrapolated_correlation,cropland_ha_1000,L,2196946.0,1353.4,10728.6,248.35
+Lao PDR,2007,,,,missing,,L,,,,
+Lesotho,2007,LSO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,329.0,2329.0,78.78
+Liberia,2007,LBR,,0.0,extrapolated_correlation,cropland_ha_1000,L,,615.0,1577.1809,353.43
+Madagascar,2007,MDG,,21677647.206488393,extrapolated_correlation,cropland_ha_1000,L,4517293.0,3600.0,40893.0,98.51
+Malawi,2007,MWI,,19105316.642040305,extrapolated_correlation,cropland_ha_1000,L,3713757.0,3435.0,5285.0,779.87
+Maldives,2007,MDV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,386.0,6.0,7.0,1750.92
+Mali,2007,MLI,,58438589.45478287,extrapolated_correlation,cropland_ha_1000,L,3824876.0,5958.0,40597.0,95.17
+Marshall Islands,2007,MHL,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,8.5,8.5,465.43
+Mauritania,2007,MRT,,0.0,extrapolated_correlation,cropland_ha_1000,L,,460.0,39710.0,17.09
+"Micronesia, Fed. Sts.",2007,,,,missing,,LM,,,,
+Moldova,2007,,,,missing,,LM,,,,
+Mongolia,2007,MNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,385425.0,1177.0,114680.0,10.47
+Morocco,2007,MAR,,105239415.84552927,extrapolated_correlation,cropland_ha_1000,LM,10540201.0,8960.0,29960.0,330.73
+Mozambique,2007,MOZ,,50518929.29272452,extrapolated_correlation,cropland_ha_1000,L,3401531.0,5450.0,39001.102,73.83
+Myanmar,2007,MMR,,147612715.6889832,extrapolated_correlation,cropland_ha_1000,L,,11678.0,11984.0,2181.6
+Namibia,2007,NAM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,432340.0,808.0,38808.0,12.8
+Nepal,2007,NPL,,2580041.5007374436,extrapolated_correlation,cropland_ha_1000,L,4437326.0,2375.0,4166.0,1573.51
+Nicaragua,2007,NIC,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1428743.0,2085.0,5175.0,384.33
+Niger,2007,NER,,199402304.38653803,extrapolated_correlation,cropland_ha_1000,L,2882024.0,15000.0,43782.0,72.34
+Nigeria,2007,NGA,,621018764.2888381,extrapolated_correlation,cropland_ha_1000,L,65465366.0,42044.2364,66345.2364,668.4
+North Macedonia,2007,MKD,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1113916.0,467.0,1076.0,1031.28
+Pakistan,2007,PAK,,449043088.19567275,extrapolated_correlation,cropland_ha_1000,L,28854949.0,31013.0,36013.0,1429.97
+Papua New Guinea,2007,PNG,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1022.0,1212.0,2676.79
+Paraguay,2007,PRY,,22508731.35513249,extrapolated_correlation,cropland_ha_1000,LM,3649746.0,3653.3092,15638.4492,400.08
+Peru,2007,PER,,46594667.52795467,extrapolated_correlation,cropland_ha_1000,LM,6973681.0,5198.2815,23580.6315,454.65
+Philippines,2007,PHL,,125973959.18320175,extrapolated_correlation,cropland_ha_1000,LM,20186567.0,10290.0,11790.0,2340.62
+Rwanda,2007,RWA,,0.0,extrapolated_correlation,cropland_ha_1000,L,2189650.0,1438.0,1878.0,1409.44
+Samoa,2007,WSM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,34.5,38.5,1767.66
+São Tomé and Príncipe,2007,STP,,,missing,,L,,,,
+Senegal,2007,SEN,,10811499.306971319,extrapolated_correlation,cropland_ha_1000,L,647303.0,2903.0,8503.0,171.42
+Sierra Leone,2007,SLE,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1423.72,3623.72,284.8
+Solomon Islands,2007,SLB,,0.0,extrapolated_correlation,cropland_ha_1000,L,,88.0,96.0,1713.71
+Somalia,2007,SOM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1026.0,44026.0,53.07
+Sri Lanka,2007,LKA,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2689238.0,1950.0,2390.0,2406.48
+Sudan,2007,SDN,,,missing,,LM,,,,
+Syrian Arab Republic,2007,SYR,,54151371.8473694,extrapolated_correlation,cropland_ha_1000,LM,,5683.0,13897.0,667.0
+Tajikistan,2007,TJK,,0.0,extrapolated_correlation,cropland_ha_1000,L,1238551.0,873.0,4729.0,405.48
+United Republic of Tanzania,2007,TZA,,159155464.47636116,extrapolated_correlation,cropland_ha_1000,L,2293668.0,12418.4,36418.4,268.63
+Thailand,2007,THA,,304556059.8847341,extrapolated_correlation,cropland_ha_1000,LM,31493651.0,21745.0,22545.0,1804.53
+Timor-Leste,2007,TLS,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,182.2,332.2,521.8
+Togo,2007,TGO,,6009815.586668223,extrapolated_correlation,cropland_ha_1000,L,1020478.0,2595.0,3595.0,281.93
+Tonga,2007,TON,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,27.0,31.0,1575.4
+Tunisia,2007,TUN,,42490139.95520474,extrapolated_correlation,cropland_ha_1000,LM,3680968.0,4935.0,9805.0,528.73
+Turkmenistan,2007,TKM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,6477194.0,1889.1176,34550.0,123.34
+Uganda,2007,UGA,,97288575.91905338,extrapolated_correlation,cropland_ha_1000,L,,8450.0,13663.5,708.74
+Ukraine,2007,UKR,,485211614.9200337,extrapolated_correlation,cropland_ha_1000,LM,23363147.0,33333.0,41266.0,739.63
+Uzbekistan,2007,UZB,,37922304.468033284,extrapolated_correlation,cropland_ha_1000,L,,4642.0,26141.0,548.64
+Vanuatu,2007,VUT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,91908.0,145.0,187.0,483.97
+Viet Nam,2007,VNM,,112420115.59089164,extrapolated_correlation,cropland_ha_1000,L,19131814.0,9420.6,10062.6,3487.23
+West Bank and Gaza,2007,,,,missing,,LM,,,,
+"Yemen, Rep.",2007,,,,missing,,L,,,,
+Zambia,2007,ZMB,,12074279.765882201,extrapolated_correlation,cropland_ha_1000,L,558029.0,2984.0,22984.0,77.18
+Afghanistan,2008,AFG,,88963578.81956685,extrapolated_correlation,cropland_ha_1000,L,,7916.0,37916.0,126.43
+Albania,2008,ALB,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1915644.0,697.0,1181.0,1357.04
+Angola,2008,AGO,,21677647.206488393,extrapolated_correlation,cropland_ha_1000,LM,,3600.0,44195.0,92.87
+Armenia,2008,ARM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1689818.0,504.4,1748.8,913.09
+Azerbaijan,2008,AZE,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3763713.0,2087.7,4756.7,754.09
+Bangladesh,2008,BGD,,100453322.00743495,extrapolated_correlation,cropland_ha_1000,L,14547201.0,8653.0,9253.0,3212.17
+Belize,2008,BLZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,177584.0,102.0,152.0,1578.02
+Benin,2008,BEN,,12852090.169042468,extrapolated_correlation,cropland_ha_1000,L,381911.0,3033.892,3583.892,725.39
+Bhutan,2008,BTN,,0.0,extrapolated_correlation,cropland_ha_1000,LM,224502.0,114.3,521.3,306.36
+Bolivia (Plurinational State of),2008,BOL,163805.48801223747,163805.48801223747,observed,,LM,2514378.0,4411.3333,37411.3333,126.95
+Burkina Faso,2008,BFA,,63587335.132817745,extrapolated_correlation,cropland_ha_1000,L,3187276.0,6288.262,12288.262,380.54
+Burundi,2008,BDI,,0.0,extrapolated_correlation,cropland_ha_1000,L,1607131.0,1345.0,1828.0,942.52
+Cabo Verde,2008,CPV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,254620.0,53.0,78.0,706.24
+Cambodia,2008,KHM,,25653067.169726342,extrapolated_correlation,cropland_ha_1000,L,5006323.0,3855.0,5355.0,869.85
+Cameroon,2008,CMR,,78783385.73723593,extrapolated_correlation,cropland_ha_1000,LM,7521645.0,7263.0,9263.0,720.89
+Central African Republic,2008,CAF,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1945.828,4935.828,259.54
+Chad,2008,TCD,,26837898.217593342,extrapolated_correlation,cropland_ha_1000,L,4421190.0,3931.0,48931.0,69.74
+China,2008,CHN,,2079818906.4775043,extrapolated_correlation,cropland_ha_1000,LM,811468248.0,135617.7556,528451.7556,1415.42
+Comoros,2008,COM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,118.0,133.0,768.09
+"Congo, Dem. Rep.",2008,,,,missing,,L,,,,
+"Congo, Rep.",2008,,,,missing,,LM,,,,
+Côte d'Ivoire,2008,CIV,35406371.32918913,35406371.32918913,observed,,LM,6453239.0,7722.973,20922.973,375.3
+Djibouti,2008,DJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1.9,1701.9,42.48
+Ecuador,2008,ECU,,4528776.77683448,extrapolated_correlation,cropland_ha_1000,LM,4902077.0,2500.0,7445.0,1090.23
+"Egypt, Arab Rep.",2008,,,,missing,,LM,,,,
+El Salvador,2008,SLV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1781985.0,868.8,1237.5,1385.94
+Eritrea,2008,ERI,,0.0,extrapolated_correlation,cropland_ha_1000,L,460948.0,672.0,7572.0,39.83
+Eswatini,2008,SWZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,191.0,1223.0,332.89
+Ethiopia,2008,ETH,,191810031.75086397,extrapolated_correlation,cropland_ha_1000,L,12765007.0,14513.0,34513.0,343.32
+"Gambia, The",2008,,,,missing,,L,,,,
+Georgia,2008,GEO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1034880.0,574.0,2514.0,458.25
+Ghana,2008,GHA,,63968591.93818626,extrapolated_correlation,cropland_ha_1000,L,10214564.0,6312.7174,12004.7607,715.83
+Guatemala,2008,GTM,,4902933.949845113,extrapolated_correlation,cropland_ha_1000,LM,,2524.0,4434.0,1365.46
+Guinea,2008,GIN,,24484073.883195244,extrapolated_correlation,cropland_ha_1000,L,1829898.0,3780.0159,14480.0159,200.95
+Guinea-Bissau,2008,GNB,,0.0,extrapolated_correlation,cropland_ha_1000,L,1143418.0,530.0,730.68,533.42
+Guyana,2008,GUY,,0.0,extrapolated_correlation,cropland_ha_1000,LM,90468.0,448.0,1042.0,432.69
+Haiti,2008,HTI,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1280.0,1770.0,892.17
+Honduras,2008,HND,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2714850.0,1428.0,3184.0,909.06
+India,2008,IND,,2606402168.010553,extrapolated_correlation,cropland_ha_1000,LM,252069459.0,169395.0,179757.0,1695.3
+Indonesia,2008,IDN,,561726756.8007077,extrapolated_correlation,cropland_ha_1000,LM,68415240.0,38241.0,49241.0,1470.47
+"Iran, Islamic Rep.",2008,,,,missing,,LM,,,,
+Iraq,2008,IRQ,,30875677.7096664,extrapolated_correlation,cropland_ha_1000,LM,2290104.0,4190.0,8190.0,467.17
+Jordan,2008,JOR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1491755.0,230.5,972.5,1533.88
+Kenya,2008,KEN,,57479841.31971933,extrapolated_correlation,cropland_ha_1000,L,12501810.0,5896.5019,27196.5019,451.22
+Kiribati,2008,KIR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,34.0,34.0,1072.94
+"Korea, Dem. Rep.",2008,,,,missing,,L,,,,
+Kosovo,2008,,,,missing,,LM,,,,
+Kyrgyzstan,2008,KGZ,,0.0,extrapolated_correlation,cropland_ha_1000,L,2735386.0,1352.9,10727.2,251.45
+Lao PDR,2008,,,,missing,,L,,,,
+Lesotho,2008,LSO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,362.0,2362.0,79.23
+Liberia,2008,LBR,,0.0,extrapolated_correlation,cropland_ha_1000,L,,630.0,1607.2218,338.49
+Madagascar,2008,MDG,,21677647.206488393,extrapolated_correlation,cropland_ha_1000,L,5560588.0,3600.0,40895.0,101.7
+Malawi,2008,MWI,,21443798.973356746,extrapolated_correlation,cropland_ha_1000,L,4905141.0,3585.0,5435.0,778.76
+Maldives,2008,MDV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,712.0,6.0,7.0,1726.69
+Mali,2008,MLI,,62070568.989926144,extrapolated_correlation,cropland_ha_1000,L,5004905.0,6190.9703,40830.9703,107.58
+Marshall Islands,2008,MHL,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,8.5,8.5,602.14
+Mauritania,2008,MRT,,0.0,extrapolated_correlation,cropland_ha_1000,L,,460.0,39710.0,16.83
+"Micronesia, Fed. Sts.",2008,,,,missing,,LM,,,,
+Moldova,2008,,,,missing,,LM,,,,
+Mongolia,2008,MNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,666519.0,1199.0,114507.0,12.01
+Morocco,2008,MAR,,105566803.3719136,extrapolated_correlation,cropland_ha_1000,LM,13606972.0,8981.0,29981.0,364.56
+Mozambique,2008,MOZ,,53636905.734479785,extrapolated_correlation,cropland_ha_1000,L,4068647.0,5650.0,39222.688,69.15
+Myanmar,2008,MMR,,152196141.05836344,extrapolated_correlation,cropland_ha_1000,L,,11972.0,12277.0,2283.67
+Nepal,2008,NPL,,2346193.2676057965,extrapolated_correlation,cropland_ha_1000,L,4555651.0,2360.0,4152.0,1649.71
+Nicaragua,2008,NIC,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1655366.0,2007.0,5132.0,388.41
+Niger,2008,NER,,199402304.38653803,extrapolated_correlation,cropland_ha_1000,L,4398053.0,15000.0,43782.0,88.2
+Nigeria,2008,NGA,,622744894.7548524,extrapolated_correlation,cropland_ha_1000,LM,97035505.0,42154.9576,66473.9576,708.58
+Pakistan,2008,PAK,,438130170.64952934,extrapolated_correlation,cropland_ha_1000,LM,26726763.0,30313.0,35313.0,1523.84
+Papua New Guinea,2008,PNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1055.0,1245.0,2657.15
+Paraguay,2008,PRY,,25372449.28996837,extrapolated_correlation,cropland_ha_1000,LM,5172325.0,3837.0,15822.14,384.98
+Philippines,2008,PHL,,129403733.26913254,extrapolated_correlation,cropland_ha_1000,LM,25038369.0,10510.0,12010.0,2393.98
+Rwanda,2008,RWA,,0.0,extrapolated_correlation,cropland_ha_1000,L,2364715.0,1440.0,1880.0,1441.06
+Samoa,2008,WSM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,32.0,37.0,1877.16
+São Tomé and Príncipe,2008,STP,,,missing,,LM,,,,
+Senegal,2008,SEN,,22846888.372146614,extrapolated_correlation,cropland_ha_1000,L,1522009.0,3675.0,9275.0,234.67
+Sierra Leone,2008,SLE,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1512.23,3712.23,297.72
+Solomon Islands,2008,SLB,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,91.0,99.0,1728.47
+Somalia,2008,SOM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1126.0,44126.0,51.9
+Sri Lanka,2008,LKA,,0.0,extrapolated_correlation,cropland_ha_1000,LM,4033150.0,2155.0,2595.0,2400.62
+Sudan,2008,SDN,,,missing,,LM,,,,
+Syrian Arab Republic,2008,SYR,,53886343.8498202,extrapolated_correlation,cropland_ha_1000,LM,,5666.0,13898.0,624.98
+Tajikistan,2008,TJK,,0.0,extrapolated_correlation,cropland_ha_1000,L,1494592.0,871.0,4727.0,422.61
+United Republic of Tanzania,2008,TZA,,167823438.9844408,extrapolated_correlation,cropland_ha_1000,L,3559401.0,12974.4,36974.4,271.81
+Thailand,2008,THA,,306005918.93015033,extrapolated_correlation,cropland_ha_1000,LM,33009605.0,21838.0,22638.0,1783.71
+Timor-Leste,2008,TLS,,0.0,extrapolated_correlation,cropland_ha_1000,LM,191219.0,186.8,336.8,557.53
+Togo,2008,TGO,,6633410.875019275,extrapolated_correlation,cropland_ha_1000,L,1481810.0,2635.0,3635.0,301.09
+Tonga,2008,TON,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,27.0,31.0,1532.26
+Tunisia,2008,TUN,,44142667.46933502,extrapolated_correlation,cropland_ha_1000,LM,4280112.0,5041.0,9881.0,542.28
+Turkmenistan,2008,TKM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,4403122.0,1889.351,34350.0,120.48
+Uganda,2008,UGA,,100406552.36080863,extrapolated_correlation,cropland_ha_1000,L,,8650.0,13914.25,543.43
+Ukraine,2008,UKR,,485850800.0905935,extrapolated_correlation,cropland_ha_1000,LM,31012349.0,33374.0,41292.0,919.49
+Uzbekistan,2008,UZB,,37345478.82630856,extrapolated_correlation,cropland_ha_1000,L,,4605.0,25960.0,575.96
+Vanuatu,2008,VUT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,94902.0,145.0,187.0,495.94
+Viet Nam,2008,VNM,,115198232.60049556,extrapolated_correlation,cropland_ha_1000,L,27049634.0,9598.8,10240.8,3592.61
+West Bank and Gaza,2008,,,,missing,,LM,,,,
+"Yemen, Rep.",2008,,,,missing,,L,,,,
+Zambia,2008,ZMB,,13680037.633386157,extrapolated_correlation,cropland_ha_1000,L,989925.0,3087.0,23087.0,82.12
+Afghanistan,2009,AFG,,88963578.81956685,extrapolated_correlation,cropland_ha_1000,L,,7916.0,37916.0,146.57
+Angola,2009,AGO,,31577222.409061335,extrapolated_correlation,cropland_ha_1000,LM,,4235.0,44630.0,114.56
+Armenia,2009,ARM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1226160.0,502.4,1746.3,913.71
+Bangladesh,2009,BGD,,100344192.83197354,extrapolated_correlation,cropland_ha_1000,L,14380268.0,8646.0,9246.0,3214.59
+Belize,2009,BLZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,187867.0,105.0,155.0,1552.46
+Benin,2009,BEN,,15290862.212607965,extrapolated_correlation,cropland_ha_1000,L,3589576.0,3190.325,3740.325,713.41
+Bhutan,2009,BTN,,0.0,extrapolated_correlation,cropland_ha_1000,LM,211367.0,113.0,520.0,284.6
+Bolivia (Plurinational State of),2009,BOL,,36333868.5186515,extrapolated_correlation,cropland_ha_1000,LM,3050388.0,4540.1111,37540.1111,135.25
+Burkina Faso,2009,BFA,,65821839.18575454,extrapolated_correlation,cropland_ha_1000,L,2885694.0,6431.5924,12431.5924,350.61
+Burundi,2009,BDI,,0.0,extrapolated_correlation,cropland_ha_1000,L,1727662.0,1348.0,1831.0,900.56
+Cabo Verde,2009,CPV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,260671.0,53.0,78.0,734.14
+Cambodia,2009,KHM,,25243552.14386621,extrapolated_correlation,cropland_ha_1000,L,4588384.0,3828.732,5328.732,916.15
+Cameroon,2009,CMR,,79562879.84767474,extrapolated_correlation,cropland_ha_1000,LM,7502350.0,7313.0,9313.0,762.71
+Central African Republic,2009,CAF,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1940.864,4930.864,267.69
+Chad,2009,TCD,,28459245.967306077,extrapolated_correlation,cropland_ha_1000,L,4339069.0,4035.0,49035.0,68.95
+China,2009,CHN,,2088967741.5483844,extrapolated_correlation,cropland_ha_1000,LM,833403697.0,136204.6,529038.6,1448.8
+Comoros,2009,COM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,118.0,133.0,791.64
+"Congo, Dem. Rep.",2009,,,,missing,,L,,,,
+"Congo, Rep.",2009,,,,missing,,LM,,,,
+Côte d'Ivoire,2009,CIV,,85471507.56432979,extrapolated_correlation,cropland_ha_1000,LM,6618775.0,7692.004,20892.004,353.57
+Djibouti,2009,DJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,2.0,1702.0,42.81
+Ecuador,2009,ECU,,5283327.07573925,extrapolated_correlation,cropland_ha_1000,LM,5775923.0,2548.4,7534.4,1139.19
+"Egypt, Arab Rep.",2009,,,,missing,,LM,,,,
+El Salvador,2009,SLV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1662179.0,870.1,1233.7,1340.37
+Eritrea,2009,ERI,,0.0,extrapolated_correlation,cropland_ha_1000,L,723614.0,692.0,7592.0,47.08
+Eswatini,2009,SWZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,192.0,1224.0,337.59
+Ethiopia,2009,ETH,,199168456.15340638,extrapolated_correlation,cropland_ha_1000,L,12596218.0,14985.0,34985.0,358.65
+"Gambia, The",2009,,,,missing,,L,,,,
+Georgia,2009,GEO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,909867.0,558.0,2498.0,428.14
+Ghana,2009,GHA,,65403877.56171368,extrapolated_correlation,cropland_ha_1000,L,10153450.0,6404.7826,12310.4654,766.86
+Guatemala,2009,GTM,,4382231.884071983,extrapolated_correlation,cropland_ha_1000,LM,,2490.6,4369.6,1488.09
+Guinea,2009,GIN,,22697654.224703103,extrapolated_correlation,cropland_ha_1000,L,1883966.0,3665.4275,14365.4275,202.06
+Guinea-Bissau,2009,GNB,,0.0,extrapolated_correlation,cropland_ha_1000,L,952063.0,530.0,739.125,518.38
+Guyana,2009,GUY,,0.0,extrapolated_correlation,cropland_ha_1000,LM,113383.0,448.0,1042.0,465.79
+Haiti,2009,HTI,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1326.33,1816.33,963.41
+Honduras,2009,HND,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2713948.0,1436.0,3198.0,876.18
+India,2009,IND,,2611531239.2572403,extrapolated_correlation,cropland_ha_1000,LM,246413148.0,169724.0,180068.0,1660.93
+Indonesia,2009,IDN,,572639674.3468511,extrapolated_correlation,cropland_ha_1000,LM,67400485.0,38941.0,49941.0,1493.8
+Iraq,2009,IRQ,,25575117.758682467,extrapolated_correlation,cropland_ha_1000,LM,3271854.0,3850.0,7850.0,490.52
+Jordan,2009,JOR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1442680.0,283.0,1025.0,1553.61
+Kenya,2009,KEN,,60726449.8795792,extrapolated_correlation,cropland_ha_1000,L,12457259.0,6104.7529,27404.7529,455.51
+Kiribati,2009,KIR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,34.0,34.0,1074.6
+"Korea, Dem. Rep.",2009,,,,missing,,L,,,,
+Kosovo,2009,,,,missing,,LM,,,,
+Kyrgyzstan,2009,KGZ,,0.0,extrapolated_correlation,cropland_ha_1000,L,2323511.0,1351.0,10617.3,264.99
+Lao PDR,2009,,,,missing,,L,,,,
+Lesotho,2009,LSO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,339.0,2339.0,72.85
+Liberia,2009,LBR,,0.0,extrapolated_correlation,cropland_ha_1000,L,,650.0,1637.1311,314.16
+Madagascar,2009,MDG,,21677647.206488393,extrapolated_correlation,cropland_ha_1000,L,6451814.0,3600.0,40895.0,109.05
+Malawi,2009,MWI,,22223293.083795562,extrapolated_correlation,cropland_ha_1000,L,7821531.0,3635.0,5485.0,900.12
+Maldives,2009,MDV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,947.0,6.0,7.0,1644.09
+Mali,2009,MLI,,65580431.418739855,extrapolated_correlation,cropland_ha_1000,L,5543128.0,6416.1075,41056.1075,116.87
+Marshall Islands,2009,MHL,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,8.5,8.5,549.92
+Mauritania,2009,MRT,,0.0,extrapolated_correlation,cropland_ha_1000,L,,460.0,39710.0,16.86
+"Micronesia, Fed. Sts.",2009,,,,missing,,LM,,,,
+Moldova,2009,,,,missing,,LM,,,,
+Mongolia,2009,MNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,820587.0,1218.0562,114270.0562,14.81
+Morocco,2009,MAR,,105903544.82762317,extrapolated_correlation,cropland_ha_1000,LM,13809133.0,9002.6,30002.6,430.46
+Mozambique,2009,MOZ,,55507691.59953293,extrapolated_correlation,cropland_ha_1000,L,4077819.0,5770.0,39444.274,82.27
+Myanmar,2009,MMR,,154737291.85839397,extrapolated_correlation,cropland_ha_1000,L,,12135.0,12441.0,2351.96
+Nepal,2009,NPL,,2143524.7988917083,extrapolated_correlation,cropland_ha_1000,L,5505097.0,2347.0,4140.0,1664.98
+Nicaragua,2009,NIC,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1703984.0,1929.0,5089.0,427.42
+Niger,2009,NER,,199402304.38653803,extrapolated_correlation,cropland_ha_1000,L,3715767.0,15000.0,43782.0,74.99
+Nigeria,2009,NGA,,641772968.026964,extrapolated_correlation,cropland_ha_1000,LM,32267249.0,43375.4975,66846.4975,633.48
+Pakistan,2009,PAK,,437568934.8900134,extrapolated_correlation,cropland_ha_1000,LM,33598932.0,30277.0,35277.0,1649.31
+Papua New Guinea,2009,PNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1077.0,1267.0,2648.99
+Paraguay,2009,PRY,,24364761.396675043,extrapolated_correlation,cropland_ha_1000,LM,3793925.0,3772.3627,15757.5027,333.26
+Philippines,2009,PHL,,130806822.66792239,extrapolated_correlation,cropland_ha_1000,LM,23787078.0,10600.0,12100.0,2368.2
+Rwanda,2009,RWA,,0.0,extrapolated_correlation,cropland_ha_1000,L,3302319.0,1466.0,1906.0,1590.75
+Samoa,2009,WSM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,29.9,34.9,2089.57
+São Tomé and Príncipe,2009,STP,,,missing,,LM,,,,
+Senegal,2009,SEN,,22893658.018772945,extrapolated_correlation,cropland_ha_1000,LM,1315923.0,3678.0,9278.0,257.37
+Sierra Leone,2009,SLE,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1600.97,3800.97,358.93
+Solomon Islands,2009,SLB,,0.0,extrapolated_correlation,cropland_ha_1000,L,,94.0,102.0,1629.25
+Somalia,2009,SOM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1126.0,44126.0,51.82
+Sri Lanka,2009,LKA,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3643133.0,2170.0,2610.0,2277.9
+Sudan,2009,SDN,,,missing,,LM,,,,
+Syrian Arab Republic,2009,SYR,,53855164.08540265,extrapolated_correlation,cropland_ha_1000,LM,,5664.0,13908.0,682.75
+Tajikistan,2009,TJK,,0.0,extrapolated_correlation,cropland_ha_1000,L,1900891.0,884.4,4759.4,458.43
+United Republic of Tanzania,2009,TZA,59005944.44072063,59005944.44072063,observed,,L,3261474.0,13186.7,37186.7,277.56
+Thailand,2009,THA,,307455777.9755665,extrapolated_correlation,cropland_ha_1000,LM,30456756.0,21931.0,22731.0,1800.83
+Timor-Leste,2009,TLS,,0.0,extrapolated_correlation,cropland_ha_1000,LM,280569.0,188.4,338.4,612.35
+Togo,2009,TGO,,6945208.519194804,extrapolated_correlation,cropland_ha_1000,L,1632403.0,2655.0,3655.0,322.85
+Tonga,2009,TON,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,28.0,32.0,1479.94
+Tunisia,2009,TUN,,42505729.837413505,extrapolated_correlation,cropland_ha_1000,LM,4138381.0,4936.0,9789.0,538.16
+Turkmenistan,2009,TKM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3326566.0,1837.5345,34205.0,127.05
+Tuvalu,2009,TUV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1.8,1.8,686.22
+Uganda,2009,UGA,,102745034.69212507,extrapolated_correlation,cropland_ha_1000,L,,8800.0,14115.0,558.3
+Ukraine,2009,UKR,,485881979.8550111,extrapolated_correlation,cropland_ha_1000,LM,21313135.0,33376.0,41276.0,874.81
+Uzbekistan,2009,UZB,,36768653.18458384,extrapolated_correlation,cropland_ha_1000,LM,,4568.0,25779.0,607.55
+Vanuatu,2009,VUT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,91227.0,145.0,187.0,482.76
+Viet Nam,2009,VNM,,115996434.56958492,extrapolated_correlation,cropland_ha_1000,LM,27799525.0,9650.0,10292.0,3636.99
+West Bank and Gaza,2009,,,,missing,,LM,,,,
+"Yemen, Rep.",2009,,,,missing,,LM,,,,
+Zambia,2009,ZMB,,21459388.855565526,extrapolated_correlation,cropland_ha_1000,L,1047301.0,3586.0,23586.0,103.43
+Afghanistan,2010,AFG,,88979168.70177561,extrapolated_correlation,cropland_ha_1000,L,,7917.0,37917.0,145.58
+Angola,2010,AGO,,34695198.85081659,extrapolated_correlation,cropland_ha_1000,LM,7393974.0,4435.0,44850.0,120.81
+Armenia,2010,ARM,278009.2504589803,278009.2504589803,observed,,LM,1478479.0,503.6,1735.0,796.6
+Bangladesh,2010,BGD,610506329.0825423,610506329.0825423,observed,,L,15529878.0,8641.0,9241.0,3405.29
+Belize,2010,BLZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,203535.0,107.0,157.0,1535.45
+Benin,2010,BEN,,11343800.245107777,extrapolated_correlation,cropland_ha_1000,L,3267343.0,2937.144,3487.144,785.94
+Bhutan,2010,BTN,,0.0,extrapolated_correlation,cropland_ha_1000,LM,292429.0,113.0,520.0,296.4
+Bolivia (Plurinational State of),2010,BOL,,38341499.25175685,extrapolated_correlation,cropland_ha_1000,LM,3419672.0,4668.8889,37668.8889,132.3
+Burkina Faso,2010,BFA,,68313577.85412435,extrapolated_correlation,cropland_ha_1000,L,3230110.0,6591.4229,12591.4229,385.54
+Burundi,2010,BDI,,0.0,extrapolated_correlation,cropland_ha_1000,L,1802662.0,1350.0,1833.0,998.4
+Cabo Verde,2010,CPV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,231031.0,53.0,78.0,710.93
+Cambodia,2010,KHM,,26064811.54874234,extrapolated_correlation,cropland_ha_1000,L,5524847.0,3881.411,5381.411,975.71
+Cameroon,2010,CMR,,85596164.26247117,extrapolated_correlation,cropland_ha_1000,LM,8550651.0,7700.0,9700.0,795.03
+Central African Republic,2010,CAF,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1916.879,4906.879,364.13
+Chad,2010,TCD,,31577222.409061335,extrapolated_correlation,cropland_ha_1000,L,5647588.0,4235.0,49235.0,92.51
+Comoros,2010,COM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,118.0,133.0,807.69
+"Congo, Dem. Rep.",2010,,,,missing,,L,,,,
+"Congo, Rep.",2010,,,,missing,,LM,,,,
+Côte d'Ivoire,2010,CIV,,85658321.12283756,extrapolated_correlation,cropland_ha_1000,LM,8625297.0,7703.987,20903.987,373.88
+Djibouti,2010,DJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,2.3,1702.3,42.89
+"Egypt, Arab Rep.",2010,,,,missing,,LM,,,,
+El Salvador,2010,SLV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1782301.0,871.4,1229.9,1304.3
+Eritrea,2010,ERI,,0.0,extrapolated_correlation,cropland_ha_1000,L,814972.0,692.0,7592.0,47.89
+Eswatini,2010,SWZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,193.0,1221.0433,353.66
+Ethiopia,2010,ETH,,210050193.93513227,extrapolated_correlation,cropland_ha_1000,L,10813484.0,15683.0,35683.0,401.91
+Fiji,2010,FJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,202821.0,146.1,319.1,616.07
+"Gambia, The",2010,,,,missing,,L,,,,
+Georgia,2010,GEO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,845451.0,520.0,2460.0,415.31
+Ghana,2010,GHA,,66839163.1852411,extrapolated_correlation,cropland_ha_1000,LM,12320733.0,6496.8478,12400.438,777.94
+Guatemala,2010,GTM,,4064198.287012942,extrapolated_correlation,cropland_ha_1000,LM,,2470.2,4317.2,1503.72
+Guinea,2010,GIN,,33524827.418698236,extrapolated_correlation,cropland_ha_1000,L,1779913.0,4359.9275,15059.9275,208.23
+Guinea-Bissau,2010,GNB,,0.0,extrapolated_correlation,cropland_ha_1000,L,898212.0,550.0,747.57,545.55
+Guyana,2010,GUY,,0.0,extrapolated_correlation,cropland_ha_1000,LM,135033.0,448.0,1042.0,473.08
+Haiti,2010,HTI,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1494.0,1984.0,933.37
+Honduras,2010,HND,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2846781.0,1498.0,3268.0,846.39
+India,2010,IND,,2603892196.97494,extrapolated_correlation,cropland_ha_1000,LM,333632986.0,169234.0,179573.0,1838.87
+Indonesia,2010,IDN,,572639674.3468511,extrapolated_correlation,cropland_ha_1000,LM,96273499.0,38941.0,49941.0,1593.72
+Iraq,2010,IRQ,,31343374.175929688,extrapolated_correlation,cropland_ha_1000,LM,4047897.0,4220.0,8220.0,538.15
+Kenya,2010,KEN,,61687413.336904615,extrapolated_correlation,cropland_ha_1000,L,13416341.0,6166.3931,27466.3931,496.61
+Kiribati,2010,KIR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,34.0,34.0,1081.85
+"Korea, Dem. Rep.",2010,,,,missing,,L,,,,
+Kosovo,2010,,,,missing,,LM,,,,
+Kyrgyzstan,2010,KGZ,,0.0,extrapolated_correlation,cropland_ha_1000,L,2066181.0,1350.4,10611.9,260.72
+Lao PDR,2010,,,,missing,,LM,,,,
+Lesotho,2010,LSO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,326.0,2326.0,84.08
+Liberia,2010,LBR,,0.0,extrapolated_correlation,cropland_ha_1000,L,,660.0,1667.0346,316.4
+Madagascar,2010,MDG,,21677647.206488393,extrapolated_correlation,cropland_ha_1000,L,5136320.0,3600.0,40895.0,111.25
+Malawi,2010,MWI,46834714.03,46834714.03,observed,,L,7205255.0,3635.0,5485.0,894.5
+Mali,2010,MLI,,65881894.52999918,extrapolated_correlation,cropland_ha_1000,L,5412187.0,6435.4446,41075.4446,112.34
+Marshall Islands,2010,MHL,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,8.5,8.5,522.27
+Mauritania,2010,MRT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,460.0,39710.0,18.63
+"Micronesia, Fed. Sts.",2010,,,,missing,,LM,,,,
+Moldova,2010,,,,missing,,LM,,,,
+Mongolia,2010,MNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,837955.0,1239.03,114210.03,11.59
+Morocco,2010,MAR,,105680609.51203765,extrapolated_correlation,cropland_ha_1000,LM,13749342.0,8988.3,29988.3,442.09
+Mozambique,2010,MOZ,,58313870.39711267,extrapolated_correlation,cropland_ha_1000,L,3184001.0,5950.0,39665.86,88.82
+Myanmar,2010,MMR,,156015662.19951367,extrapolated_correlation,cropland_ha_1000,L,,12217.0,12526.0,2403.31
+Nepal,2010,NPL,,1909676.5657600611,extrapolated_correlation,cropland_ha_1000,L,7351074.0,2332.0,4126.0,1775.7
+Nicaragua,2010,NIC,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1702476.0,1850.0,5050.0,433.36
+Niger,2010,NER,,202520280.82829332,extrapolated_correlation,cropland_ha_1000,L,4775727.0,15200.0,43982.0,98.35
+Nigeria,2010,NGA,,627482675.5479817,extrapolated_correlation,cropland_ha_1000,LM,57535463.0,42458.8586,67012.8586,712.8
+Pakistan,2010,PAK,,437023289.0127062,extrapolated_correlation,cropland_ha_1000,LM,40419409.0,30242.0,35242.0,1673.91
+Papua New Guinea,2010,PNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1077.0,1267.0,2605.02
+Paraguay,2010,PRY,,25486144.741928756,extrapolated_correlation,cropland_ha_1000,LM,5913623.0,3844.2929,15829.4329,458.48
+Philippines,2010,PHL,,130806822.66792239,extrapolated_correlation,cropland_ha_1000,LM,26929679.0,10600.0,12100.0,2343.11
+Rwanda,2010,RWA,,0.0,extrapolated_correlation,cropland_ha_1000,L,3126701.0,1492.0,1922.0,1543.79
+Samoa,2010,WSM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,35.5,41.5,1786.54
+São Tomé and Príncipe,2010,STP,,,missing,,LM,,,,
+Senegal,2010,SEN,,22893658.018772945,extrapolated_correlation,cropland_ha_1000,LM,1286289.0,3678.0,9278.0,282.06
+Sierra Leone,2010,SLE,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1730.38,3930.38,391.82
+Solomon Islands,2010,SLB,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,100.0,108.0,1148.45
+Somalia,2010,SOM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1126.0,44126.0,56.87
+Sri Lanka,2010,LKA,,0.0,extrapolated_correlation,cropland_ha_1000,LM,4506810.0,2180.0,2620.0,2818.04
+Sudan,2010,SDN,,,missing,,LM,,,,
+Syrian Arab Republic,2010,SYR,,54354040.31608349,extrapolated_correlation,cropland_ha_1000,LM,,5696.0,13908.0,632.85
+Tajikistan,2010,TJK,,0.0,extrapolated_correlation,cropland_ha_1000,L,2285194.0,880.7,3808.2,601.72
+United Republic of Tanzania,2010,TZA,,174442902.9702872,extrapolated_correlation,cropland_ha_1000,L,4149160.0,13399.0,37399.0,320.22
+Timor-Leste,2010,TLS,,0.0,extrapolated_correlation,cropland_ha_1000,LM,343134.0,188.0,338.0,611.55
+Togo,2010,TGO,,7101107.341282569,extrapolated_correlation,cropland_ha_1000,L,1504877.0,2665.0,3665.0,320.12
+Tonga,2010,TON,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,28.0,32.0,1468.15
+Turkmenistan,2010,TKM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3630246.0,1830.2813,34000.0,135.93
+Tuvalu,2010,TUV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1.8,1.8,676.59
+Uganda,2010,UGA,,105083517.02344151,extrapolated_correlation,cropland_ha_1000,L,,8950.0,14265.0,569.17
+Ukraine,2010,UKR,,485850800.0905935,extrapolated_correlation,cropland_ha_1000,LM,28283672.0,33374.0,41267.0,847.62
+Uzbekistan,2010,UZB,,36191827.54285911,extrapolated_correlation,cropland_ha_1000,LM,,4531.0,25598.0,647.08
+Vanuatu,2010,VUT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,144655.0,145.0,187.0,620.19
+Viet Nam,2010,VNM,1355623570.6864555,1355623570.6864555,observed,,LM,29108357.0,10118.1,10760.1,3574.05
+West Bank and Gaza,2010,,,,missing,,LM,,,,
+"Yemen, Rep.",2010,,,,missing,,LM,,,,
+Zambia,2010,ZMB,,19120906.524249084,extrapolated_correlation,cropland_ha_1000,LM,2661452.0,3436.0,23436.0,121.16
+Afghanistan,2011,AFG,,88947988.93735807,extrapolated_correlation,cropland_ha_1000,L,,7915.0,37915.0,139.03
+Albania,2011,ALB,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2220668.0,696.0,1201.0,1555.73
+Armenia,2011,ARM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1884143.0,502.6,1698.1,905.96
+Bangladesh,2011,BGD,,98504586.73133793,extrapolated_correlation,cropland_ha_1000,L,17595654.0,8528.0,9128.0,3624.49
+Belize,2011,BLZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,194444.0,107.0,157.0,1411.7
+Benin,2011,BEN,,13405110.060634382,extrapolated_correlation,cropland_ha_1000,L,4225754.0,3069.365,3619.365,828.45
+Bhutan,2011,BTN,,0.0,extrapolated_correlation,cropland_ha_1000,LM,385139.0,112.6,519.6,362.85
+Bolivia (Plurinational State of),2011,BOL,,40442669.278114855,extrapolated_correlation,cropland_ha_1000,LM,3670889.0,4803.6667,37803.6667,134.95
+Burkina Faso,2011,BFA,,71460091.57526277,extrapolated_correlation,cropland_ha_1000,L,3357933.0,6793.2534,12793.2534,359.01
+Burundi,2011,BDI,,0.0,extrapolated_correlation,cropland_ha_1000,L,1797982.0,1358.0,1841.0,933.04
+Cabo Verde,2011,CPV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,270874.0,54.0,79.0,735.09
+Cambodia,2011,KHM,,26872130.480947375,extrapolated_correlation,cropland_ha_1000,L,7186004.0,3933.1958,5433.1958,1106.39
+Cameroon,2011,CMR,,86375658.37290998,extrapolated_correlation,cropland_ha_1000,LM,9167506.0,7750.0,9750.0,803.19
+Central African Republic,2011,CAF,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1885.757,4875.757,377.27
+Chad,2011,TCD,,33136210.62993896,extrapolated_correlation,cropland_ha_1000,L,5180761.0,4335.0,49335.0,77.78
+Comoros,2011,COM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,118.0,133.0,819.16
+"Congo, Dem. Rep.",2011,,,,missing,,L,,,,
+"Congo, Rep.",2011,,,,missing,,LM,,,,
+Côte d'Ivoire,2011,CIV,,87960479.02860755,extrapolated_correlation,cropland_ha_1000,LM,9313902.0,7851.657,21051.657,383.4
+Djibouti,2011,DJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,2.8,1702.8,43.48
+"Egypt, Arab Rep.",2011,,,,missing,,LM,,,,
+El Salvador,2011,SLV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2062174.0,872.7,1226.0,1249.97
+Eritrea,2011,ERI,,0.0,extrapolated_correlation,cropland_ha_1000,L,1000289.0,692.0,7592.0,50.77
+Eswatini,2011,SWZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,193.0,1221.0,363.39
+Ethiopia,2011,ETH,,220062016.28960842,extrapolated_correlation,cropland_ha_1000,L,11742056.0,16325.2,36325.2,395.64
+Fiji,2011,FJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,270399.0,145.4,318.4,740.82
+"Gambia, The",2011,,,,missing,,L,,,,
+Georgia,2011,GEO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1184054.0,502.4,2442.4,455.87
+Ghana,2011,GHA,,68274448.80876854,extrapolated_correlation,cropland_ha_1000,LM,13394484.0,6588.913,12307.8457,815.76
+Guatemala,2011,GTM,,3902063.512041673,extrapolated_correlation,cropland_ha_1000,LM,,2459.8,4294.8,1569.49
+Guinea,2011,GIN,,34300583.075383395,extrapolated_correlation,cropland_ha_1000,L,1637966.0,4409.6877,15109.6877,218.53
+Guinea-Bissau,2011,GNB,,0.0,extrapolated_correlation,cropland_ha_1000,L,1073278.0,550.0,756.014,524.89
+Guyana,2011,GUY,,0.0,extrapolated_correlation,cropland_ha_1000,LM,130214.0,448.0,1042.0,503.25
+Haiti,2011,HTI,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1519.0,2009.0,971.85
+Honduras,2011,HND,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3012638.0,1528.0,3311.0,892.52
+India,2011,IND,,2605996831.0731244,extrapolated_correlation,cropland_ha_1000,LM,378194259.0,169369.0,179670.0,1959.8
+Indonesia,2011,IDN,,588229556.5556273,extrapolated_correlation,cropland_ha_1000,LM,137782712.0,39941.0,50941.0,1603.87
+Iraq,2011,IRQ,,36488035.30482586,extrapolated_correlation,cropland_ha_1000,LM,5527377.0,4550.0,8550.0,559.32
+Kenya,2011,KEN,,69936833.80541945,extrapolated_correlation,cropland_ha_1000,L,13644137.0,6695.5453,27995.5452,465.04
+Kiribati,2011,KIR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,34.0,34.0,1084.2
+"Korea, Dem. Rep.",2011,,,,missing,,L,,,,
+Kosovo,2011,,,,missing,,LM,,,,
+Kyrgyzstan,2011,KGZ,,0.0,extrapolated_correlation,cropland_ha_1000,L,3007575.0,1350.6,10608.5,266.0
+Lao PDR,2011,,,,missing,,LM,,,,
+Lesotho,2011,LSO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,312.0,2312.0,86.04
+Liberia,2011,LBR,,0.0,extrapolated_correlation,cropland_ha_1000,L,,705.0,1696.6591,319.64
+Madagascar,2011,MDG,,21677647.206488393,extrapolated_correlation,cropland_ha_1000,L,5733366.0,3600.0,40895.0,110.64
+Malawi,2011,MWI,,22223293.083795562,extrapolated_correlation,cropland_ha_1000,L,7768723.0,3635.0,5485.0,941.39
+Mali,2011,MLI,,68650995.9107218,extrapolated_correlation,cropland_ha_1000,L,6988324.0,6613.0663,41253.0663,126.59
+Marshall Islands,2011,MHL,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,8.5,8.5,453.14
+Mauritania,2011,MRT,,0.0,extrapolated_correlation,cropland_ha_1000,L,,460.0,39710.0,18.68
+"Micronesia, Fed. Sts.",2011,,,,missing,,LM,,,,
+Moldova,2011,,,,missing,,LM,,,,
+Mongolia,2011,MNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1123172.0,1294.8,114187.8,12.8
+Morocco,2011,MAR,,107481240.9071513,extrapolated_correlation,cropland_ha_1000,LM,15295009.0,9103.8,30103.8,456.68
+Mozambique,2011,MOZ,,58313870.39711267,extrapolated_correlation,cropland_ha_1000,L,4672178.0,5950.0,39872.288,94.75
+Myanmar,2011,MMR,,156530128.31240326,extrapolated_correlation,cropland_ha_1000,L,,12250.0,12558.0,2304.87
+Nepal,2011,NPL,148523635.86325845,148523635.86325845,observed,,L,8469182.0,2331.3,4126.6,1927.57
+Nicaragua,2011,NIC,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2098161.0,1799.0,5070.9,470.31
+Niger,2011,NER,9481689.225,9481689.225,observed,,L,4536068.0,15700.0,44482.0,85.5
+Nigeria,2011,NGA,,626576353.0688099,extrapolated_correlation,cropland_ha_1000,LM,55820324.0,42400.7233,67072.7233,660.32
+Pakistan,2011,PAK,,447842667.2655969,extrapolated_correlation,cropland_ha_1000,LM,44450973.0,30936.0,35936.0,1735.48
+Papua New Guinea,2011,PNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1096.0,1286.0,2710.13
+Paraguay,2011,PRY,,26525291.458531186,extrapolated_correlation,cropland_ha_1000,LM,7886166.0,3910.9481,15896.0881,480.13
+Philippines,2011,PHL,,133301203.8213266,extrapolated_correlation,cropland_ha_1000,LM,31479456.0,10760.0,12260.0,2405.8
+Rwanda,2011,RWA,,0.0,extrapolated_correlation,cropland_ha_1000,L,3636612.0,1518.0,1943.0,1629.1
+Samoa,2011,WSM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,41.0,48.0,1589.82
+São Tomé and Príncipe,2011,STP,,,missing,,LM,,,,
+Senegal,2011,SEN,10408499.6193,10408499.6193,observed,,LM,892666.0,3365.0,8965.0,206.79
+Sierra Leone,2011,SLE,11210797.86217031,11210797.86217031,observed,,L,2177072.0,1817.63,4017.63,409.31
+Solomon Islands,2011,SLB,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,103.0,111.0,1137.15
+Somalia,2011,SOM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1026.0,44026.0,56.26
+South Sudan,2011,SSD,,,missing,,LM,,,,
+Sri Lanka,2011,LKA,,1254901.5129914582,extrapolated_correlation,cropland_ha_1000,LM,4874137.0,2290.0,2730.0,2644.46
+Sudan,2011,SDN,,,missing,,LM,,,,
+Syrian Arab Republic,2011,SYR,,54665837.96025902,extrapolated_correlation,cropland_ha_1000,LM,,5716.0,13915.0,723.09
+Tajikistan,2011,TJK,,0.0,extrapolated_correlation,cropland_ha_1000,L,2712200.0,877.8,3752.0,653.67
+United Republic of Tanzania,2011,TZA,77628193.604823,77628193.604823,observed,,L,3938027.0,13611.3,37611.3,348.97
+Timor-Leste,2011,TLS,,0.0,extrapolated_correlation,cropland_ha_1000,LM,307417.0,188.6,338.6,522.26
+Togo,2011,TGO,,7101107.341282569,extrapolated_correlation,cropland_ha_1000,L,1843261.0,2665.0,3665.0,353.29
+Tonga,2011,TON,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,28.0,32.0,1462.56
+Uganda,2011,UGA,,106642505.24431916,extrapolated_correlation,cropland_ha_1000,L,,9050.0,14365.0,571.8
+Ukraine,2011,UKR,,486178187.6169778,extrapolated_correlation,cropland_ha_1000,LM,37595833.0,33395.0,41281.0,1025.63
+Uzbekistan,2011,UZB,,35615001.90113439,extrapolated_correlation,cropland_ha_1000,LM,,4494.0,25417.0,693.93
+Vanuatu,2011,VUT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,176342.0,145.0,187.0,589.79
+Viet Nam,2011,VNM,,123426572.4302877,extrapolated_correlation,cropland_ha_1000,LM,36815931.0,10126.6,10768.6,3739.64
+West Bank and Gaza,2011,,,,missing,,LM,,,,
+"Yemen, Rep.",2011,,,,missing,,LM,,,,
+Zambia,2011,ZMB,,22238882.96600434,extrapolated_correlation,cropland_ha_1000,LM,2902860.0,3636.0,23636.0,127.41
+Afghanistan,2012,AFG,,88932399.05514929,extrapolated_correlation,cropland_ha_1000,L,,7914.0,37914.0,154.33
+Armenia,2012,ARM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1720427.0,505.1,1683.0,992.06
+Bangladesh,2012,BGD,,98379867.67366771,extrapolated_correlation,cropland_ha_1000,L,18341307.0,8520.0,9120.0,3681.49
+Benin,2012,BEN,,15678598.173022442,extrapolated_correlation,cropland_ha_1000,L,2947508.0,3215.196,3765.196,848.85
+Bhutan,2012,BTN,,0.0,extrapolated_correlation,cropland_ha_1000,LM,389822.0,112.6,519.6,325.51
+Bolivia (Plurinational State of),2012,BOL,,42621787.15652853,extrapolated_correlation,cropland_ha_1000,LM,4375338.0,4943.4444,37943.4444,149.18
+Burkina Faso,2012,BFA,,73889470.71479748,extrapolated_correlation,cropland_ha_1000,L,3523322.0,6949.0839,12949.0839,395.01
+Burundi,2012,BDI,,0.0,extrapolated_correlation,cropland_ha_1000,L,1610421.0,1377.0,1860.0,815.37
+Cabo Verde,2012,CPV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,287163.0,54.0,79.0,761.55
+Cambodia,2012,KHM,,27894224.98438984,extrapolated_correlation,cropland_ha_1000,L,8212490.0,3998.7572,5498.7572,1130.38
+Cameroon,2012,CMR,,86375658.37290998,extrapolated_correlation,cropland_ha_1000,LM,9209784.0,7750.0,9750.0,852.08
+Central African Republic,2012,CAF,,0.0,extrapolated_correlation,cropland_ha_1000,L,1106347.0,1890.354,4880.354,385.29
+Chad,2012,TCD,,38592669.40301067,extrapolated_correlation,cropland_ha_1000,L,6392083.0,4685.0,49685.0,101.87
+Comoros,2012,COM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,118.0,133.0,821.44
+"Congo, Dem. Rep.",2012,,,,missing,,L,,,,
+"Congo, Rep.",2012,,,,missing,,LM,,,,
+Côte d'Ivoire,2012,CIV,,101661647.00779058,extrapolated_correlation,cropland_ha_1000,LM,9084902.0,8730.507,21930.507,400.78
+Djibouti,2012,DJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,2.8,1702.8,44.82
+"Egypt, Arab Rep.",2012,,,,missing,,LM,,,,
+El Salvador,2012,SLV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1850058.0,874.0,1222.2,1385.91
+Eritrea,2012,ERI,,0.0,extrapolated_correlation,cropland_ha_1000,L,1111859.0,692.0,7592.0,51.29
+Eswatini,2012,SWZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,193.0,1220.0,372.94
+Ethiopia,2012,ETH,,222600049.11319715,extrapolated_correlation,cropland_ha_1000,L,15581488.0,16488.0,36488.0,406.19
+"Gambia, The",2012,,,,missing,,L,,,,
+Georgia,2012,GEO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1082083.0,495.0,2435.0,433.64
+Ghana,2012,GHA,,69709735.99128419,extrapolated_correlation,cropland_ha_1000,LM,14385845.0,6680.9783,12350.3384,858.21
+Guatemala,2012,GTM,,3584029.9149826393,extrapolated_correlation,cropland_ha_1000,LM,,2439.4,4262.4,1683.05
+Guinea,2012,GIN,,41349153.892061695,extrapolated_correlation,cropland_ha_1000,L,1725375.0,4861.8124,15561.8124,217.67
+Guinea-Bissau,2012,GNB,,0.0,extrapolated_correlation,cropland_ha_1000,L,1030153.0,550.0,764.458,550.69
+Guyana,2012,GUY,,0.0,extrapolated_correlation,cropland_ha_1000,LM,140896.0,448.0,1042.0,501.24
+Haiti,2012,HTI,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1534.0,2024.0,974.26
+Honduras,2012,HND,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3229831.0,1558.0,3358.0,938.98
+India,2012,IND,1477063109.8001657,1477063109.8001657,observed,,LM,366423207.0,169346.0,179642.0,2001.23
+Indonesia,2012,IDN,,588229556.5556273,extrapolated_correlation,cropland_ha_1000,LM,142249372.0,39941.0,50941.0,1690.51
+Kenya,2012,KEN,,75007536.53311719,extrapolated_correlation,cropland_ha_1000,L,15819723.0,7020.8013,28320.8013,473.03
+Kiribati,2012,KIR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,34.0,34.0,1100.71
+"Korea, Dem. Rep.",2012,,,,missing,,L,,,,
+Kosovo,2012,,,,missing,,LM,,,,
+Kyrgyzstan,2012,KGZ,,0.0,extrapolated_correlation,cropland_ha_1000,L,3032860.0,1351.4,10591.3,263.56
+Lao PDR,2012,,,,missing,,LM,,,,
+Lesotho,2012,LSO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,285.3,2285.3,86.09
+Liberia,2012,LBR,,0.0,extrapolated_correlation,cropland_ha_1000,L,,710.0,1726.6362,332.13
+Madagascar,2012,MDG,,21677647.206488393,extrapolated_correlation,cropland_ha_1000,L,5405089.0,3600.0,40895.0,115.07
+Malawi,2012,MWI,,22223293.083795562,extrapolated_correlation,cropland_ha_1000,L,7122133.0,3635.0,5485.0,984.13
+Mali,2012,MLI,,71636232.30041042,extrapolated_correlation,cropland_ha_1000,L,6812160.0,6804.5518,41444.5518,125.3
+Mauritania,2012,MRT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,460.0,39710.0,20.11
+"Micronesia, Fed. Sts.",2012,,,,missing,,LM,,,,
+Moldova,2012,,,,missing,,LM,,,,
+Mongolia,2012,MNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1131198.0,1323.1033,114067.9033,13.71
+Morocco,2012,MAR,,112145733.66401719,extrapolated_correlation,cropland_ha_1000,LM,14189531.0,9403.0,30403.0,434.57
+Mozambique,2012,MOZ,,58313870.39711267,extrapolated_correlation,cropland_ha_1000,L,5298871.0,5950.0,40078.716,95.62
+Myanmar,2012,MMR,,156405409.25473303,extrapolated_correlation,cropland_ha_1000,L,,12242.0,12549.0,2287.29
+Nepal,2012,NPL,,1296141.4283983335,extrapolated_correlation,cropland_ha_1000,L,7900683.0,2292.6453,4087.6453,2007.8
+Nicaragua,2012,NIC,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2214244.0,1799.0,5073.0,488.85
+Niger,2012,NER,,214992186.59531432,extrapolated_correlation,cropland_ha_1000,L,5461557.0,16000.0,44782.0,95.85
+Nigeria,2012,NGA,,628684329.6377403,extrapolated_correlation,cropland_ha_1000,LM,62212134.0,42535.9377,67325.9377,719.16
+Pakistan,2012,PAK,,449822582.3061115,extrapolated_correlation,cropland_ha_1000,LM,47057201.0,31063.0,36063.0,1726.95
+Papua New Guinea,2012,PNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1096.0,1286.0,2679.17
+Paraguay,2012,PRY,,27631039.71091772,extrapolated_correlation,cropland_ha_1000,LM,6048493.0,3981.8754,15967.0154,354.46
+Philippines,2012,PHL,,135951483.79681855,extrapolated_correlation,cropland_ha_1000,LM,32582372.0,10930.0,12430.0,2455.87
+Rwanda,2012,RWA,,0.0,extrapolated_correlation,cropland_ha_1000,L,4484956.0,1544.0,1959.0,1757.52
+Samoa,2012,WSM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,146716.0,46.5,54.5,1403.24
+São Tomé and Príncipe,2012,STP,,,missing,,LM,,,,
+Senegal,2012,SEN,,18014024.887425967,extrapolated_correlation,cropland_ha_1000,LM,1084119.0,3365.0,8965.0,248.21
+Sierra Leone,2012,SLE,,0.0,extrapolated_correlation,cropland_ha_1000,L,2489418.0,1636.65,3836.65,442.21
+Solomon Islands,2012,SLB,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,105.0,113.0,1136.72
+Somalia,2012,SOM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1026.0,44026.0,58.32
+South Sudan,2012,SSD,,8032018.182674125,extrapolated_correlation,cropland_ha_1000,L,,2724.7125,28497.9125,108.49
+Sri Lanka,2012,LKA,,1410800.335079223,extrapolated_correlation,cropland_ha_1000,LM,4514032.0,2300.0,2740.0,2716.58
+Sudan,2012,SDN,,277541288.3980782,extrapolated_correlation,cropland_ha_1000,LM,6581084.0,20012.16,111465.96,99.06
+Syrian Arab Republic,2012,SYR,,54899686.19339065,extrapolated_correlation,cropland_ha_1000,LM,,5731.0,13921.0,650.7
+Tajikistan,2012,TJK,,0.0,extrapolated_correlation,cropland_ha_1000,L,2908095.0,874.0,3669.0,722.35
+United Republic of Tanzania,2012,TZA,,181062366.9561336,extrapolated_correlation,cropland_ha_1000,L,6901476.0,13823.6,37497.594,367.64
+Timor-Leste,2012,TLS,,0.0,extrapolated_correlation,cropland_ha_1000,LM,368798.0,189.1,339.1,534.96
+Togo,2012,TGO,,9985235.54990618,extrapolated_correlation,cropland_ha_1000,L,1728924.0,2850.0,3850.0,326.25
+Uganda,2012,UGA,,107421999.35475795,extrapolated_correlation,cropland_ha_1000,L,,9100.0,14415.0,572.26
+Ukraine,2012,UKR,,486443215.61452705,extrapolated_correlation,cropland_ha_1000,LM,34251903.0,33412.0,41297.0,960.94
+Uzbekistan,2012,UZB,,35038176.259409666,extrapolated_correlation,cropland_ha_1000,LM,,4457.0,25236.0,745.48
+Vanuatu,2012,VUT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,182614.0,145.0,187.0,600.38
+Viet Nam,2012,VNM,,123811642.52084447,extrapolated_correlation,cropland_ha_1000,LM,36804036.0,10151.3,10793.3,3998.88
+West Bank and Gaza,2012,,,,missing,,LM,,,,
+"Yemen, Rep.",2012,,,,missing,,LM,,,,
+Zambia,2012,ZMB,,25356859.4077596,extrapolated_correlation,cropland_ha_1000,LM,2916688.0,3836.0,23836.0,129.89
+Afghanistan,2013,AFG,,88870039.52631418,extrapolated_correlation,cropland_ha_1000,L,,7910.0,37910.0,150.41
+Armenia,2013,ARM,397862.0613621866,397862.0613621866,observed,,LM,1857499.0,505.9,1683.0,1040.27
+Bangladesh,2013,BGD,,98192789.0871624,extrapolated_correlation,cropland_ha_1000,L,21943233.0,8508.0,9108.0,3845.67
+Benin,2013,BEN,,19035848.126917996,extrapolated_correlation,cropland_ha_1000,L,3625339.0,3430.544,3980.544,878.84
+Bhutan,2013,BTN,,0.0,extrapolated_correlation,cropland_ha_1000,LM,329108.0,112.6,519.6,315.1
+Bolivia (Plurinational State of),2013,BOL,,44816496.47613919,extrapolated_correlation,cropland_ha_1000,LM,4703748.0,5084.2222,38084.2222,155.1
+Burkina Faso,2013,BFA,,77254242.78685877,extrapolated_correlation,cropland_ha_1000,L,3899861.0,7164.9144,13164.9143,442.58
+Burundi,2013,BDI,,0.0,extrapolated_correlation,cropland_ha_1000,L,2188968.0,1404.0,1887.0,1107.37
+Cabo Verde,2013,CPV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,292447.0,54.0,79.0,794.29
+Cambodia,2013,KHM,,28724043.234598584,extrapolated_correlation,cropland_ha_1000,L,9707897.0,4051.9852,5551.9852,1139.26
+Cameroon,2013,CMR,,86375658.37290998,extrapolated_correlation,cropland_ha_1000,LM,10305643.0,7750.0,9750.0,883.15
+Central African Republic,2013,CAF,,0.0,extrapolated_correlation,cropland_ha_1000,L,875695.0,1896.356,4886.356,336.68
+Chad,2013,TCD,,44064718.05829114,extrapolated_correlation,cropland_ha_1000,L,5969883.0,5036.0,50036.0,96.05
+Comoros,2013,COM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,118.0,133.0,831.88
+"Congo, Dem. Rep.",2013,,,,missing,,L,,,,
+"Congo, Rep.",2013,,,,missing,,LM,,,,
+Côte d'Ivoire,2013,CIV,,111195187.36598368,extrapolated_correlation,cropland_ha_1000,LM,9360093.0,9342.028,22542.028,403.23
+Djibouti,2013,DJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,2.8,1702.8,44.18
+"Egypt, Arab Rep.",2013,,,,missing,,LM,,,,
+El Salvador,2013,SLV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1631714.0,875.3,1218.4,1271.94
+Eritrea,2013,ERI,,0.0,extrapolated_correlation,cropland_ha_1000,L,1204649.0,692.0,7592.0,50.53
+Eswatini,2013,SWZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,193.0,1218.7465,380.08
+Ethiopia,2013,ETH,,227179514.65249634,extrapolated_correlation,cropland_ha_1000,L,15954876.0,16781.746,36781.746,429.09
+"Gambia, The",2013,,,,missing,,L,,,,
+Georgia,2013,GEO,943079.61312,943079.61312,observed,,LM,1326819.0,545.7,2486.1,521.8
+Ghana,2013,GHA,65693173.9548524,65693173.9548524,observed,,LM,16661508.0,6773.0435,12463.0761,875.38
+Guatemala,2013,GTM,,3156867.142462164,extrapolated_correlation,cropland_ha_1000,LM,,2412.0,4223.0,1777.92
+Guinea,2013,GIN,,42722245.23950544,extrapolated_correlation,cropland_ha_1000,L,1864298.0,4949.8882,15649.8882,225.0
+Guinea-Bissau,2013,GNB,,0.0,extrapolated_correlation,cropland_ha_1000,L,1016028.0,550.0,772.902,556.86
+Guyana,2013,GUY,,0.0,extrapolated_correlation,cropland_ha_1000,LM,161972.0,448.0,1042.0,571.97
+Haiti,2013,HTI,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1578.0,2068.0,998.96
+Honduras,2013,HND,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3020814.0,1558.0,3370.0,887.32
+India,2013,IND,,2607134892.474365,extrapolated_correlation,cropland_ha_1000,LM,334211791.0,169442.0,179698.0,2091.68
+Indonesia,2013,IDN,,596024497.6600156,extrapolated_correlation,cropland_ha_1000,LM,129245700.0,40441.0,51441.0,1692.35
+Kenya,2013,KEN,,75874921.72248442,extrapolated_correlation,cropland_ha_1000,L,15359538.0,7076.439,28376.439,497.99
+Kiribati,2013,KIR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,34.0,34.0,1113.5
+"Korea, Dem. Rep.",2013,,,,missing,,L,,,,
+Kosovo,2013,,,,missing,,LM,,,,
+Kyrgyzstan,2013,KGZ,799197.8165002584,799197.8165002584,observed,,LM,3307874.0,1354.0,10556.7,275.56
+Lao PDR,2013,,,,missing,,LM,,,,
+Lesotho,2013,LSO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,252.1,2252.1,81.44
+Liberia,2013,LBR,,0.0,extrapolated_correlation,cropland_ha_1000,L,,710.0,1756.5513,314.38
+Madagascar,2013,MDG,,21677647.206488393,extrapolated_correlation,cropland_ha_1000,L,5385416.0,3600.0,40895.0,103.86
+Malawi,2013,MWI,54148163.31884794,54148163.31884794,observed,,L,7775325.0,3695.0,5545.0,1130.43
+Mali,2013,MLI,,74506893.96878208,extrapolated_correlation,cropland_ha_1000,L,6733626.0,6988.688,41628.688,129.26
+Mauritania,2013,MRT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,460.0,39710.0,20.47
+"Micronesia, Fed. Sts.",2013,,,,missing,,LM,,,,
+Moldova,2013,,,,missing,,LM,,,,
+Mongolia,2013,MNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1099785.0,1291.78,114030.28,15.12
+Morocco,2013,MAR,,114983092.22601445,extrapolated_correlation,cropland_ha_1000,LM,15517432.0,9585.0,30585.0,460.53
+Mozambique,2013,MOZ,,58313870.39711267,extrapolated_correlation,cropland_ha_1000,L,4473099.0,5950.0,40285.144,87.26
+Myanmar,2013,MMR,,157013414.66087532,extrapolated_correlation,cropland_ha_1000,L,,12281.0,12587.0,2385.94
+Nepal,2013,NPL,,805789.745309256,extrapolated_correlation,cropland_ha_1000,L,7913287.0,2261.1921,4056.1921,2072.0
+Nicaragua,2013,NIC,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2306242.0,1799.0,5073.0,504.94
+Niger,2013,NER,,229023080.58321297,extrapolated_correlation,cropland_ha_1000,L,5371661.0,16900.0,45682.0,93.41
+Nigeria,2013,NGA,627793947.5105138,627793947.5105138,observed,,LM,61381693.0,42253.5857,67161.5857,702.07
+Pakistan,2013,PAK,,453205586.745416,extrapolated_correlation,cropland_ha_1000,LM,52112040.0,31280.0,36280.0,1872.77
+Papua New Guinea,2013,PNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1096.0,1286.0,2748.4
+Paraguay,2013,PRY,,28713838.097704716,extrapolated_correlation,cropland_ha_1000,LM,9407031.0,4051.3306,16036.4706,524.23
+Philippines,2013,PHL,,136559489.20296085,extrapolated_correlation,cropland_ha_1000,LM,33099348.0,10969.0,12469.0,2454.4
+Rwanda,2013,RWA,,0.0,extrapolated_correlation,cropland_ha_1000,L,4887224.0,1570.0,1980.0,1804.1
+Samoa,2013,WSM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,158553.0,52.0,61.0,1261.11
+São Tomé and Príncipe,2013,STP,,,missing,,LM,,,,
+Senegal,2013,SEN,,18060794.534052297,extrapolated_correlation,cropland_ha_1000,LM,1053764.0,3368.0,8968.0,248.11
+Sierra Leone,2013,SLE,,0.0,extrapolated_correlation,cropland_ha_1000,L,3560808.0,1748.65,3948.65,450.48
+Solomon Islands,2013,SLB,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,105.0,113.0,1158.72
+Somalia,2013,SOM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1126.0,44126.0,58.28
+South Sudan,2013,SSD,,7481890.214231931,extrapolated_correlation,cropland_ha_1000,LM,,2689.425,28462.625,107.98
+Sri Lanka,2013,LKA,,1410800.335079223,extrapolated_correlation,cropland_ha_1000,LM,5139291.0,2300.0,2740.0,2864.99
+Sudan,2013,SDN,,277344855.8822476,extrapolated_correlation,cropland_ha_1000,LM,8433267.0,19999.56,111453.36,114.59
+Syrian Arab Republic,2013,SYR,,54930865.95780821,extrapolated_correlation,cropland_ha_1000,LM,,5733.0,13921.0,561.44
+Tajikistan,2013,TJK,,0.0,extrapolated_correlation,cropland_ha_1000,L,2962373.0,905.6,3702.9,777.73
+United Republic of Tanzania,2013,TZA,99836946.20426697,99836946.20426697,observed,,L,8207598.0,14035.9,38035.9,389.66
+Timor-Leste,2013,TLS,,0.0,extrapolated_correlation,cropland_ha_1000,LM,408430.0,189.6,339.6,523.42
+Togo,2013,TGO,,9517539.083642893,extrapolated_correlation,cropland_ha_1000,L,1641901.0,2820.0,3820.0,312.76
+Uganda,2013,UGA,,107421999.35475795,extrapolated_correlation,cropland_ha_1000,L,,9100.0,14415.0,588.6
+Ukraine,2013,UKR,,490480995.1066001,extrapolated_correlation,cropland_ha_1000,LM,39676340.0,33671.0,41526.0,1096.94
+Uzbekistan,2013,UZB,,34508120.26431127,extrapolated_correlation,cropland_ha_1000,LM,,4423.0,25060.0,800.02
+Vanuatu,2013,VUT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,186646.0,145.0,187.0,634.68
+Viet Nam,2013,VNM,,124739240.51226665,extrapolated_correlation,cropland_ha_1000,LM,37927444.0,10210.8,10852.8,4063.71
+West Bank and Gaza,2013,,,,missing,,LM,,,,
+"Yemen, Rep.",2013,,,,missing,,LM,,,,
+Zambia,2013,ZMB,,23813461.069090746,extrapolated_correlation,cropland_ha_1000,LM,3707038.0,3737.0,23737.0,130.41
+Afghanistan,2014,AFG,,88870039.52631418,extrapolated_correlation,cropland_ha_1000,L,,7910.0,37910.0,161.86
+Armenia,2014,ARM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1966677.0,504.8,1680.7,1096.21
+Bangladesh,2014,BGD,,98052480.14728342,extrapolated_correlation,cropland_ha_1000,LM,22945086.0,8499.0,9099.0,3996.94
+Benin,2014,BEN,,19306457.302297935,extrapolated_correlation,cropland_ha_1000,L,4940138.0,3447.902,3997.902,923.74
+Bhutan,2014,BTN,,0.0,extrapolated_correlation,cropland_ha_1000,LM,315371.0,112.6,525.6,325.4
+Bolivia (Plurinational State of),2014,BOL,,46964436.149123535,extrapolated_correlation,cropland_ha_1000,LM,7266754.0,5222.0,38222.0,158.88
+Burkina Faso,2014,BFA,10857875.945966523,10857875.945966523,observed,,L,4086707.0,7320.7448,13320.7448,457.64
+Burundi,2014,BDI,,0.0,extrapolated_correlation,cropland_ha_1000,L,1781834.0,1431.0,1914.0,972.26
+Cabo Verde,2014,CPV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,275318.0,54.0,79.0,753.28
+Cambodia,2014,KHM,,29357442.999870732,extrapolated_correlation,cropland_ha_1000,L,12759084.0,4092.6141,5592.6141,1225.23
+Cameroon,2014,CMR,75220971.64552715,75220971.64552715,observed,,LM,11283759.0,7750.0,9750.0,926.97
+Central African Republic,2014,CAF,,0.0,extrapolated_correlation,cropland_ha_1000,L,1033066.0,1917.528,4907.528,363.62
+Chad,2014,TCD,,47182694.5000464,extrapolated_correlation,cropland_ha_1000,L,6315780.0,5236.0,50236.0,99.88
+Comoros,2014,COM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,118.0,133.0,811.68
+"Congo, Dem. Rep.",2014,,,,missing,,L,,,,
+"Congo, Rep.",2014,,,,missing,,LM,,,,
+Côte d'Ivoire,2014,CIV,,119647070.51676743,extrapolated_correlation,cropland_ha_1000,LM,10049755.0,9884.167,23084.167,429.62
+Djibouti,2014,DJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,2.8,1702.8,37.32
+"Egypt, Arab Rep.",2014,,,,missing,,LM,,,,
+El Salvador,2014,SLV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1829687.0,876.6,1214.2,1279.03
+Eritrea,2014,ERI,,0.0,extrapolated_correlation,cropland_ha_1000,L,1324517.0,692.0,7592.0,50.38
+Eswatini,2014,SWZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,194.0,1216.0,380.48
+Ethiopia,2014,ETH,,229884328.0359546,extrapolated_correlation,cropland_ha_1000,L,17398914.0,16955.244,36955.244,456.12
+"Gambia, The",2014,,,,missing,,L,,,,
+Georgia,2014,GEO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1332116.0,475.0,2416.0,478.36
+Ghana,2014,GHA,,72580307.23833905,extrapolated_correlation,cropland_ha_1000,LM,13629506.0,6865.1087,12374.6548,921.07
+Guatemala,2014,GTM,,4121880.8511854187,extrapolated_correlation,cropland_ha_1000,LM,,2473.9,4284.9,1923.54
+Guinea,2014,GIN,,48605639.172817364,extrapolated_correlation,cropland_ha_1000,L,1903156.0,5327.2736,16027.2736,226.88
+Guinea-Bissau,2014,GNB,,0.0,extrapolated_correlation,cropland_ha_1000,L,1181790.0,550.0,781.346,523.4
+Guyana,2014,GUY,,0.0,extrapolated_correlation,cropland_ha_1000,LM,241503.0,448.0,1042.0,689.34
+Haiti,2014,HTI,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1578.0,2068.0,1012.46
+Honduras,2014,HND,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2864870.0,1558.0,3375.0,838.67
+India,2014,IND,,2607462280.0007496,extrapolated_correlation,cropland_ha_1000,LM,357311473.0,169463.0,179728.0,2142.58
+Indonesia,2014,IDN,,600701462.3226484,extrapolated_correlation,cropland_ha_1000,LM,123294828.0,40741.0,51741.0,1673.13
+Kenya,2014,KEN,,75249567.89542022,extrapolated_correlation,cropland_ha_1000,LM,15594903.0,7036.3262,28336.3262,501.26
+Kiribati,2014,KIR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,34.0,34.0,1110.83
+"Korea, Dem. Rep.",2014,,,,missing,,L,,,,
+Kosovo,2014,,,,missing,,LM,,,,
+Kyrgyzstan,2014,KGZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3347085.0,1355.8,10557.1,278.89
+Lao PDR,2014,,,,missing,,LM,,,,
+Lesotho,2014,LSO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,276.3,2276.3,87.27
+Liberia,2014,LBR,,0.0,extrapolated_correlation,cropland_ha_1000,L,,710.0,1786.3733,295.98
+Madagascar,2014,MDG,,21677647.206488393,extrapolated_correlation,cropland_ha_1000,L,4917001.0,3600.0,40895.0,107.39
+Malawi,2014,MWI,,24811213.530452423,extrapolated_correlation,cropland_ha_1000,L,8919785.0,3801.0,5651.0,1289.92
+Mali,2014,MLI,4027224.995163539,4027224.995163539,observed,,L,6497018.0,7155.8601,41795.8601,128.59
+Mauritania,2014,MRT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,460.0,39710.0,21.2
+"Micronesia, Fed. Sts.",2014,,,,missing,,LM,,,,
+Moldova,2014,,,,missing,,LM,,,,
+Morocco,2014,MAR,,107149176.41610439,extrapolated_correlation,cropland_ha_1000,LM,13977951.0,9082.5,30082.5,475.66
+Mozambique,2014,MOZ,,58313870.39711267,extrapolated_correlation,cropland_ha_1000,L,4073902.0,5950.0,40491.572,83.29
+Myanmar,2014,MMR,,157714959.36027026,extrapolated_correlation,cropland_ha_1000,LM,,12326.0,12632.0,2375.71
+Nepal,2014,NPL,,514642.4591074735,extrapolated_correlation,cropland_ha_1000,L,8027083.0,2242.5167,4037.8167,2111.53
+Nicaragua,2014,NIC,601219.3505849999,601219.3505849999,observed,,LM,2387360.0,1799.0,5073.0,505.21
+Niger,2014,NER,21751593.97825516,21751593.97825516,observed,,L,6167299.0,16900.0,45682.0,99.71
+Nigeria,2014,NGA,,624703869.4655842,extrapolated_correlation,cropland_ha_1000,LM,76657957.0,42280.6144,67307.6144,788.22
+Pakistan,2014,PAK,237290571.14811075,237290571.14811075,observed,,LM,57649679.0,31252.0,36252.0,1879.13
+Papua New Guinea,2014,PNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1115.0,1305.0,2861.07
+Philippines,2014,PHL,,137011595.78701538,extrapolated_correlation,cropland_ha_1000,LM,34578847.0,10998.0,12498.0,2496.41
+Rwanda,2014,RWA,,0.0,extrapolated_correlation,cropland_ha_1000,L,3460734.0,1596.0,2006.0,1481.23
+Samoa,2014,WSM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,121007.0,57.5,67.5,1134.68
+São Tomé and Príncipe,2014,STP,,,missing,,LM,,,,
+Senegal,2014,SEN,,18123154.0628874,extrapolated_correlation,cropland_ha_1000,LM,1405677.0,3372.0,8972.0,253.83
+Sierra Leone,2014,SLE,,0.0,extrapolated_correlation,cropland_ha_1000,L,3995608.0,1749.0,3949.0,422.52
+Solomon Islands,2014,SLB,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,106.5,114.5,1168.46
+Somalia,2014,SOM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1126.0,44126.0,53.26
+South Sudan,2014,SSD,,6931762.245789729,extrapolated_correlation,cropland_ha_1000,L,,2654.1375,28427.3375,112.88
+Sri Lanka,2014,LKA,,1410800.335079223,extrapolated_correlation,cropland_ha_1000,LM,5378673.0,2300.0,2740.0,2719.21
+Sudan,2014,SDN,,277213900.8716939,extrapolated_correlation,cropland_ha_1000,LM,,19991.16,111444.96,125.26
+Syrian Arab Republic,2014,SYR,,54915276.07559943,extrapolated_correlation,cropland_ha_1000,LM,,5732.0,13919.0,458.72
+Tajikistan,2014,TJK,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2761549.0,937.2,3719.6,776.09
+United Republic of Tanzania,2014,TZA,,187681830.94198006,extrapolated_correlation,cropland_ha_1000,L,9190189.0,14248.2,38248.2,414.67
+Timor-Leste,2014,TLS,,0.0,extrapolated_correlation,cropland_ha_1000,LM,444318.0,190.1,340.1,529.92
+Togo,2014,TGO,,9517539.083642893,extrapolated_correlation,cropland_ha_1000,L,1796773.0,2820.0,3820.0,343.22
+Uganda,2014,UGA,,107421999.35475795,extrapolated_correlation,cropland_ha_1000,L,,9100.0,14415.0,607.09
+Ukraine,2014,UKR,,490356276.04892987,extrapolated_correlation,cropland_ha_1000,LM,32985908.0,33663.0,41511.0,1097.2
+Uzbekistan,2014,UZB,,34398991.08884984,extrapolated_correlation,cropland_ha_1000,LM,,4416.0,25542.0,832.79
+Vanuatu,2014,VUT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,204407.0,145.0,187.0,714.64
+Viet Nam,2014,VNM,,125065069.0504301,extrapolated_correlation,cropland_ha_1000,LM,40387106.0,10231.7,10873.7,4182.59
+West Bank and Gaza,2014,,,,missing,,LM,,,,
+"Yemen, Rep.",2014,,,,missing,,LM,,,,
+Zambia,2014,ZMB,,23829050.95129952,extrapolated_correlation,cropland_ha_1000,LM,3887059.0,3738.0,23738.0,137.93
+Afghanistan,2015,AFG,,88870039.52631418,extrapolated_correlation,cropland_ha_1000,L,,7910.0,37910.0,152.65
+Armenia,2015,ARM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1659444.0,504.3,1676.7,1203.29
+Bangladesh,2015,BGD,,99038384.29816642,extrapolated_correlation,cropland_ha_1000,LM,23534504.0,8562.24,9162.24,4081.94
+Benin,2015,BEN,,20480702.820145175,extrapolated_correlation,cropland_ha_1000,L,3407405.0,3523.223,4073.223,817.89
+Bhutan,2015,BTN,,0.0,extrapolated_correlation,cropland_ha_1000,LM,278812.0,112.6,525.6,335.14
+Bolivia (Plurinational State of),2015,BOL,,46948846.266914755,extrapolated_correlation,cropland_ha_1000,LM,6776701.0,5221.0,38221.0,168.32
+Burkina Faso,2015,BFA,,82268898.32902776,extrapolated_correlation,cropland_ha_1000,L,3262831.0,7486.5753,13486.5753,447.14
+Burundi,2015,BDI,,0.0,extrapolated_correlation,cropland_ha_1000,L,2184081.0,1458.0,1941.0,914.07
+Cabo Verde,2015,CPV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,217396.0,54.0,79.0,764.12
+Cambodia,2015,KHM,,30220029.62349411,extrapolated_correlation,cropland_ha_1000,LM,9328328.0,4147.944,5647.944,1241.03
+Cameroon,2015,CMR,,86375658.37290998,extrapolated_correlation,cropland_ha_1000,LM,8731359.0,7750.0,9750.0,982.35
+Central African Republic,2015,CAF,,0.0,extrapolated_correlation,cropland_ha_1000,L,757795.0,1917.741,4907.741,370.44
+Chad,2015,TCD,,47198284.38225517,extrapolated_correlation,cropland_ha_1000,L,3787824.0,5237.0,50237.0,99.52
+Comoros,2015,COM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,118.0,133.0,809.68
+"Congo, Dem. Rep.",2015,,,,missing,,L,,,,
+"Congo, Rep.",2015,,,,missing,,LM,,,,
+Côte d'Ivoire,2015,CIV,,141188221.88801622,extrapolated_correlation,cropland_ha_1000,LM,9865933.0,11265.9062,24465.9062,446.32
+Djibouti,2015,DJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,2.8,1702.8,30.49
+"Egypt, Arab Rep.",2015,,,,missing,,LM,,,,
+El Salvador,2015,SLV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1830290.0,877.9,1223.0,1226.63
+Eritrea,2015,ERI,,0.0,extrapolated_correlation,cropland_ha_1000,L,1441046.0,692.0,7592.0,49.9
+Eswatini,2015,SWZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,194.0,1212.0,377.04
+Ethiopia,2015,ETH,,233773052.66422957,extrapolated_correlation,cropland_ha_1000,L,17151595.0,17204.683,37204.683,473.48
+"Gambia, The",2015,,,,missing,,L,,,,
+Ghana,2015,GHA,,74015592.86186649,extrapolated_correlation,cropland_ha_1000,LM,12743517.0,6957.1739,12415.5145,924.15
+Guatemala,2015,GTM,,6914028.754777253,extrapolated_correlation,cropland_ha_1000,LM,,2653.0,4464.0,1924.57
+Guinea,2015,GIN,,51911339.62220137,extrapolated_correlation,cropland_ha_1000,L,1863756.0,5539.315,16239.315,234.12
+Guinea-Bissau,2015,GNB,,0.0,extrapolated_correlation,cropland_ha_1000,L,1069842.0,550.0,789.79,546.53
+Haiti,2015,HTI,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1578.0,2068.0,983.77
+Honduras,2015,HND,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3044942.0,1558.0,3375.0,903.79
+India,2015,IND,,2606682785.890311,extrapolated_correlation,cropland_ha_1000,LM,355168665.0,169413.0,179675.0,2113.98
+Indonesia,2015,IDN,,603819438.7644037,extrapolated_correlation,cropland_ha_1000,LM,117488766.0,40941.0,51941.0,1700.87
+Kenya,2015,KEN,,74898019.16958874,extrapolated_correlation,cropland_ha_1000,LM,16449412.0,7013.7764,28313.7764,500.8
+Kiribati,2015,KIR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,34.0,34.0,1118.99
+"Korea, Dem. Rep.",2015,,,,missing,,L,,,,
+Kosovo,2015,,,,missing,,LM,,,,
+Kyrgyzstan,2015,KGZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2919998.0,1355.6,10556.2,301.69
+Lao PDR,2015,,,,missing,,LM,,,,
+Lesotho,2015,LSO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,223.0,2223.0,84.83
+Liberia,2015,LBR,,0.0,extrapolated_correlation,cropland_ha_1000,L,,700.0,1816.4532,310.06
+Madagascar,2015,MDG,,21677647.206488393,extrapolated_correlation,cropland_ha_1000,L,3603639.0,3600.0,40895.0,104.88
+Malawi,2015,MWI,,25668657.05193512,extrapolated_correlation,cropland_ha_1000,L,8268174.0,3856.0,5706.0,1220.52
+Mali,2015,MLI,,79568264.59298965,extrapolated_correlation,cropland_ha_1000,L,5760062.0,7313.3454,41953.3454,139.17
+Mauritania,2015,MRT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,460.0,39710.0,21.64
+"Micronesia, Fed. Sts.",2015,,,,missing,,LM,,,,
+Moldova,2015,,,,missing,,LM,,,,
+Mongolia,2015,MNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1392906.0,1333.11,113664.41,20.36
+Morocco,2015,MAR,,106595735.59769283,extrapolated_correlation,cropland_ha_1000,LM,12824999.0,9047.0,30047.0,514.28
+Mozambique,2015,MOZ,,58313870.39711267,extrapolated_correlation,cropland_ha_1000,L,3783063.0,5950.0,40698.0,76.64
+Myanmar,2015,MMR,,159538974.01970887,extrapolated_correlation,cropland_ha_1000,LM,,12442.9999,12748.9999,2424.63
+Nepal,2015,NPL,,59887.154065683484,extrapolated_correlation,cropland_ha_1000,L,7966653.0,2213.3468,4008.6468,2106.06
+Nicaragua,2015,NIC,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2396803.0,1799.0,5073.0,503.88
+Niger,2015,NER,,229225749.0519271,extrapolated_correlation,cropland_ha_1000,L,5566317.0,16913.0,45695.0,112.18
+Nigeria,2015,NGA,,626127414.3488202,extrapolated_correlation,cropland_ha_1000,LM,63419582.0,42371.9265,67511.9265,803.95
+Pakistan,2015,PAK,,451989575.93313146,extrapolated_correlation,cropland_ha_1000,LM,56929622.0,31202.0,36202.0,1868.99
+Papua New Guinea,2015,PNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1132.0,1322.0,2848.31
+Philippines,2015,PHL,,137463702.37106985,extrapolated_correlation,cropland_ha_1000,LM,32331619.0,11027.0,12527.0,2488.65
+Rwanda,2015,RWA,,0.0,extrapolated_correlation,cropland_ha_1000,L,3577759.0,1597.0,2007.0,1546.68
+Samoa,2015,WSM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,102323.0,63.54,75.62,747.1
+São Tomé and Príncipe,2015,STP,,,missing,,LM,,,,
+Senegal,2015,SEN,,23673152.12921176,extrapolated_correlation,cropland_ha_1000,L,1551485.0,3728.0,9328.0,317.53
+Sierra Leone,2015,SLE,,0.0,extrapolated_correlation,cropland_ha_1000,L,3288697.0,1749.0,3949.0,371.87
+Solomon Islands,2015,SLB,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,108.0,116.0,1169.79
+Somalia,2015,SOM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1126.0,44126.0,53.98
+South Sudan,2015,SSD,,6381634.277347542,extrapolated_correlation,cropland_ha_1000,L,,2618.85,28392.05,115.4
+Sri Lanka,2015,LKA,,1410800.335079223,extrapolated_correlation,cropland_ha_1000,LM,6031808.0,2300.0,2740.0,2907.89
+Sudan,2015,SDN,,281967567.754794,extrapolated_correlation,cropland_ha_1000,LM,,20296.08,111749.88,111.19
+Syrian Arab Republic,2015,SYR,,54899686.19339065,extrapolated_correlation,cropland_ha_1000,LM,,5731.0,13917.0,540.91
+Tajikistan,2015,TJK,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2231655.0,968.8,3757.9,845.87
+United Republic of Tanzania,2015,TZA,88594921.14821094,88594921.14821094,observed,,L,8753884.0,14460.5,38460.5,431.15
+Timor-Leste,2015,TLS,,0.0,extrapolated_correlation,cropland_ha_1000,LM,496159.0,190.6,340.6,547.03
+Togo,2015,TGO,,9517539.083642893,extrapolated_correlation,cropland_ha_1000,L,1542587.0,2820.0,3820.0,329.33
+Tonga,2015,TON,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,31.0,35.0,1101.8
+Tunisia,2015,TUN,,42209522.075446755,extrapolated_correlation,cropland_ha_1000,LM,5001638.0,4917.0,9834.0,716.03
+Uganda,2015,UGA,,107421999.35475795,extrapolated_correlation,cropland_ha_1000,L,,9100.0,14415.0,617.39
+Ukraine,2015,UKR,,490418635.577765,extrapolated_correlation,cropland_ha_1000,LM,26222189.0,33667.0,41508.0,1050.75
+Uzbekistan,2015,UZB,,34492530.382102504,extrapolated_correlation,cropland_ha_1000,LM,,4422.0,25548.0,886.54
+Vanuatu,2015,VUT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,163159.0,145.0,187.0,663.26
+Viet Nam,2015,VNM,,144928137.97263193,extrapolated_correlation,cropland_ha_1000,LM,40408563.0,11505.8,12147.8,3827.26
+West Bank and Gaza,2015,,,,missing,,LM,,,,
+"Yemen, Rep.",2015,,,,missing,,LM,,,,
+Zambia,2015,ZMB,,23844640.833508298,extrapolated_correlation,cropland_ha_1000,LM,2636703.0,3739.0,23739.0,120.23
+Afghanistan,2016,AFG,,88870039.52631418,extrapolated_correlation,cropland_ha_1000,L,,7910.0,37910.0,162.31
+Angola,2016,AGO,,53746034.90994121,extrapolated_correlation,cropland_ha_1000,LM,4572794.0,5657.0,45824.0,144.31
+Armenia,2016,ARM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1525289.0,504.4,1676.8,1082.67
+Bangladesh,2016,BGD,,99536792.832381,extrapolated_correlation,cropland_ha_1000,LM,23993196.0,8594.21,9194.21,4088.2
+Benin,2016,BEN,,17417633.943529226,extrapolated_correlation,cropland_ha_1000,L,3417143.0,3326.745,3876.745,960.28
+Bhutan,2016,BTN,,0.0,extrapolated_correlation,cropland_ha_1000,LM,360893.0,106.0,519.0,389.96
+Bolivia (Plurinational State of),2016,BOL,,44797442.52210362,extrapolated_correlation,cropland_ha_1000,LM,5687974.0,5083.0,38083.0,169.59
+Burkina Faso,2016,BFA,,84542378.6464747,extrapolated_correlation,cropland_ha_1000,L,3448670.0,7632.4058,13632.4058,449.68
+Burundi,2016,BDI,,0.0,extrapolated_correlation,cropland_ha_1000,L,2370317.0,1485.0,1968.0,976.36
+Cabo Verde,2016,CPV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,212641.0,54.0,79.0,759.27
+Cambodia,2016,KHM,,31031638.891282998,extrapolated_correlation,cropland_ha_1000,LM,9728532.0,4200.004,5700.004,1350.28
+Cameroon,2016,CMR,,86375658.37290998,extrapolated_correlation,cropland_ha_1000,LM,9243607.0,7750.0,9750.0,1007.41
+Central African Republic,2016,CAF,,0.0,extrapolated_correlation,cropland_ha_1000,L,1038576.0,1917.623,4907.623,404.84
+Chad,2016,TCD,,48772862.48534158,extrapolated_correlation,cropland_ha_1000,L,4397475.0,5338.0,50338.0,108.3
+Comoros,2016,COM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,118.0,133.0,838.29
+"Congo, Dem. Rep.",2016,,,,missing,,L,,,,
+"Congo, Rep.",2016,,,,missing,,LM,,,,
+Côte d'Ivoire,2016,CIV,,133701402.33357878,extrapolated_correlation,cropland_ha_1000,LM,10624759.0,10785.6704,23985.6704,442.49
+Djibouti,2016,DJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,2.8,1702.8,41.17
+"Egypt, Arab Rep.",2016,,,,missing,,LM,,,,
+El Salvador,2016,SLV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1948310.0,879.2,1214.1,1338.25
+Eritrea,2016,ERI,,0.0,extrapolated_correlation,cropland_ha_1000,L,1622208.0,692.0,7592.0,50.61
+Eswatini,2016,SWZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,194.0,1208.0,370.65
+Ethiopia,2016,ETH,,236266046.3181172,extrapolated_correlation,cropland_ha_1000,L,17817013.0,17364.594,37364.594,475.93
+"Gambia, The",2016,,,,missing,,L,,,,
+Georgia,2016,GEO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,890114.0,454.0,2394.0,470.62
+Ghana,2016,GHA,,75450878.48539391,extrapolated_correlation,cropland_ha_1000,LM,13616866.0,7049.2391,12357.9422,941.63
+Guatemala,2016,GTM,,7179056.752326444,extrapolated_correlation,cropland_ha_1000,LM,,2670.0,4493.8,1946.98
+Guinea,2016,GIN,,53522214.089046255,extrapolated_correlation,cropland_ha_1000,L,1595506.0,5642.6432,16342.6432,243.05
+Guinea-Bissau,2016,GNB,,0.0,extrapolated_correlation,cropland_ha_1000,L,1082395.0,564.8454,794.8454,556.11
+Haiti,2016,HTI,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1578.0,2068.0,987.61
+Honduras,2016,HND,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3166912.0,1558.0,3424.0,943.46
+India,2016,IND,,2605186157.198268,extrapolated_correlation,cropland_ha_1000,LM,369923388.0,169317.0,179578.0,2199.83
+Indonesia,2016,IDN,,611614379.8687918,extrapolated_correlation,cropland_ha_1000,LM,121440479.0,41441.0,52441.0,1665.47
+Jordan,2016,JOR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3051380.0,323.96,1065.96,2027.09
+Kenya,2016,KEN,,77078714.74408196,extrapolated_correlation,cropland_ha_1000,LM,14954169.0,7153.6553,28453.6553,467.28
+Kiribati,2016,KIR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,34.0,34.0,1455.05
+"Korea, Dem. Rep.",2016,,,,missing,,L,,,,
+Kosovo,2016,,,,missing,,LM,,,,
+Kyrgyzstan,2016,KGZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2485045.0,1363.8,10541.1,308.64
+Lao PDR,2016,,,,missing,,LM,,,,
+Lesotho,2016,LSO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,356.0,2356.0,74.02
+Liberia,2016,LBR,,0.0,extrapolated_correlation,cropland_ha_1000,L,,700.0,1846.4827,344.05
+Madagascar,2016,MDG,,21677647.206488393,extrapolated_correlation,cropland_ha_1000,L,3361281.0,3600.0,40895.0,106.45
+Malawi,2016,MWI,,26541690.455626592,extrapolated_correlation,cropland_ha_1000,L,7441927.0,3912.0,5762.0,1184.1
+Mali,2016,MLI,,83816470.0791639,extrapolated_correlation,cropland_ha_1000,L,6450143.0,7585.843,42225.843,160.33
+Mauritania,2016,MRT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,460.0,39710.0,21.87
+"Micronesia, Fed. Sts.",2016,,,,missing,,LM,,,,
+Moldova,2016,,,,missing,,LM,,,,
+Mongolia,2016,MNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1352297.0,1328.35,113560.79,19.49
+Morocco,2016,MAR,,119504158.0665596,extrapolated_correlation,cropland_ha_1000,LM,11543739.0,9875.0,30875.0,427.34
+Mozambique,2016,MOZ,,58313870.39711267,extrapolated_correlation,cropland_ha_1000,L,3560515.0,5950.0,41009.71,80.72
+Myanmar,2016,MMR,,159772823.81182873,extrapolated_correlation,cropland_ha_1000,LM,,12458.0,12760.0,2421.12
+Nepal,2016,NPL,,0.0,extrapolated_correlation,cropland_ha_1000,L,8589488.0,2179.9701,3975.2701,2317.66
+Nicaragua,2016,NIC,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2557567.0,1799.0,5073.0,548.18
+Niger,2016,NER,,240138666.5980705,extrapolated_correlation,cropland_ha_1000,L,4876654.0,17613.0,46395.0,118.96
+Nigeria,2016,NGA,233397070.0484134,233397070.0484134,observed,,LM,54914713.0,42457.4702,67719.4701,874.25
+Pakistan,2016,PAK,,461218786.200727,extrapolated_correlation,cropland_ha_1000,LM,60028179.0,31794.0,36794.0,1876.45
+Papua New Guinea,2016,PNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1138.0,1328.0,2857.4
+Philippines,2016,PHL,,137915808.95512438,extrapolated_correlation,cropland_ha_1000,LM,31551114.0,11056.0,12556.0,2428.17
+Rwanda,2016,RWA,,0.0,extrapolated_correlation,cropland_ha_1000,L,3601556.0,1597.0,2005.0,1562.42
+São Tomé and Príncipe,2016,STP,,,missing,,LM,,,,
+Senegal,2016,SEN,,23049556.84086071,extrapolated_correlation,cropland_ha_1000,L,1514958.0,3688.0,9288.0,305.14
+Sierra Leone,2016,SLE,,0.0,extrapolated_correlation,cropland_ha_1000,L,2111024.0,1749.0,3949.0,361.81
+Solomon Islands,2016,SLB,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,109.0,117.0,1161.34
+Somalia,2016,SOM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1126.0,44126.0,51.67
+South Sudan,2016,SSD,,5831506.308905348,extrapolated_correlation,cropland_ha_1000,L,,2583.5625,28356.7625,116.24
+Sri Lanka,2016,LKA,,1566699.1571669877,extrapolated_correlation,cropland_ha_1000,LM,5545258.0,2310.0,2750.0,2753.76
+Sudan,2016,SDN,,286721234.63789403,extrapolated_correlation,cropland_ha_1000,LM,,20601.0,112054.8,126.55
+Syrian Arab Republic,2016,SYR,,54893450.240507156,extrapolated_correlation,cropland_ha_1000,LM,,5730.6,13916.126,503.2
+Tajikistan,2016,TJK,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1959422.0,1000.4,3797.9,912.92
+United Republic of Tanzania,2016,TZA,,194301294.92782646,extrapolated_correlation,cropland_ha_1000,L,8285095.0,14672.8,38672.8,404.21
+Timor-Leste,2016,TLS,,0.0,extrapolated_correlation,cropland_ha_1000,LM,443338.0,191.1,341.1,503.45
+Togo,2016,TGO,,9517539.083642893,extrapolated_correlation,cropland_ha_1000,L,1731364.0,2820.0,3820.0,343.81
+Tunisia,2016,TUN,,42483904.00232123,extrapolated_correlation,cropland_ha_1000,LM,4261315.0,4934.6,9702.6,606.12
+Uganda,2016,UGA,,107421999.35475795,extrapolated_correlation,cropland_ha_1000,L,,9100.0,14415.0,565.41
+Ukraine,2016,UKR,,490512174.87101763,extrapolated_correlation,cropland_ha_1000,LM,26818816.0,33673.0,41515.0,1107.53
+Uzbekistan,2016,UZB,,34481617.464556366,extrapolated_correlation,cropland_ha_1000,LM,,4421.3,25545.7,917.41
+Vanuatu,2016,VUT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,161393.0,145.0,187.0,660.88
+Viet Nam,2016,VNM,,145308531.09852612,extrapolated_correlation,cropland_ha_1000,LM,41162911.0,11530.2,12172.2,3821.15
+West Bank and Gaza,2016,,,,missing,,LM,,,,
+"Yemen, Rep.",2016,,,,missing,,LM,,,,
+Zambia,2016,ZMB,,23844640.833508298,extrapolated_correlation,cropland_ha_1000,LM,3523751.0,3739.0,23739.0,130.95
+Afghanistan,2017,AFG,,88870039.52631418,extrapolated_correlation,cropland_ha_1000,L,,7910.0,37910.0,158.33
+Angola,2017,AGO,,53901933.732028976,extrapolated_correlation,cropland_ha_1000,LM,4402925.0,5667.0,45772.0,144.81
+Bangladesh,2017,BGD,,99429534.44278462,extrapolated_correlation,cropland_ha_1000,LM,28072726.0,8587.33,9187.33,4477.87
+Benin,2017,BEN,,20794946.51683926,extrapolated_correlation,cropland_ha_1000,L,3770243.0,3543.3799,4093.3799,961.62
+Bhutan,2017,BTN,,0.0,extrapolated_correlation,cropland_ha_1000,LM,384617.0,100.0,513.0,391.88
+Bolivia (Plurinational State of),2017,BOL,,42568089.36624862,extrapolated_correlation,cropland_ha_1000,LM,5691781.0,4940.0,37940.0,169.28
+Burkina Faso,2017,BFA,,86815858.96392164,extrapolated_correlation,cropland_ha_1000,L,3454254.0,7778.2363,13778.2363,427.37
+Burundi,2017,BDI,,0.0,extrapolated_correlation,cropland_ha_1000,L,2968264.0,1512.0,1995.0,932.78
+Cabo Verde,2017,CPV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,194037.0,54.0,79.0,665.54
+Cambodia,2017,KHM,,32350853.16480142,extrapolated_correlation,cropland_ha_1000,LM,10171993.0,4284.6239,5784.6239,1359.73
+Cameroon,2017,CMR,,86375658.37290998,extrapolated_correlation,cropland_ha_1000,LM,9576317.0,7750.0,9750.0,1007.13
+Central African Republic,2017,CAF,,0.0,extrapolated_correlation,cropland_ha_1000,L,1131240.0,1917.601,4907.601,411.39
+Chad,2017,TCD,,48772862.48534158,extrapolated_correlation,cropland_ha_1000,L,4213781.0,5338.0,50338.0,108.73
+Comoros,2017,COM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,118.0,133.0,841.38
+"Congo, Dem. Rep.",2017,,,,missing,,L,,,,
+"Congo, Rep.",2017,,,,missing,,LM,,,,
+Côte d'Ivoire,2017,CIV,,144994003.6659758,extrapolated_correlation,cropland_ha_1000,LM,11778060.0,11510.0249,24710.0249,470.14
+Djibouti,2017,DJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,2.8,1702.8,46.03
+"Egypt, Arab Rep.",2017,,,,missing,,LM,,,,
+El Salvador,2017,SLV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1757096.0,880.5,1205.2,1346.01
+Eritrea,2017,ERI,,0.0,extrapolated_correlation,cropland_ha_1000,L,1872871.0,692.0,7592.0,51.97
+Eswatini,2017,SWZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,194.0,1204.0,384.15
+Ethiopia,2017,ETH,,239002164.18505067,extrapolated_correlation,cropland_ha_1000,L,17656561.0,17540.1,37540.1,492.9
+"Gambia, The",2017,,,,missing,,L,,,,
+Georgia,2017,GEO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,858738.0,444.8,2384.8,431.51
+Ghana,2017,GHA,118440580.70225231,118440580.70225231,observed,,LM,10055566.0,7141.3043,12083.9639,1027.01
+Guinea,2017,GIN,,56493093.75620882,extrapolated_correlation,cropland_ha_1000,L,1642378.0,5833.2078,16533.2078,253.76
+Guinea-Bissau,2017,GNB,,0.0,extrapolated_correlation,cropland_ha_1000,L,1406605.0,564.8841,794.8841,564.52
+Haiti,2017,HTI,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1520.0,2010.0,967.32
+Honduras,2017,HND,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3473211.0,1588.0,3488.0,1000.79
+India,2017,IND,,2598609347.130145,extrapolated_correlation,cropland_ha_1000,LM,425848985.0,168895.136,179235.604,2338.35
+Indonesia,2017,IDN,,650589085.3907325,extrapolated_correlation,cropland_ha_1000,LM,115036485.0,43941.0,54941.0,1824.39
+Kenya,2017,KEN,,71806135.51368631,extrapolated_correlation,cropland_ha_1000,LM,17451109.0,6815.4501,28115.4501,448.09
+Kiribati,2017,KIR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,34.0,34.0,1456.86
+"Korea, Dem. Rep.",2017,,,,missing,,L,,,,
+Kosovo,2017,,,,missing,,LM,,,,
+Kyrgyzstan,2017,KGZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3059360.0,1363.8,10540.1,313.92
+Lao PDR,2017,,,,missing,,LM,,,,
+Lesotho,2017,LSO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,418.0,2418.0,87.51
+Liberia,2017,LBR,,0.0,extrapolated_correlation,cropland_ha_1000,L,,700.0,1876.6883,292.6
+Madagascar,2017,MDG,,21677647.206488393,extrapolated_correlation,cropland_ha_1000,L,3954037.0,3600.0,40895.0,104.03
+Malawi,2017,MWI,100730467.51322094,100730467.51322094,observed,,L,8950455.0,3967.0,5817.0,1376.4
+Mali,2017,MLI,3820512.47615114,3820512.47615114,observed,,L,7075747.0,7749.4459,42389.4459,161.8
+Mauritania,2017,MRT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,460.0,39710.0,22.29
+"Micronesia, Fed. Sts.",2017,,,,missing,,LM,,,,
+Moldova,2017,,,,missing,,LM,,,,
+Mongolia,2017,MNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1268953.0,1327.71,113467.19,19.77
+Morocco,2017,MAR,,122178574.29768716,extrapolated_correlation,cropland_ha_1000,LM,12140154.0,10046.5482,31046.5482,500.64
+Mozambique,2017,MOZ,,58313870.39711267,extrapolated_correlation,cropland_ha_1000,L,4255283.0,5950.0,41231.4,91.39
+Myanmar,2017,MMR,,161543834.43074572,extrapolated_correlation,cropland_ha_1000,LM,,12571.6,13053.6,2349.58
+Nepal,2017,NPL,,0.0,extrapolated_correlation,cropland_ha_1000,L,9083590.0,2152.5703,3947.8703,2339.26
+Nicaragua,2017,NIC,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2705683.0,1799.0,5081.0,599.7
+Niger,2017,NER,,243256643.03982574,extrapolated_correlation,cropland_ha_1000,L,4336881.0,17813.0,46595.0,120.11
+Nigeria,2017,NGA,,629791568.2828659,extrapolated_correlation,cropland_ha_1000,LM,49668292.0,42606.9606,67885.9606,889.59
+Pakistan,2017,PAK,,464477071.5823612,extrapolated_correlation,cropland_ha_1000,LM,66057960.0,32003.0,37003.0,1941.92
+Papua New Guinea,2017,PNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1215.0,1405.0,2704.09
+Philippines,2017,PHL,,138445864.9502228,extrapolated_correlation,cropland_ha_1000,LM,32105309.0,11090.0,12590.0,2504.66
+Rwanda,2017,RWA,,0.0,extrapolated_correlation,cropland_ha_1000,L,3712373.0,1599.0,2005.0,1613.43
+São Tomé and Príncipe,2017,STP,,,missing,,LM,,,,
+Senegal,2017,SEN,,23595202.71816788,extrapolated_correlation,cropland_ha_1000,L,2322017.0,3723.0,9323.0,385.22
+Sierra Leone,2017,SLE,,0.0,extrapolated_correlation,cropland_ha_1000,L,1815422.0,1749.0,3949.0,327.83
+Solomon Islands,2017,SLB,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,112.0,120.0,1148.69
+Somalia,2017,SOM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1126.0,44126.0,52.11
+South Sudan,2017,SSD,,5281378.340463154,extrapolated_correlation,cropland_ha_1000,L,,2548.275,28321.475,115.89
+Sri Lanka,2017,LKA,,1725715.9556965008,extrapolated_correlation,cropland_ha_1000,LM,5600563.0,2320.2,2760.2,2480.02
+Sudan,2017,SDN,,291474901.52099407,extrapolated_correlation,cropland_ha_1000,LM,,20905.92,112359.72,124.08
+Syrian Arab Republic,2017,SYR,,54953471.28701094,extrapolated_correlation,cropland_ha_1000,L,,5734.45,13920.031,515.53
+Tajikistan,2017,TJK,,0.0,extrapolated_correlation,cropland_ha_1000,L,2306753.0,1032.1,3841.7,1082.98
+United Republic of Tanzania,2017,TZA,,197611026.92074966,extrapolated_correlation,cropland_ha_1000,L,8274645.0,14885.1,38885.1,393.99
+Timor-Leste,2017,TLS,,0.0,extrapolated_correlation,cropland_ha_1000,LM,411966.0,191.6,341.6,480.69
+Togo,2017,TGO,,9517539.083642893,extrapolated_correlation,cropland_ha_1000,L,2028221.0,2820.0,3820.0,361.68
+Tunisia,2017,TUN,,43392794.13509287,extrapolated_correlation,cropland_ha_1000,LM,3946221.0,4992.9,9742.9,591.89
+Uganda,2017,UGA,,107421999.35475795,extrapolated_correlation,cropland_ha_1000,L,,9100.0,14415.0,622.68
+Ukraine,2017,UKR,,490434225.45997375,extrapolated_correlation,cropland_ha_1000,LM,28959031.0,33668.0,41489.0,1085.89
+Uzbekistan,2017,UZB,,34430170.8532674,extrapolated_correlation,cropland_ha_1000,LM,,4418.0,25533.2,872.27
+Vanuatu,2017,VUT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,150249.0,145.0,187.0,568.52
+Viet Nam,2017,VNM,,145255525.49901623,extrapolated_correlation,cropland_ha_1000,LM,40509668.0,11526.8,12168.8,3891.95
+West Bank and Gaza,2017,,,,missing,,LM,,,,
+"Yemen, Rep.",2017,,,,missing,,L,,,,
+Zambia,2017,ZMB,,25403629.054385923,extrapolated_correlation,cropland_ha_1000,LM,3823038.0,3839.0,23839.0,157.93
+Afghanistan,2018,AFG,,90429027.74719182,extrapolated_correlation,cropland_ha_1000,L,,8010.0,38010.0,152.71
+Angola,2018,AGO,,54011062.9074904,extrapolated_correlation,cropland_ha_1000,LM,3413491.0,5674.0,45792.0,147.8
+Bangladesh,2018,BGD,,99662914.97944999,extrapolated_correlation,cropland_ha_1000,LM,29111179.0,8602.3,9202.3,4468.32
+Benin,2018,BEN,,26523116.669963054,extrapolated_correlation,cropland_ha_1000,L,3430738.0,3910.8086,4460.8086,933.97
+Bhutan,2018,BTN,,0.0,extrapolated_correlation,cropland_ha_1000,LM,342967.0,100.0,513.0,344.4
+Bolivia (Plurinational State of),2018,BOL,,46630017.58586307,extrapolated_correlation,cropland_ha_1000,LM,6537763.0,5200.549,38200.549,181.14
+Burkina Faso,2018,BFA,,90336528.29908249,extrapolated_correlation,cropland_ha_1000,L,3991706.0,8004.0667,14004.0667,459.12
+Burundi,2018,BDI,,0.0,extrapolated_correlation,cropland_ha_1000,L,2388248.0,1539.0,2022.0,1076.6
+Cabo Verde,2018,CPV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,174634.0,54.0,79.0,557.34
+Cambodia,2018,KHM,,33500465.10977058,extrapolated_correlation,cropland_ha_1000,LM,10773125.0,4358.3648,5858.3648,1380.73
+Cameroon,2018,CMR,,86375658.37290998,extrapolated_correlation,cropland_ha_1000,LM,11095282.0,7750.0,9750.0,1049.24
+Central African Republic,2018,CAF,,0.0,extrapolated_correlation,cropland_ha_1000,L,1286045.0,2173.365,5163.365,430.83
+Chad,2018,TCD,,48772862.48534158,extrapolated_correlation,cropland_ha_1000,L,4582957.0,5338.0,50338.0,114.19
+Comoros,2018,COM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,118.0,133.0,854.26
+"Congo, Dem. Rep.",2018,,,,missing,,L,,,,
+"Congo, Rep.",2018,,,,missing,,LM,,,,
+Côte d'Ivoire,2018,CIV,,163027671.62443596,extrapolated_correlation,cropland_ha_1000,LM,13235964.0,12666.7795,25866.7795,472.59
+Djibouti,2018,DJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,2.8,1702.8,47.84
+"Egypt, Arab Rep.",2018,,,,missing,,LM,,,,
+El Salvador,2018,SLV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1754500.0,881.0,1195.7,1323.96
+Eritrea,2018,ERI,,0.0,extrapolated_correlation,cropland_ha_1000,L,1746669.0,692.0,7592.0,52.24
+Eswatini,2018,SWZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,195.0,1201.0,392.95
+Ethiopia,2018,ETH,,244659732.43861562,extrapolated_correlation,cropland_ha_1000,L,15923639.0,17903.0,37903.0,488.81
+"Gambia, The",2018,,,,missing,,L,,,,
+Ghana,2018,GHA,,78321451.291437,extrapolated_correlation,cropland_ha_1000,LM,12428789.0,7233.3696,12217.5416,1063.62
+Guinea,2018,GIN,,59150771.13080886,extrapolated_correlation,cropland_ha_1000,L,1820766.0,6003.6823,16703.6823,262.03
+Guinea-Bissau,2018,GNB,,0.0,extrapolated_correlation,cropland_ha_1000,L,1537713.0,579.6038,810.6038,564.13
+Haiti,2018,HTI,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1505.0,1995.0,925.84
+Honduras,2018,HND,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3561525.0,1594.0,3509.0,1014.1
+India,2018,IND,,2596781823.188221,extrapolated_correlation,cropland_ha_1000,LM,421468233.0,168777.911,179115.564,2433.25
+Indonesia,2018,IDN,,660795718.9132895,extrapolated_correlation,cropland_ha_1000,LM,112441605.0,44595.696,55595.696,1877.21
+Kenya,2018,KEN,,78684689.31094861,extrapolated_correlation,cropland_ha_1000,LM,19978980.0,7256.6692,28556.6692,487.7
+Kiribati,2018,KIR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,34.0,34.0,1320.42
+"Korea, Dem. Rep.",2018,,,,missing,,L,,,,
+Kyrgyzstan,2018,KGZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2893617.0,1365.0,10370.8,325.58
+Lao PDR,2018,,,,missing,,LM,,,,
+Lesotho,2018,LSO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,433.3,2433.3,82.35
+Liberia,2018,LBR,,0.0,extrapolated_correlation,cropland_ha_1000,L,,700.0,1906.9038,300.96
+Madagascar,2018,MDG,,21677647.206488393,extrapolated_correlation,cropland_ha_1000,L,3752259.0,3600.0,40895.0,106.89
+Malawi,2018,MWI,,28272167.38080076,extrapolated_correlation,cropland_ha_1000,L,11003772.0,4023.0,5873.0,1449.03
+Mali,2018,MLI,,89631396.3677913,extrapolated_correlation,cropland_ha_1000,L,8244627.0,7958.8366,42598.8366,173.07
+Mauritania,2018,MRT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,460.0,39710.0,23.04
+"Micronesia, Fed. Sts.",2018,,,,missing,,LM,,,,
+Moldova,2018,,,,missing,,LM,,,,
+Mongolia,2018,MNG,841488.4695458551,841488.4695458551,observed,,LM,1672537.0,1332.4,113433.0,23.22
+Morocco,2018,MAR,,114060283.4464068,extrapolated_correlation,cropland_ha_1000,LM,13030759.0,9525.8072,30525.8072,542.59
+Mozambique,2018,MOZ,,58313870.39711267,extrapolated_correlation,cropland_ha_1000,L,6400181.0,5950.0,41413.832,105.85
+Myanmar,2018,MMR,,161835365.2280498,extrapolated_correlation,cropland_ha_1000,LM,,12590.3,13071.3,1878.44
+Nepal,2018,NPL,,0.0,extrapolated_correlation,cropland_ha_1000,L,9018247.0,2071.3261,3866.6261,2480.17
+Nicaragua,2018,NIC,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2401404.0,1799.0,5084.0,603.09
+Niger,2018,NER,,243256643.03982574,extrapolated_correlation,cropland_ha_1000,L,4507612.0,17813.0,46595.0,130.31
+Nigeria,2018,NGA,,637165746.2613803,extrapolated_correlation,cropland_ha_1000,LM,55015500.0,43079.9711,68251.9711,925.11
+Pakistan,2018,PAK,,463697577.47192246,extrapolated_correlation,cropland_ha_1000,LM,64082343.0,31953.0,36953.0,1935.27
+Papua New Guinea,2018,PNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1215.0,1405.0,2732.44
+Philippines,2018,PHL,,138804432.2410246,extrapolated_correlation,cropland_ha_1000,LM,32854742.0,11113.0,12613.0,2493.78
+Rwanda,2018,RWA,,0.0,extrapolated_correlation,cropland_ha_1000,L,3418143.0,1545.0,1949.0,1736.25
+São Tomé and Príncipe,2018,STP,,,missing,,LM,,,,
+Senegal,2018,SEN,,24140848.595475048,extrapolated_correlation,cropland_ha_1000,LM,3166797.0,3758.0,9358.0,436.65
+Sierra Leone,2018,SLE,7278148.402107966,7278148.402107966,observed,,L,1630705.0,1749.0,3949.0,344.56
+Solomon Islands,2018,SLB,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,112.0,120.0,1163.35
+Somalia,2018,SOM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1126.0,44126.0,52.42
+South Sudan,2018,SSD,,4181122.4035787657,extrapolated_correlation,cropland_ha_1000,L,,2477.7,28250.9,117.68
+Sudan,2018,SDN,,296228568.40409416,extrapolated_correlation,cropland_ha_1000,LM,,21210.84,112664.64,142.49
+Syrian Arab Republic,2018,SYR,,54857952.07871777,extrapolated_correlation,cropland_ha_1000,L,,5728.323,13917.688,491.76
+Tajikistan,2018,TJK,,0.0,extrapolated_correlation,cropland_ha_1000,L,2132624.0,1036.6,3854.6,1160.17
+United Republic of Tanzania,2018,TZA,,200920758.91367286,extrapolated_correlation,cropland_ha_1000,L,9192524.0,15097.4,39097.4,427.7
+Timor-Leste,2018,TLS,,0.0,extrapolated_correlation,cropland_ha_1000,LM,454168.0,192.1,342.1,507.95
+Togo,2018,TGO,,9517539.083642893,extrapolated_correlation,cropland_ha_1000,L,2166842.0,2820.0,3820.0,380.34
+Tunisia,2018,TUN,,42731783.12944077,extrapolated_correlation,cropland_ha_1000,LM,4900245.0,4950.5,9700.5,717.33
+Uganda,2018,UGA,,107421999.35475795,extrapolated_correlation,cropland_ha_1000,L,,9100.0,14415.0,632.3
+Ukraine,2018,UKR,,491743775.565511,extrapolated_correlation,cropland_ha_1000,LM,33064114.0,33752.0,41329.0,1168.8
+Uzbekistan,2018,UZB,,34427052.876825646,extrapolated_correlation,cropland_ha_1000,LM,,4417.8,25520.3,884.98
+Vanuatu,2018,VUT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,149993.0,145.0,187.0,560.56
+Viet Nam,2018,VNM,,144814331.8325079,extrapolated_correlation,cropland_ha_1000,LM,42109788.0,11498.5,12140.5,4032.61
+West Bank and Gaza,2018,,,,missing,,LM,,,,
+"Yemen, Rep.",2018,,,,missing,,L,,,,
+Zambia,2018,ZMB,,25403629.054385923,extrapolated_correlation,cropland_ha_1000,LM,3635808.0,3839.0,23839.0,145.94
+Afghanistan,2019,AFG,,90429027.74719182,extrapolated_correlation,cropland_ha_1000,L,,8010.0,38010.0,173.62
+Algeria,2019,DZA,,98217280.7921124,extrapolated_correlation,cropland_ha_1000,LM,23598008.0,8509.571,41316.071,376.29
+Angola,2019,AGO,,54104602.200743064,extrapolated_correlation,cropland_ha_1000,LM,2478118.0,5680.0,45877.0,151.52
+Bangladesh,2019,BGD,,102698265.04549874,extrapolated_correlation,cropland_ha_1000,LM,25723895.0,8797.0,9397.0,4434.21
+Benin,2019,BEN,41389901.352952994,41389901.352952994,observed,,LM,3787561.0,4081.2094,4631.2094,960.95
+Bhutan,2019,BTN,,0.0,extrapolated_correlation,cropland_ha_1000,LM,362156.0,100.0,513.0,370.75
+Bolivia (Plurinational State of),2019,BOL,,51380502.57400432,extrapolated_correlation,cropland_ha_1000,LM,7336729.0,5505.2649,38505.2649,180.35
+Burkina Faso,2019,BFA,57300115.493990414,57300115.493990414,observed,,L,4270096.0,8139.8972,14139.8972,497.32
+Burundi,2019,BDI,,0.0,extrapolated_correlation,cropland_ha_1000,L,2398786.0,1566.0,2049.0,1159.02
+Cabo Verde,2019,CPV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,165934.0,54.0,79.0,561.2
+Cambodia,2019,KHM,,34953956.59774141,extrapolated_correlation,cropland_ha_1000,LM,10541832.0,4451.5978,5951.5978,1349.75
+Cameroon,2019,CMR,,86375658.37290998,extrapolated_correlation,cropland_ha_1000,LM,10316076.0,7750.0,9750.0,1025.6
+Central African Republic,2019,CAF,,4478764.434708722,extrapolated_correlation,cropland_ha_1000,L,1142287.0,2496.792,5486.792,455.9
+Chad,2019,TCD,,48772862.48534158,extrapolated_correlation,cropland_ha_1000,L,4274241.0,5338.0,50338.0,120.67
+Comoros,2019,COM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,118.0,133.0,858.62
+"Congo, Dem. Rep.",2019,,,,missing,,L,,,,
+"Congo, Rep.",2019,,,,missing,,LM,,,,
+Côte d'Ivoire,2019,CIV,29217408.37025487,29217408.37025487,observed,,LM,14117798.0,12724.8864,25924.8864,490.48
+Djibouti,2019,DJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,2.9,1702.9,49.62
+"Egypt, Arab Rep.",2019,,,,missing,,LM,,,,
+El Salvador,2019,SLV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1814158.0,881.0,1195.7,1340.49
+Eritrea,2019,ERI,,0.0,extrapolated_correlation,cropland_ha_1000,L,1952530.0,692.0,7592.0,52.63
+Eswatini,2019,SWZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,195.0,1197.0,398.11
+Ethiopia,2019,ETH,,249134028.63253438,extrapolated_correlation,cropland_ha_1000,L,16979653.0,18190.0,38190.0,502.95
+"Gambia, The",2019,,,,missing,,L,,,,
+Ghana,2019,GHA,,79756736.91496444,extrapolated_correlation,cropland_ha_1000,LM,10705257.0,7325.4348,12479.9743,1099.48
+Guinea,2019,GIN,,58756116.38067013,extrapolated_correlation,cropland_ha_1000,L,3514509.0,5978.3675,16678.3675,282.11
+Guinea-Bissau,2019,GNB,,0.0,extrapolated_correlation,cropland_ha_1000,L,1434958.0,615.3726,815.3726,587.23
+Haiti,2019,HTI,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1300.0,1790.0,935.27
+Honduras,2019,HND,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3499997.0,1594.0,3509.0,1004.51
+India,2019,IND,,2595085104.5939817,extrapolated_correlation,cropland_ha_1000,LM,447749730.0,168669.0764,179044.9469,2495.74
+Kenya,2019,KEN,,79662990.2762784,extrapolated_correlation,cropland_ha_1000,LM,22409435.0,7319.4215,28619.4215,520.3
+Kiribati,2019,KIR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,34.0,34.0,1157.51
+"Korea, Dem. Rep.",2019,,,,missing,,L,,,,
+Kyrgyzstan,2019,KGZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2807819.0,1364.0,10368.4,331.64
+Lao PDR,2019,,,,missing,,LM,,,,
+Lesotho,2019,LSO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,433.0,2433.0,69.63
+Liberia,2019,LBR,,0.0,extrapolated_correlation,cropland_ha_1000,L,,700.0,1923.04,315.32
+Madagascar,2019,MDG,,21677647.206488393,extrapolated_correlation,cropland_ha_1000,L,3935570.0,3600.0,40895.0,107.91
+Malawi,2019,MWI,,29129610.90228346,extrapolated_correlation,cropland_ha_1000,L,12905887.0,4078.0,5928.0,1484.61
+Mali,2019,MLI,19178493.57187905,19178493.57187905,observed,,L,7727283.0,8175.0378,42815.0378,178.3
+Mauritania,2019,MRT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,460.0,39710.0,22.66
+"Micronesia, Fed. Sts.",2019,,,,missing,,LM,,,,
+Moldova,2019,,,,missing,,LM,,,,
+Mongolia,2019,MNG,651103.1824500001,651103.1824500001,observed,,LM,1737746.0,1117.2,113156.9,24.17
+Morocco,2019,MAR,,99812686.97782971,extrapolated_correlation,cropland_ha_1000,LM,11788576.0,8611.907,29611.907,535.62
+Mozambique,2019,MOZ,,58313870.39711267,extrapolated_correlation,cropland_ha_1000,L,6706119.0,5950.0,41413.832,110.65
+Myanmar,2019,MMR,,160433834.81748086,extrapolated_correlation,cropland_ha_1000,LM,,12500.4,12979.4,1869.46
+Nepal,2019,NPL,,0.0,extrapolated_correlation,cropland_ha_1000,LM,10028317.0,2042.8798,3838.1798,2578.48
+Nicaragua,2019,NIC,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2341511.0,1799.0,5084.0,615.63
+Niger,2019,NER,42852315.66008572,42852315.66008572,observed,,L,4029394.0,17813.0,46595.0,129.43
+Nigeria,2019,NGA,311736690.06192696,311736690.06192696,observed,,LM,51254971.0,43487.7431,68357.7431,889.3
+Pakistan,2019,PAK,,453112047.45216334,extrapolated_correlation,cropland_ha_1000,LM,58404734.0,31274.0,36274.0,2022.41
+Papua New Guinea,2019,PNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1215.0,1405.0,2727.64
+Philippines,2019,PHL,,139162999.5318265,extrapolated_correlation,cropland_ha_1000,LM,31303276.0,11136.0,12636.0,2483.52
+Rwanda,2019,RWA,,0.0,extrapolated_correlation,cropland_ha_1000,L,3535942.0,1502.0,1904.0,1815.81
+São Tomé and Príncipe,2019,STP,,,missing,,LM,,,,
+Senegal,2019,SEN,20107532.83699389,20107532.83699389,observed,,LM,3171159.0,3795.0,9395.0,436.71
+Sierra Leone,2019,SLE,,0.0,extrapolated_correlation,cropland_ha_1000,L,1285058.0,1749.0,3949.0,306.63
+Solomon Islands,2019,SLB,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,112.0,120.0,1174.95
+Somalia,2019,SOM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1127.0,44127.0,52.85
+South Sudan,2019,SSD,,4181122.4035787657,extrapolated_correlation,cropland_ha_1000,L,,2477.7,28250.9,127.79
+Sri Lanka,2019,LKA,,2526611.8564315215,extrapolated_correlation,cropland_ha_1000,LM,5099751.0,2371.5728,2811.5728,2684.06
+Sudan,2019,SDN,,296228568.40409416,extrapolated_correlation,cropland_ha_1000,L,,21210.84,112664.64,137.19
+Syrian Arab Republic,2019,SYR,,54792942.26990718,extrapolated_correlation,cropland_ha_1000,L,,5724.153,13911.334,549.27
+Tajikistan,2019,TJK,,0.0,extrapolated_correlation,cropland_ha_1000,L,2295676.0,1043.2,3864.0,1238.55
+United Republic of Tanzania,2019,TZA,,204230490.90659606,extrapolated_correlation,cropland_ha_1000,LM,8887612.0,15309.7,39309.7,432.5
+Timor-Leste,2019,TLS,,0.0,extrapolated_correlation,cropland_ha_1000,LM,514186.0,191.4,341.4,492.02
+Togo,2019,TGO,11348304.2775,11348304.2775,observed,,L,2065356.0,2820.0,3820.0,387.41
+Tunisia,2019,TUN,,42731783.12944077,extrapolated_correlation,cropland_ha_1000,LM,4193567.0,4950.5,9700.5,660.46
+Uganda,2019,UGA,,107421999.35475795,extrapolated_correlation,cropland_ha_1000,L,,9100.0,14415.0,707.84
+Ukraine,2019,UKR,,492133522.6207304,extrapolated_correlation,cropland_ha_1000,LM,35617846.0,33777.0,41311.0,1192.15
+Uzbekistan,2019,UZB,,34731055.57989678,extrapolated_correlation,cropland_ha_1000,LM,,4437.3,25555.3,896.03
+Vanuatu,2019,VUT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,145471.0,145.0,187.0,566.05
+Viet Nam,2019,VNM,,148672827.67918003,extrapolated_correlation,cropland_ha_1000,LM,41833513.0,11746.0,12388.0,3938.31
+West Bank and Gaza,2019,,,,missing,,LM,,,,
+"Yemen, Rep.",2019,,,,missing,,L,,,,
+Zambia,2019,ZMB,,25403629.054385923,extrapolated_correlation,cropland_ha_1000,LM,3500070.0,3839.0,23839.0,139.98
+Afghanistan,2020,AFG,,91068212.91775164,extrapolated_correlation,cropland_ha_1000,L,,8051.0,38313.0,176.61
+Algeria,2020,DZA,,97777957.91146907,extrapolated_correlation,cropland_ha_1000,LM,22580994.0,8481.391,41287.891,377.08
+Angola,2020,AGO,,54182551.61178695,extrapolated_correlation,cropland_ha_1000,LM,1694691.0,5685.0,45892.0,157.74
+Bangladesh,2020,BGD,,103212731.15838836,extrapolated_correlation,cropland_ha_1000,LM,29398212.0,8830.0,9430.0,4568.15
+Belize,2020,BLZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,273048.0,130.0,180.0,1319.47
+Benin,2020,BEN,,26090341.539847426,extrapolated_correlation,cropland_ha_1000,LM,4554123.0,3883.0486,4433.0486,983.3
+Bhutan,2020,BTN,,0.0,extrapolated_correlation,cropland_ha_1000,LM,421987.0,93.8842,506.8842,408.09
+Bolivia (Plurinational State of),2020,BOL,,51721242.83450045,extrapolated_correlation,cropland_ha_1000,LM,8158691.0,5527.1214,38527.1214,179.59
+Burkina Faso,2020,BFA,,94493741.87875697,extrapolated_correlation,cropland_ha_1000,L,4394744.0,8270.7277,14270.7277,485.33
+Burundi,2020,BDI,,0.0,extrapolated_correlation,cropland_ha_1000,L,2284721.0,1593.0,2076.0,1030.26
+Cabo Verde,2020,CPV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,171002.0,54.0,79.0,574.38
+Cambodia,2020,KHM,,36564140.43280445,extrapolated_correlation,cropland_ha_1000,LM,11478098.0,4554.8817,6054.8817,1352.94
+Cameroon,2020,CMR,,86375658.37290998,extrapolated_correlation,cropland_ha_1000,LM,10902346.0,7750.0,9750.0,1037.71
+Central African Republic,2020,CAF,,5975564.6154555455,extrapolated_correlation,cropland_ha_1000,L,979294.0,2592.803,5582.803,473.55
+Chad,2020,TCD,,48772862.48534158,extrapolated_correlation,cropland_ha_1000,L,4320902.0,5338.0,50338.0,122.94
+Comoros,2020,COM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,118.0,133.0,867.88
+"Congo, Dem. Rep.",2020,,,,missing,,L,,,,
+"Congo, Rep.",2020,,,,missing,,LM,,,,
+Côte d'Ivoire,2020,CIV,,169391963.53626555,extrapolated_correlation,cropland_ha_1000,LM,15367415.0,13075.0117,26275.0117,500.31
+Djibouti,2020,DJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,3.9,1703.9,50.76
+"Egypt, Arab Rep.",2020,,,,missing,,LM,,,,
+El Salvador,2020,SLV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1721552.0,881.0,1195.7,1281.61
+Eritrea,2020,ERI,,0.0,extrapolated_correlation,cropland_ha_1000,L,2010157.0,692.0,7592.0,52.78
+Eswatini,2020,SWZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,195.0,1195.0,397.57
+Ethiopia,2020,ETH,,253594293.9324653,extrapolated_correlation,cropland_ha_1000,L,15917145.0,18476.1,38476.1,542.03
+"Gambia, The",2020,,,,missing,,L,,,,
+Ghana,2020,GHA,,81192022.53849186,extrapolated_correlation,cropland_ha_1000,LM,14152013.0,7417.5,12603.74,1118.07
+Guinea,2020,GIN,,63436701.01395188,extrapolated_correlation,cropland_ha_1000,L,5403626.0,6278.5997,16978.5997,291.88
+Guinea-Bissau,2020,GNB,,0.0,extrapolated_correlation,cropland_ha_1000,L,1462498.0,622.5579,822.5579,604.18
+Haiti,2020,HTI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1300.0,1790.0,853.75
+Honduras,2020,HND,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3322959.0,1594.0,3538.0,922.1
+India,2020,IND,,2585401786.0014563,extrapolated_correlation,cropland_ha_1000,LM,431854673.0,168047.948,178527.759,2579.63
+Indonesia,2020,IDN,,665552877.9300044,extrapolated_correlation,cropland_ha_1000,LM,111754390.0,44900.84,55900.84,1803.97
+"Iran, Islamic Rep.",2020,,,,missing,,LM,,,,
+Kenya,2020,KEN,,75826117.59622984,extrapolated_correlation,cropland_ha_1000,LM,14383845.0,7073.3085,28373.3085,615.11
+Kiribati,2020,KIR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,34.0,34.0,1159.08
+"Korea, Dem. Rep.",2020,,,,missing,,L,,,,
+Kyrgyzstan,2020,KGZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2911157.0,1364.1,10367.8,333.27
+Lao PDR,2020,,,,missing,,LM,,,,
+Lesotho,2020,LSO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,78333.0,433.0,2433.0,70.52
+Liberia,2020,LBR,,0.0,extrapolated_correlation,cropland_ha_1000,L,,700.0,1923.04,321.72
+Madagascar,2020,MDG,,21677647.206488393,extrapolated_correlation,cropland_ha_1000,L,4089891.0,3600.0,40895.0,108.51
+Malawi,2020,MWI,100827007.31480762,100827007.31480762,observed,,L,15951598.0,4134.0,5984.0,1580.78
+Mali,2020,MLI,,96023693.94402076,extrapolated_correlation,cropland_ha_1000,L,8585183.0,8368.8652,43008.8653,177.42
+Mauritania,2020,MRT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,460.0,39710.0,23.38
+"Micronesia, Fed. Sts.",2020,,,,missing,,LM,,,,
+Mongolia,2020,MNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2453931.0,1127.5,112481.5669,31.08
+Morocco,2020,MAR,,111444188.96462224,extrapolated_correlation,cropland_ha_1000,LM,11697645.0,9358.0,30358.0,470.47
+Mozambique,2020,MOZ,,58313870.39711267,extrapolated_correlation,cropland_ha_1000,L,6901990.0,5950.0,41413.832,107.53
+Myanmar,2020,MMR,,160427598.86459732,extrapolated_correlation,cropland_ha_1000,LM,,12500.0,12980.0,1862.06
+Nepal,2020,NPL,,0.0,extrapolated_correlation,cropland_ha_1000,LM,10276158.0,2003.6328,3798.9328,2766.2
+Nicaragua,2020,NIC,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2387060.0,1799.0,5091.0,638.97
+Niger,2020,NER,,243256643.03982574,extrapolated_correlation,cropland_ha_1000,L,4437684.0,17813.0,46595.0,139.49
+Nigeria,2020,NGA,,649047376.995295,extrapolated_correlation,cropland_ha_1000,LM,45851512.0,43842.1084,68863.1084,907.52
+Pakistan,2020,PAK,,459332410.45346504,extrapolated_correlation,cropland_ha_1000,LM,61574516.0,31673.0,36673.0,2082.02
+Papua New Guinea,2020,PNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1215.0,1405.0,2677.93
+Philippines,2020,PHL,,139521566.82262832,extrapolated_correlation,cropland_ha_1000,LM,32608401.0,11159.0,12659.0,2462.49
+Rwanda,2020,RWA,,0.0,extrapolated_correlation,cropland_ha_1000,L,3795599.0,1560.6,1958.6,1780.36
+Samoa,2020,WSM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,68312.0,43.0,49.41,1007.62
+São Tomé and Príncipe,2020,STP,,,missing,,LM,,,,
+Senegal,2020,SEN,,25263320.114506938,extrapolated_correlation,cropland_ha_1000,LM,4044452.0,3830.0,9430.0,519.35
+Sierra Leone,2020,SLE,,0.0,extrapolated_correlation,cropland_ha_1000,L,1548547.0,1749.0,3949.0,355.55
+Solomon Islands,2020,SLB,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,112.0,120.0,1171.15
+Somalia,2020,SOM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1128.0,44128.0,53.05
+South Sudan,2020,SSD,,4181122.4035787657,extrapolated_correlation,cropland_ha_1000,L,,2477.7,28250.7,123.32
+Sri Lanka,2020,LKA,,2533271.8541111127,extrapolated_correlation,cropland_ha_1000,LM,6310453.0,2372.0,2812.0,2962.8
+Sudan,2020,SDN,,296228568.40409416,extrapolated_correlation,cropland_ha_1000,L,,21210.84,112664.84,141.47
+Syrian Arab Republic,2020,SYR,,54831355.73966959,extrapolated_correlation,cropland_ha_1000,L,,5726.617,13913.376,594.2
+Tajikistan,2020,TJK,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2247067.0,1041.0,3862.7,1271.21
+United Republic of Tanzania,2020,TZA,,207527750.99375224,extrapolated_correlation,cropland_ha_1000,LM,9841128.0,15521.2,39521.2,453.9
+Timor-Leste,2020,TLS,,0.0,extrapolated_correlation,cropland_ha_1000,LM,495446.0,191.4,341.4,490.15
+Togo,2020,TGO,,9517539.083642893,extrapolated_correlation,cropland_ha_1000,L,2077048.0,2820.0,3820.0,383.73
+Tunisia,2020,TUN,,42731783.12944077,extrapolated_correlation,cropland_ha_1000,LM,4725081.0,4950.5,9700.5,777.58
+Uganda,2020,UGA,,107421999.35475795,extrapolated_correlation,cropland_ha_1000,L,,9100.0,14415.0,831.1
+Ukraine,2020,UKR,,492133522.6207304,extrapolated_correlation,cropland_ha_1000,LM,35312617.0,33777.0,41311.0,1082.18
+Uzbekistan,2020,UZB,,34745086.47388467,extrapolated_correlation,cropland_ha_1000,LM,,4438.2,25682.5,918.15
+Vanuatu,2020,VUT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,153377.0,145.0,187.0,556.96
+Viet Nam,2020,VNM,,148236310.97733426,extrapolated_correlation,cropland_ha_1000,LM,47529137.0,11718.0,12360.0,4016.92
+West Bank and Gaza,2020,,,,missing,,LM,,,,
+"Yemen, Rep.",2020,,,,missing,,L,,,,
+Zambia,2020,ZMB,,25403629.054385923,extrapolated_correlation,cropland_ha_1000,LM,2745199.0,3839.0,23839.0,154.12
+Afghanistan,2021,AFG,,91068212.91775164,extrapolated_correlation,cropland_ha_1000,L,,8051.0,38313.0,179.76
+Algeria,2021,DZA,,97608745.32997502,extrapolated_correlation,cropland_ha_1000,LM,21843800.0,8470.537,41277.037,351.23
+Angola,2021,AGO,,54260501.02283083,extrapolated_correlation,cropland_ha_1000,LM,1628118.0,5690.0,45897.0,161.28
+Bangladesh,2021,BGD,,103025652.57188304,extrapolated_correlation,cropland_ha_1000,LM,36096774.0,8818.0,9418.0,4788.31
+Benin,2021,BEN,,29058279.396237202,extrapolated_correlation,cropland_ha_1000,LM,5375149.0,4073.4245,4623.4245,1005.13
+Bhutan,2021,BTN,,0.0,extrapolated_correlation,cropland_ha_1000,LM,354635.0,78.8894,491.8894,373.54
+Bolivia (Plurinational State of),2021,BOL,,53717415.00418234,extrapolated_correlation,cropland_ha_1000,LM,8856738.0,5655.1642,38655.1642,191.05
+Burkina Faso,2021,BFA,,96767222.19620392,extrapolated_correlation,cropland_ha_1000,L,4436571.0,8416.5582,14416.5582,447.98
+Burundi,2021,BDI,,0.0,extrapolated_correlation,cropland_ha_1000,L,2336358.0,1620.0,2103.0,1049.35
+Cabo Verde,2021,CPV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,175104.0,54.0,79.0,576.26
+Cambodia,2021,KHM,,37619435.149398714,extrapolated_correlation,cropland_ha_1000,LM,13821499.0,4622.5727,6122.5727,1504.47
+Cameroon,2021,CMR,,86375658.37290998,extrapolated_correlation,cropland_ha_1000,LM,12039803.0,7750.0,9750.0,1035.67
+Central African Republic,2021,CAF,,6315377.277960241,extrapolated_correlation,cropland_ha_1000,L,1034263.0,2614.6,5604.6,481.26
+Chad,2021,TCD,,48772862.48534158,extrapolated_correlation,cropland_ha_1000,L,4512516.0,5338.0,50338.0,124.76
+Comoros,2021,COM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,118.0,133.0,870.13
+"Congo, Dem. Rep.",2021,,,,missing,,L,,,,
+"Congo, Rep.",2021,,,,missing,,LM,,,,
+Côte d'Ivoire,2021,CIV,,178152231.70600933,extrapolated_correlation,cropland_ha_1000,LM,17064284.0,13636.9318,26836.9318,504.15
+Djibouti,2021,DJI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,3.9,1703.9,49.13
+"Egypt, Arab Rep.",2021,,,,missing,,LM,,,,
+El Salvador,2021,SLV,,0.0,extrapolated_correlation,cropland_ha_1000,LM,1747992.0,881.0,1195.7,1335.38
+Eritrea,2021,ERI,,0.0,extrapolated_correlation,cropland_ha_1000,L,2126709.0,692.0,7592.0,53.06
+Eswatini,2021,SWZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,195.0,1195.0,398.36
+Ethiopia,2021,ETH,,258181476.46345788,extrapolated_correlation,cropland_ha_1000,L,12970561.0,18770.341,38770.341,511.23
+"Gambia, The",2021,,,,missing,,L,,,,
+Ghana,2021,GHA,,81192022.53849186,extrapolated_correlation,cropland_ha_1000,LM,19666022.0,7417.5,12603.74,1192.09
+Guinea,2021,GIN,,65434929.48909713,extrapolated_correlation,cropland_ha_1000,L,5761800.0,6406.7744,17106.7744,304.31
+Guinea-Bissau,2021,GNB,,0.0,extrapolated_correlation,cropland_ha_1000,L,1273992.0,639.9923,839.9923,612.55
+Haiti,2021,HTI,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1305.0,1795.0,910.85
+Honduras,2021,HND,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3502886.0,1618.0,3576.0,923.37
+India,2021,IND,,2585401786.0014563,extrapolated_correlation,cropland_ha_1000,LM,522496416.0,168047.948,178527.948,2698.98
+Indonesia,2021,IDN,,666552610.3064065,extrapolated_correlation,cropland_ha_1000,LM,122178506.0,44964.967,55964.967,1813.29
+"Iran, Islamic Rep.",2021,,,,missing,,LM,,,,
+Kenya,2021,KEN,,77040733.1140567,extrapolated_correlation,cropland_ha_1000,LM,13446343.0,7151.219,28451.219,601.03
+Kiribati,2021,KIR,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,34.0,34.0,1162.01
+"Korea, Dem. Rep.",2021,,,,missing,,L,,,,
+Kyrgyzstan,2021,KGZ,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3094654.0,1364.1,10366.1,318.24
+Lao PDR,2021,,,,missing,,LM,,,,
+Lebanon,2021,LBN,,0.0,extrapolated_correlation,cropland_ha_1000,LM,3317606.0,279.3,679.3,2803.61
+Lesotho,2021,LSO,,0.0,extrapolated_correlation,cropland_ha_1000,LM,310651.0,433.0,2433.0,78.4
+Liberia,2021,LBR,,0.0,extrapolated_correlation,cropland_ha_1000,L,,700.0,1923.04,330.49
+Madagascar,2021,MDG,,21677647.206488393,extrapolated_correlation,cropland_ha_1000,L,4345896.0,3600.0,40895.0,110.33
+Malawi,2021,MWI,,31031576.531754166,extrapolated_correlation,cropland_ha_1000,L,17186184.0,4200.0,6050.0,1620.64
+Mali,2021,MLI,,99544556.59372099,extrapolated_correlation,cropland_ha_1000,L,9172652.0,8594.708,43234.708,175.54
+Mauritania,2021,MRT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,460.0,39710.0,24.68
+"Micronesia, Fed. Sts.",2021,,,,missing,,LM,,,,
+Mongolia,2021,MNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2158696.0,1126.1695,112419.5695,23.54
+Morocco,2021,MAR,,110399666.85663424,extrapolated_correlation,cropland_ha_1000,LM,16289993.0,9291.0,30291.0,550.15
+Mozambique,2021,MOZ,,58313870.39711267,extrapolated_correlation,cropland_ha_1000,L,6924006.0,5950.0,41413.832,117.27
+Myanmar,2021,MMR,,160427598.86459732,extrapolated_correlation,cropland_ha_1000,LM,,12500.0,12980.0,1902.32
+Nepal,2021,NPL,,0.0,extrapolated_correlation,cropland_ha_1000,LM,11661126.0,1977.6584,3772.9584,2767.41
+Nicaragua,2021,NIC,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2737817.0,1799.0,5091.0,665.74
+Niger,2021,NER,,243256643.03982574,extrapolated_correlation,cropland_ha_1000,L,4128993.0,17813.0,46595.0,116.68
+Nigeria,2021,NGA,,660575923.3999809,extrapolated_correlation,cropland_ha_1000,LM,43100839.0,44581.5974,69753.5974,935.92
+Pakistan,2021,PAK,,449058678.0778815,extrapolated_correlation,cropland_ha_1000,LM,69500826.0,31014.0,36014.0,2232.34
+Papua New Guinea,2021,PNG,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,1215.0,1405.0,2713.86
+Philippines,2021,PHL,,139895723.99563897,extrapolated_correlation,cropland_ha_1000,LM,33819318.0,11183.0,12683.0,2448.64
+Rwanda,2021,RWA,,0.0,extrapolated_correlation,cropland_ha_1000,L,3849543.0,1618.4,2004.46,1803.66
+Samoa,2021,WSM,,0.0,extrapolated_correlation,cropland_ha_1000,LM,73112.0,43.0,49.41,1087.68
+São Tomé and Príncipe,2021,STP,,,missing,,LM,,,,
+Senegal,2021,SEN,,26526100.57341782,extrapolated_correlation,cropland_ha_1000,LM,4374177.0,3911.0,9511.0,505.3
+Sierra Leone,2021,SLE,,0.0,extrapolated_correlation,cropland_ha_1000,L,2270161.0,1749.0,3949.0,502.99
+Solomon Islands,2021,SLB,,0.0,extrapolated_correlation,cropland_ha_1000,LM,,112.0,120.0,1211.1
+Somalia,2021,SOM,,0.0,extrapolated_correlation,cropland_ha_1000,L,,1129.0,44129.0,52.88
+South Sudan,2021,SSD,,4212302.167996317,extrapolated_correlation,cropland_ha_1000,L,,2479.7,28252.7,131.78
+Sri Lanka,2021,LKA,,2533271.8541111127,extrapolated_correlation,cropland_ha_1000,LM,6986079.0,2372.0,2812.0,3220.26
+Sudan,2021,SDN,,296228568.40409416,extrapolated_correlation,cropland_ha_1000,L,,21210.84,112664.84,133.82
+Syrian Arab Republic,2021,SYR,,52611372.103022054,extrapolated_correlation,cropland_ha_1000,L,,5584.218,13913.376,501.6
+Tajikistan,2021,TJK,,0.0,extrapolated_correlation,cropland_ha_1000,LM,2114524.0,1042.0,3856.8,1243.5
+United Republic of Tanzania,2021,TZA,,207527750.99375224,extrapolated_correlation,cropland_ha_1000,LM,9997433.0,15521.2,39521.2,453.45
+Timor-Leste,2021,TLS,,0.0,extrapolated_correlation,cropland_ha_1000,LM,646448.0,191.4,341.4,471.88
+Togo,2021,TGO,,9517539.083642893,extrapolated_correlation,cropland_ha_1000,L,2524140.0,2820.0,3820.0,396.49
+Tunisia,2021,TUN,,42731783.12944077,extrapolated_correlation,cropland_ha_1000,LM,4716927.0,4950.5,9700.5,655.55
+Uganda,2021,UGA,,107421999.35475795,extrapolated_correlation,cropland_ha_1000,L,,9100.0,14415.0,904.42
+Ukraine,2021,UKR,,492133522.6207304,extrapolated_correlation,cropland_ha_1000,LM,51502258.0,33777.0,41311.0,1242.24
+Uzbekistan,2021,UZB,,34734173.556338534,extrapolated_correlation,cropland_ha_1000,LM,,4437.5,25690.6,950.58
+Vanuatu,2021,VUT,,0.0,extrapolated_correlation,cropland_ha_1000,LM,163708.0,145.0,187.0,571.41
+Viet Nam,2021,VNM,,148236310.97733426,extrapolated_correlation,cropland_ha_1000,LM,51965662.0,11718.0,12360.0,4227.76
+West Bank and Gaza,2021,,,,missing,,LM,,,,
+"Yemen, Rep.",2021,,,,missing,,L,,,,
+Zambia,2021,ZMB,,25403629.054385923,extrapolated_correlation,cropland_ha_1000,L,3187630.0,3839.0,23839.0,161.62

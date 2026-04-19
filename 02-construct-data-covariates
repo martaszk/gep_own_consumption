@@ -31,8 +31,42 @@ def load_gdp(path):
     # =Melt the filtered df_gdp to transform years from columns to rows
     df = df.melt(id_vars=['Country'], var_name='Year', value_name='GDP_capita')
     # Convert the 'year' column to integer, if it’s not already
-    df['Year'] = df['Year'].astype(int)
+    df['Year'] = df['Year'].astype(int)    # Rename to match df_cntry
+    df = df.rename(columns={'Country': 'name'})
+    return df
 
+
+def load_land_covariates(path):
+    """Load cropland/agricultural-land and productivity covariates from FAO."""
+    df = pd.read_csv(path, delimiter=';', encoding='utf-8')
+    df = df.rename(columns={'Area': 'name'})
+
+    land = df[df['Item'].isin(['Cropland', 'Agricultural land'])][['name', 'Year', 'Item', 'Value']].copy()
+    land = land.pivot_table(index=['name', 'Year'], columns='Item', values='Value', aggfunc='first').reset_index()
+    land = land.rename(columns={
+        'Cropland': 'cropland_ha_1000',
+        'Agricultural land': 'agricultural_land_ha_1000'
+    })
+
+    prod_area = df[df['Element'] == 'Value of agricultural production (Int. $) per Area'][['name', 'Year', 'Value']].copy()
+    prod_area = prod_area.rename(columns={'Value': 'ag_value_per_area_int_usd'})
+
+    out = pd.merge(land, prod_area, on=['name', 'Year'], how='outer')
+    return out
+
+
+def load_smallholder_covariates(path):
+    """Load regional smallholder land-share covariates from Lowder 2021."""
+    df = pd.read_csv(path, delimiter=';', encoding='utf-8')
+    df = df[df['Number or share of farms / agricultural area'] == 'share of agricultural area (%)'].copy()
+
+    for col in ['< 1 ha', '1–2 ha']:
+        df[col] = pd.to_numeric(df[col], errors='coerce')
+
+    df['smallholder_lt2ha_share_pct'] = df['< 1 ha'] + df['1–2 ha']
+    df = df[['Region', '< 1 ha', '1–2 ha', 'smallholder_lt2ha_share_pct']].copy()
+    df = df.rename(columns={'Region': 'region'})
+    return df
 ######################################################################
 # Section: Establish Base Data Set
 ######################################################################
@@ -57,6 +91,7 @@ df_cntry = pd.merge(df_cntry, df_iso3, on = ["name"], how = 'left')
 # Melt df_cntry as a long format of country-year pairs.
 df_cntry = df_cntry.melt(id_vars=["name", "alpha-2","alpha-3", "region", "sub-region"], 
                          var_name='Year', value_name='wb_income')
+df_cntry['Year'] = df_cntry['Year'].astype(int)
 
 # Keep if lower or lower-middle income country
 condition = (df_cntry["wb_income"] == "L") | (df_cntry["wb_income"] == "LM")
@@ -73,13 +108,22 @@ df_cntry = df_cntry[condition]
 
 # Bring in Commerical Agriculture
 df_com_agr = pd.read_csv('input/gross_prod_FAO_USD.csv', delimiter=',', encoding='utf-8')
+df_com_agr = df_com_agr.rename(columns={'Country': 'name'})
 # Bring in GDP measure
 df_gdp = load_gdp('input/WITS-Country-Timeseries.csv') 
+df_land = load_land_covariates('input/FAO_area_value.csv')
+df_smallholder = load_smallholder_covariates('input/lowder_2021.csv')
+
+# Convert WB class into modeling-friendly dummies
+df_cntry['is_low_income'] = (df_cntry['wb_income'] == 'L').astype(int)
+df_cntry['is_lower_middle_income'] = (df_cntry['wb_income'] == 'LM').astype(int)
 
 
 # TODO: Merge together the base ISO-3 long format with the possible covariates 
-df_covar = pd.merge(df_cntry, df_gdp, on=['Year', 'alpha-3'], how='left') # GDP
-df_covar = pd.merge(df_covar, df_com_agr, on=['Year', 'alpha-3'], how='left') # Commerical Agriculture
+df_covar = pd.merge(df_cntry, df_gdp, on=['Year', 'name'], how='left') # GDP
+df_covar = pd.merge(df_covar, df_com_agr, on=['Year', 'name'], how='left') # Commerical Agriculture
+df_covar = pd.merge(df_covar, df_land, on=['Year', 'name'], how='left')
+df_covar = pd.merge(df_covar, df_smallholder, on=['region'], how='left')
 
 ######################################################################
 # Section: Exporting Covariate Data

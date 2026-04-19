@@ -1,0 +1,18 @@
+# Local environment and secrets
+.env
+.env.*
+*.env
+
+# FAOSTAT credentials / tokens
+faostat-api-key.txt
+*faostat*key*.txt
+*faostat*token*.txt
+
+# Python virtual environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Quarto artifacts
+.quarto/

@@ -1,0 +1,66 @@
+{
+  "ARM": {
+    "country": "Armenia",
+    "gep_2019": 92378.56034322323
+  },
+  "BFA": {
+    "country": "Burkina Faso",
+    "gep_2019": 18909038.11301684
+  },
+  "CIV": {
+    "country": "C\u00c3\u00b4te d'Ivoire",
+    "gep_2019": 9641744.762184106
+  },
+  "ECU": {
+    "country": "Ecuador",
+    "gep_2019": 432573.5368955814
+  },
+  "GHA": {
+    "country": "Ghana",
+    "gep_2019": 37373457.10373032
+  },
+  "IND": {
+    "country": "India",
+    "gep_2019": 173234163.18730745
+  },
+  "IRQ": {
+    "country": "Iraq",
+    "gep_2019": 797472.8590364178
+  },
+  "MWI": {
+    "country": "Malawi",
+    "gep_2019": 31991934.33940029
+  },
+  "MLI": {
+    "country": "Mali",
+    "gep_2019": 6328902.87874328
+  },
+  "MNG": {
+    "country": "Mongolia",
+    "gep_2019": 214864.0502084896
+  },
+  "NER": {
+    "country": "Niger",
+    "gep_2019": 14141264.167823927
+  },
+  "NGA": {
+    "country": "Nigeria",
+    "gep_2019": 102873107.72029904
+  },
+  "PER": {
+    "country": "Peru",
+    "gep_2019": 357302.50240299583
+  },
+  "SEN": {
+    "country": "Senegal",
+    "gep_2019": 6635485.836207985
+  },
+  "SLE": {
+    "country": "Sierra Leone",
+    "gep_2019": 1580780.7678225448
+  },
+  "TZA": {
+    "country": "United Republic of Tanzania",
+    "gep_2019": 39341322.13529251
+  }
+}

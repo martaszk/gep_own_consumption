@@ -1,0 +1,6 @@
+
+Country Coverage:
+- Countries with 1 year of data: 2
+- Countries with 2 years of data: 3
+- Countries with 3+ years of data: 94
+- Total countries: 99

@@ -1,0 +1,114 @@
+This is the workflow for updating the analysis and generating the report. 
+Here we collaborate in recording the steps we take, issues that arise, and progress we make. 
+
+# Review and Update the analysis 
+
+1. Run the code through and look for mistakes.
+2. Update the interpolation and extrapolation using FAOSTAT data on eligible countries. 
+
+## Run Log — Initial Reproduction (2026-04-18)
+
+**Environment:** `natcapenv` conda environment (`C:\Users\ryanm\miniforge3\envs\natcapenv\python.exe`).  
+All scripts run from the repo root `e:\GEP\gep_own_consumption`.
+
+| Script | Status | Notes |
+|--------|--------|-------|
+| `00-gep-county-csv.py` | ✅ Pass | GDAL_DATA warning (non-fatal). Requires `../data/ee_r250_correspondence.gpkg` which must be present outside the repo. |
+| `01-construct-data-own-consume.py` | ✅ Pass | No issues. |
+| `02-construct-data-covariates` | ✅ Pass (after fixes) | **Bug fixed:** `load_gdp()` was missing `return df`. Merge keys were `alpha-3` but data uses country names — corrected to `name`. `df_cntry` Year column was `str` after melt — added `.astype(int)` cast. `gross_prod_FAO_USD.csv` `Country` column renamed to `name` before merge. |
+| `03-interplote-missing-data.py` | ✅ Pass (after fixes) | **Bug fixed (pandas 3.x compat):** `group['Country'].iloc[0]` inside `groupby().apply()` fails because the groupby key is excluded from the group in pandas 3.x — replaced with `group.name`. `reset_index(drop=True)` discarded Country after apply — changed to `reset_index(level=0).reset_index(drop=True)` to restore it as a column. |
+| `04-extrapolate-data.py` | ✅ Pass (after fix) | **Bug fixed:** Same `Year` dtype mismatch as script 02 — added `.astype(int)` after `df_cntry` melt. Note: extrapolation logic is a TODO stub; script only merges data and saves. |
+| `05-create-gep-panel.py` | ✅ Pass | Outputs `agr_subsitence_CWON.csv` and `agr_subsistence_adjusted_2020.csv` (GEP values in 2019 USD). |
+| `06-analyze-summary-stats.py` | ✅ Pass (after fixes) | **Bug fixed:** Column reference `gep_value_2020` → `gep_value_2019` to match actual output. `plt.show()` was called before `plt.savefig()` causing a blocking interactive window — removed `plt.show()` so script runs headlessly and saves figure to `output/yoy_change_subsistence_value.png`. |
+
+### Issue Resolution Log (Items 26–29)
+
+- `26) 04-extrapolate-data.py` RESOLVED:
+	Implemented extrapolation using `LinearRegression` on `Value` and `GDP_capita` trained on rows with non-missing `own_con2`. Predictions are clipped at zero and written to `./intermediates/data-own-consumption-extrapolation.csv` with `own_con_source` labels (`observed_or_interpolated`, `extrapolated`, `missing`).
+
+- `27) 03-interplote-missing-data.py` RESOLVED:
+	Added fallback interpolation for sparse countries (`len(known_points) <= degree`) using an own-consumption-to-commercial-production ratio. Viet Nam now has a valid `own_con2` record from its observed point. Verified output includes Viet Nam.
+
+- `28) alpha-3 mapping gaps` RESOLVED:
+	Replaced ad hoc ISO filling with normalized country-name matching against `ISO-3-codes.csv` (plus alias handling for `United Republic of Tanzania`). Applied in scripts 01, 03, and 04. Verification: `intermediates/data-own-consumption-interpolation-ISO.csv` now has `missing alpha3 = 0`.
+
+- `29) 02-construct-data-covariates` RESOLVED (within available repo data):
+	Expanded covariates beyond GDP and commercial agriculture by adding:
+	`cropland_ha_1000`, `agricultural_land_ha_1000`, `ag_value_per_area_int_usd` (from FAO area/value file),
+	`smallholder_lt2ha_share_pct` (from Lowder regional data),
+	`is_low_income` and `is_lower_middle_income` dummies (from WB class).
+	Output file: `./intermediates/data-covariates.csv`.
+
+### Post-fix verification snapshot
+
+- Pipeline run status: `01`–`06` all pass in `natcapenv`.
+- `data-own-consumption-interpolation-ISO.csv`: 63 rows, 33 countries, 0 missing `alpha-3`.
+- `data-own-consumption-extrapolation.csv`: 1610 rows, 116 countries (`901 extrapolated`, `49 observed_or_interpolated`, `660 missing` where predictors are unavailable).
+- `data-covariates.csv`: includes new covariates listed above (shape: 1610 x 28).
+
+## Extrapolation Upgrade (Python FAOSTAT + ML Benchmark)
+
+### What was implemented
+
+- Switched to Python package approach (`faostat` from PyPI) for FAOSTAT API integration in extrapolation.
+- Added a FAOSTAT feature ingestion layer in script `04-extrapolate-data.py` that attempts to download country-year regressors for:
+	- production,
+	- food security,
+	- food balance,
+	- consumer price index,
+	- diet affordability,
+	- sustainability,
+	- rural employment.
+- Added authentication hooks for `FAOSTAT_TOKEN` or `FAOSTAT_USERNAME` + `FAOSTAT_PASSWORD`.
+- Added multi-model benchmark with cross-validation and automated best-model selection.
+- Added report-ready output tables:
+	- `./results/extrapolation-model-performance.csv`
+	- `./results/extrapolation-model-performance.md`
+- Updated extrapolation output to use best model predictions and label source (`observed`, `interpolated`, `extrapolated`).
+
+### Current run result
+
+- FAOSTAT API credentials were not set in this environment, so run proceeded with local covariates only.
+- Best model (by CV RMSE): **Ridge**.
+- Source coverage after extrapolation:
+	- `extrapolated`: 1561
+	- `observed`: 49
+
+### Secure credentials + rerun (2026-04-18)
+
+- Added repository-level `.gitignore` to prevent accidental commit of local secret files (`*.env`, `faostat-api-key`, token/key text patterns).
+- Re-ran extrapolation using token from local file path `E:\personal\Education\faostat-api-key.txt` via environment variable (not hardcoded in scripts).
+- Verified token auth works (`FAOSTAT authentication configured via: token`).
+- Because live FAOSTAT API pulls can be very heavy, script now uses a safety switch:
+	- default `FAOSTAT_PULL_DATA=0` keeps run stable and uses local covariates.
+	- set `FAOSTAT_PULL_DATA=1` to attempt live FAOSTAT regressor download.
+
+### Files updated in this step
+
+- `04-extrapolate-data.py` (major rewrite)
+- `05-create-gep-panel.py` (already wired to consume extrapolation output)
+
+
+
+
+# Review and Update the paper 
+
+1. Read the paper and look for inconsistency
+2. Update with the new analysis  
+
+## Step 2 progress (first-pass draft update)
+
+- Updated `report.qmd` abstract with the current pipeline scope and first-pass quantitative outputs.
+- Rewrote Methods text for interpolation/extrapolation and model-selection workflow.
+- Replaced placeholder regression notes with model-comparison results (Linear, Ridge, Lasso, RF, GBM, ExtraTrees) and selected best model statement.
+- Updated Results narrative with current panel coverage and 2019 subsistence-crop GEP aggregate estimate.
+- Left Introduction as `TBD` for next draft pass.
+
+
+3. There are lots of zeros for country GEP. Why are these misssing? Can we fill them in. 
+
+# Place within the literature 
+
+1. Expand on the novelty of this.
+2. Re-frame the paper as necessary to be a short, lean paper with clear value. Never delete content, instead put as an appendix section. 
+	- Focus is on determinig reliance of subsistence agriculture on nature's provision to crop production. 

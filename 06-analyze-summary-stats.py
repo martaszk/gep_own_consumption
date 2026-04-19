@@ -1,41 +1,44 @@
-"""
-Purpose:
-This script analyzes the own consumption data panel. 
-It produces summary statistics. 
-It also compares the own consumption values to the commerical agricultural values. 
-"""
-import pandas as pd
+"""Create summary figures for the subsistence-crop GEP panel."""
+
 import matplotlib.pyplot as plt
-import seaborn as sns
-
-# Import GEP: Subsistence 
-
-# Load data
-data = pd.read_csv('./output/agr_subsistence_adjusted_2020.csv')
-
-# Calculate year-over-year absolute change for gep_value_2020
-data['gep_value_change'] = data.groupby('Country')['gep_value_2020'].diff()
+import pandas as pd
+from matplotlib.ticker import FuncFormatter
+from pathlib import Path
 
 
-# Plot Year-over-Year Absolute Change
-plt.figure(figsize=(12, 6))
-sns.lineplot(
-    data=data, 
-    x='Year', 
-    y='gep_value_change', 
-    hue='Country', 
-    marker='o', 
-    palette='tab10'
+ROOT = Path(__file__).resolve().parent
+
+
+def billions_formatter(value, _position):
+    return f"{value:.1f}"
+
+
+data = pd.read_csv(ROOT / 'output' / 'agr_subsitence_CWON.csv')
+annual_gep = data.groupby('Year', as_index=False)['gep_value'].sum()
+annual_gep['gep_billion_2019usd'] = annual_gep['gep_value'] / 1_000_000_000
+
+fig, ax = plt.subplots(figsize=(11, 5.5))
+ax.plot(
+    annual_gep['Year'],
+    annual_gep['gep_billion_2019usd'],
+    color='#1b7837',
+    linewidth=2.5,
+    marker='o',
+    markersize=5,
 )
-plt.title('Year-over-Year Change in GEP Value (2020 USD)', fontsize=16)
-plt.xlabel('Year', fontsize=14)
-plt.ylabel('Change in GEP Value (2020 USD)', fontsize=14)
-plt.axhline(0, color='gray', linestyle='--', linewidth=1)  # Add a horizontal line at 0
-plt.legend(title='Country')
-plt.grid()
-plt.show()
+ax.set_title('Global Subsistence-Crop GEP Over Time', fontsize=15)
+ax.set_xlabel('Year', fontsize=12)
+ax.set_ylabel('Global GEP (billion 2019 USD)', fontsize=12)
+ax.yaxis.set_major_formatter(FuncFormatter(billions_formatter))
+ax.set_xlim(annual_gep['Year'].min(), annual_gep['Year'].max())
+ax.grid(axis='y', color='#d9d9d9', linewidth=0.8)
+ax.spines['top'].set_visible(False)
+ax.spines['right'].set_visible(False)
 
-plt.savefig('./output/yoy_change_subsistence_value.png', dpi=300)
+fig.tight_layout()
+fig.savefig(ROOT / 'output' / 'global_gep_annual_levels.png', dpi=300)
+fig.savefig(ROOT / 'output' / 'global_gep_annual_levels.pdf')
+plt.close(fig)
 
 
 
