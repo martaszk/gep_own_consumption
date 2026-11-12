@@ -1,0 +1,7 @@
+# Python 3.12. Versions of the environment in which the results were checked (2026-11-11).
+pandas==2.2.2
+numpy==1.26.4
+openpyxl==3.1.5        # reads lowder_2021_country.xlsx (step 02)
+matplotlib==3.8.4      # figure and map of step 07
+shapely==2.0.4         # region outlines of the map of step 07
+PyYAML==6.0.1          # run_settings.yaml (run.py) and compare_runs.py

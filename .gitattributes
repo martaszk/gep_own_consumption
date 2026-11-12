@@ -1,0 +1,6 @@
+# Text files are stored and checked out with LF line endings.
+* text=auto eol=lf
+
+# Input data files are stored in Git LFS.
+input/*.csv filter=lfs diff=lfs merge=lfs -text
+input/*.gpkg filter=lfs diff=lfs merge=lfs -text

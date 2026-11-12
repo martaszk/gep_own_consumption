@@ -1,18 +1,35 @@
-# Local environment and secrets
-.env
-.env.*
-*.env
+# Pipeline results (one folder per run)
+results/
 
-# FAOSTAT credentials / tokens
-faostat-api-key.txt
-*faostat*key*.txt
-*faostat*token*.txt
+# Archives; input.zip is a local backup copy of input/
+*.zip
 
-# Python virtual environments and caches
+# Python: byte-compiled files and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Python: environments and packaging
 .venv/
 venv/
-__pycache__/
-*.pyc
+env/
+.env
+*.egg-info/
+build/
+dist/
 
-# Quarto artifacts
-.quarto/
+# Editors and operating system
+.vscode/
+.idea/
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Quarto renders of the Markdown files (e.g. changes.html with changes_files/)
+/*.html
+/*_files/
