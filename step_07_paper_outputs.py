@@ -18,7 +18,7 @@ from matplotlib.patches import Patch, PathPatch
 from matplotlib.path import Path
 
 import consts
-from utils import input_path
+from utils import input_path, load_iso
 
 
 def key_statistics(valued, column, base_year):
@@ -272,15 +272,41 @@ def plot_gep_map(valued, regions, column, base_year):
     return figure
 
 
-def run(subsistence):
+def base_year_crop_gep(crop_provision_panel, countries, base_year):
+    """List the base-year crop provision GEP per country (CWON rental rates already applied).
+
+    Args:
+        crop_provision_panel: Panel of step 06 (alpha-3, Year, gep_crop_total_<base year>,
+            gep_crop_subsistence_<base year>, gep_crop_total_minus_subsistence_<base year>).
+        countries: ISO table from ``utils.load_iso`` (name, alpha-3, m49).
+        base_year: ``consts.BASE_YEAR``.
+
+    Returns:
+        DataFrame with iso_numeric_code, iso3_r250_label, iso3_r250_name and the total, commercial and
+        subsistence GEP of the base year (USD of that year), sorted by numeric code.
+    """
+    suffix = '_%d' % base_year
+    rows = crop_provision_panel[crop_provision_panel['Year'] == base_year]
+    rows = rows.rename(columns={'gep_crop_total' + suffix: 'Total GEP crop %d' % base_year,
+                                'gep_crop_total_minus_subsistence' + suffix: 'Commercial GEP crop %d' % base_year,
+                                'gep_crop_subsistence' + suffix: 'Subsistence GEP crop %d' % base_year})
+    rows = rows.merge(countries[['alpha-3', 'm49', 'name']], on='alpha-3', how='left')
+    rows = rows.rename(columns={'m49': 'iso_numeric_code', 'alpha-3': 'iso3_r250_label', 'name': 'iso3_r250_name'})
+    columns = ['iso_numeric_code', 'iso3_r250_label', 'iso3_r250_name', 'Total GEP crop %d' % base_year,
+               'Commercial GEP crop %d' % base_year, 'Subsistence GEP crop %d' % base_year]
+    return rows[columns].sort_values('iso_numeric_code').reset_index(drop=True)
+
+
+def run(subsistence, crop_provision_panel):
     """Build the paper tables, figure and map, and print the coverage statistics.
 
     Args:
         subsistence: Subsistence GEP of step 06 (Country, alpha-3, Year, gep_value_<base year>).
+        crop_provision_panel: Crop provision panel of step 06.
 
     Returns:
-        Dict with ``table_key_statistics``, ``table_top_countries``, ``table_appendix``, ``figure_global_gep`` and
-        ``figure_gep_map`` (matplotlib Figures).
+        Dict with ``table_key_statistics``, ``table_top_countries``, ``table_appendix``, ``gep_crop_base_year``,
+        ``figure_global_gep`` and ``figure_gep_map`` (matplotlib Figures).
     """
     base_year = consts.BASE_YEAR
     column = 'gep_value_%d' % base_year
@@ -293,5 +319,6 @@ def run(subsistence):
     return {'table_key_statistics': statistics,
             'table_top_countries': top_countries(valued, column, base_year, consts.TOP_COUNTRIES),
             'table_appendix': appendix_table(valued, column, base_year),
+            'gep_crop_base_year': base_year_crop_gep(crop_provision_panel, load_iso(input_path('iso')), base_year),
             'figure_global_gep': plot_global_gep(valued, column, base_year),
             'figure_gep_map': plot_gep_map(valued, regions, column, base_year)}

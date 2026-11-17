@@ -57,7 +57,7 @@ def pipeline_steps():
             (5, step_05_own_consumption, ['smallholder_share', 'smallholder_share_panel', 'own_share_panel',
                                           'commercial_by_crop']),
             (6, step_06_gep_panel, ['own_consumption_panel', 'commercial_by_country']),
-            (7, step_07_paper_outputs, ['subsistence'])]
+            (7, step_07_paper_outputs, ['subsistence', 'crop_provision_panel'])]
 
 
 def parse_args():

@@ -325,6 +325,7 @@ OUTPUTS = {
     'table_key_statistics': 'table_01_key_statistics.csv',
     'table_top_countries': 'table_02_top_10_countries_{base_year}.csv',
     'table_appendix': 'table_03_appendix_all_countries.csv',
+    'gep_crop_base_year': 'gep_crop_{base_year}_by_country.csv',
     'figure_global_gep': 'figure_05_global_gep_annual_levels',
     'figure_gep_map': 'figure_06_subsistence_gep_map_{base_year}',
 }
