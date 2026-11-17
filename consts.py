@@ -106,15 +106,15 @@ V_SOURCE = 'commercial'
 V_BREAK_FIX = {}                    # sensitivity: {'EGY': 2018}
 
 # ---- Commercial crop provision (step 04) -------------------------------------------------------------------------
-METHOD = 'cwon'                     # 'gep' (the options below) or 'cwon' (CWON 2024 exactly; the options below
+METHOD = 'gep'                     # 'gep' (the options below) or 'cwon' (CWON 2024 exactly; the options below
                                     # are then not used)
 COMMERCIAL_FIRST_YEAR = 1995        # first year of the CWON rental rates (and of CWON's balance sheet)
-OUTLIER_RULE = 'world_median_ratio'    # 'world_median_ratio' (drop prices above MAX_RATIO_TO_WORLD_MEDIAN x the
+OUTLIER_RULE = 'cwon_iqr'            # 'world_median_ratio' (drop prices above MAX_RATIO_TO_WORLD_MEDIAN x the
                                     # world median; global_invest, crop_benefits), 'cwon_iqr' (CWON: prices at or
                                     # above the median + CWON_IQR_MULTIPLIER x IQR -> median) or 'none'
 CROP_LIST = 'faostat'               # 'faostat' (FAOSTAT QV primary crops minus group totals and processed
                                     # products) or 'cwon' (CWON's 159 wealth crops, land_crop_list.csv)
-VALUE_BASIS = 'reported_first'      # 'reported_first' (FAO reported value, production x price for the gaps) or
+VALUE_BASIS = 'production_x_price'  # 'reported_first' (FAO reported value, production x price for the gaps) or
                                     # 'production_x_price' (every crop-country-year at production x price)
 REGIONAL_PRICE = 'weighted_median'  # 'weighted_median' (weighted by each country's production) or 'median'
 USD_COPY_FX_TOLERANCE = 0.10        # a USD price equal to the SLC price is a copy unless |fx - 1| <= this
